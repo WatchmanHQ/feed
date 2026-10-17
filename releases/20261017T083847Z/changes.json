@@ -1,0 +1,172 @@
+{
+  "blocking_added": [
+    {
+      "type": "domain",
+      "value": "8yiu.kernel-lib.com"
+    },
+    {
+      "type": "domain",
+      "value": "bageyi.kernel-lib.com"
+    },
+    {
+      "type": "domain",
+      "value": "dnslog.kernel-lib.com"
+    },
+    {
+      "type": "ip",
+      "value": "100.38.125.66"
+    },
+    {
+      "type": "ip",
+      "value": "102.213.132.123"
+    },
+    {
+      "type": "ip",
+      "value": "102.222.146.45"
+    },
+    {
+      "type": "ip",
+      "value": "103.181.212.245"
+    },
+    {
+      "type": "ip",
+      "value": "103.197.249.161"
+    },
+    {
+      "type": "ip",
+      "value": "103.83.146.100"
+    },
+    {
+      "type": "ip",
+      "value": "111.92.128.89"
+    },
+    {
+      "type": "ip",
+      "value": "114.145.49.215"
+    },
+    {
+      "type": "ip",
+      "value": "120.244.160.182"
+    },
+    {
+      "type": "ip",
+      "value": "125.62.88.26"
+    },
+    {
+      "type": "ip",
+      "value": "130.12.182.7"
+    },
+    {
+      "type": "ip",
+      "value": "154.183.158.198"
+    },
+    {
+      "type": "ip",
+      "value": "154.241.254.9"
+    },
+    {
+      "type": "ip",
+      "value": "174.60.63.37"
+    },
+    {
+      "type": "ip",
+      "value": "183.63.88.227"
+    },
+    {
+      "type": "ip",
+      "value": "195.62.37.119"
+    },
+    {
+      "type": "ip",
+      "value": "207.48.184.10"
+    },
+    {
+      "type": "ip",
+      "value": "45.153.212.101"
+    },
+    {
+      "type": "ip",
+      "value": "46.233.40.20"
+    },
+    {
+      "type": "ip",
+      "value": "46.236.167.143"
+    },
+    {
+      "type": "ip",
+      "value": "46.33.33.95"
+    },
+    {
+      "type": "ip",
+      "value": "49.150.197.119"
+    },
+    {
+      "type": "ip",
+      "value": "78.190.152.64"
+    },
+    {
+      "type": "ip",
+      "value": "81.10.79.197"
+    },
+    {
+      "type": "ip",
+      "value": "82.167.14.7"
+    },
+    {
+      "type": "ip",
+      "value": "95.105.74.172"
+    },
+    {
+      "type": "md5",
+      "value": "31323e7e738230fa6a8deef2b7894666"
+    },
+    {
+      "type": "md5",
+      "value": "bf73c4391b58ca95220ce3ae03f66dcf"
+    },
+    {
+      "type": "md5",
+      "value": "ee89c99f3753231771170f5d9cbbae1e"
+    },
+    {
+      "type": "sha256",
+      "value": "9a58e8f49edf5644e5728f74cf36f560d3d486fa51db4db69d927963c7aca450"
+    },
+    {
+      "type": "sha256",
+      "value": "d2f9ef2429312667f0512504b6a19ba4a9cc5514f1b2933923dd42f75a1c5934"
+    },
+    {
+      "type": "url",
+      "value": "https://cloud.shinewrist.net/foo/Files1.html"
+    },
+    {
+      "type": "url",
+      "value": "https://promotion.storage-data.com/config/component.zip"
+    }
+  ],
+  "blocking_removed": [
+    {
+      "type": "domain",
+      "value": "66ds.lol",
+      "why": "reported as c2; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "scribblebubblebibi.top",
+      "why": "reported as c2; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "ip",
+      "value": "161.35.146.120",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "188.166.78.138",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    }
+  ],
+  "previous_release": "20261016T090601Z",
+  "release": "20261017T083847Z"
+}

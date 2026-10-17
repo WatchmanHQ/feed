@@ -1,0 +1,8 @@
+# WatchmanHQ confident/ips.txt  release 20261014T231444Z
+# Validated, and either reported as malicious by 2+ independent sources, or registered by the attacker shortly before a recent report. Check against your own traffic before enforcing.
+# IP addresses.
+# Valid until 2026-10-17 23:14 UTC. Do not enforce after that.
+# 0 entries. Sources for each: https://watchmanhq.com/watch/confident/
+# Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+# Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+# Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.

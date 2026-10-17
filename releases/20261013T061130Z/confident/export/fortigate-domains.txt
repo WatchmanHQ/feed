@@ -1,0 +1,30 @@
+# WatchmanHQ confident list, release 20261013T061130Z. Valid until 2026-10-16 06:11 UTC; refresh daily and stop using it after that.
+# Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+# Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+# Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.
+add-passkey.com
+*.add-passkey.com
+awqhnjewqjkl.icu
+*.awqhnjewqjkl.icu
+fdn4apex.com
+*.fdn4apex.com
+js-mirror.com
+*.js-mirror.com
+keysyncos.com
+*.keysyncos.com
+myconnectkey.com
+*.myconnectkey.com
+npm-cache.com
+*.npm-cache.com
+oskeyconnect.com
+*.oskeyconnect.com
+oskeysync.com
+*.oskeysync.com
+passkeyhelpdesk.com
+*.passkeyhelpdesk.com
+portalsetuphub.com
+*.portalsetuphub.com
+pypi-get.com
+*.pypi-get.com
+secure-passkey.com
+*.secure-passkey.com

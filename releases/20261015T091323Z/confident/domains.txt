@@ -1,0 +1,20 @@
+# WatchmanHQ confident/domains.txt  release 20261015T091323Z
+# Validated, and either reported as malicious by 2+ independent sources, or registered by the attacker shortly before a recent report. Check against your own traffic before enforcing.
+# Registered domains. Match the domain AND all of its subdomains.
+# Valid until 2026-10-18 09:13 UTC. Do not enforce after that.
+# 12 entries. Sources for each: https://watchmanhq.com/watch/confident/
+# Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+# Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+# Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.
+ascendpopdownloadtoday.monster
+asdfafadafg.online
+awqhnjewqjkl.icu
+boundpopclickgetfile.monster
+cyrna.top
+fdn4apex.com
+joinconnect.cfd
+jointhetalent.cfd
+js-mirror.com
+pdfsecurtoview.info
+pypi-get.com
+ruten.observer

@@ -1,0 +1,17 @@
+# WatchmanHQ confident list, release 20261016T090601Z. Valid until 2026-10-19 09:06 UTC; refresh daily and stop using it after that.
+# Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+# Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+# Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.
+# A hosts file blocks exact names only, not their subdomains.
+0.0.0.0 asdfafadafg.online
+0.0.0.0 awqhnjewqjkl.icu
+0.0.0.0 bobroviysmex.shop
+0.0.0.0 cyrna.top
+0.0.0.0 fdn4apex.com
+0.0.0.0 joinconnect.cfd
+0.0.0.0 jointhetalent.cfd
+0.0.0.0 js-mirror.com
+0.0.0.0 pdfsecurtoview.info
+0.0.0.0 pypi-get.com
+0.0.0.0 ruten.observer
+0.0.0.0 help.xenngypt.com
