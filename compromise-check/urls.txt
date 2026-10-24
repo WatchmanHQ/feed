@@ -1,0 +1,20 @@
+# WatchmanHQ compromise-check/urls.txt  release 20261024T085653Z
+# Already suspended or sinkholed, so blocking them does little. Search your DNS and proxy logs from the last 30 to 90 days: a device that looked one up is probably infected. NEVER use this as a block list.
+# Full URLs. Match exactly.
+# Valid until 2026-10-27 08:56 UTC. Do not enforce after that.
+# 12 entries. Sources for each: https://watchmanhq.com/watch/compromise-check/
+# Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+# Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+# Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.
+http://agenticsora.com/curl/
+http://agenticsora.com/dynamic?txd=
+https://1foqo.lat/core4
+https://agenticsora.com/loader/agent/
+https://agenticsora.com/loader/capture-agent/
+https://cloud.g-drive.cam/signin/v2/identifier?from=landing
+https://docsend.online/download/drivers
+https://download.alertbh.info/BH-Alert.apk
+https://kleinschnitg.com/F3bebOag/?id=email
+https://npm-cache.com:443/router
+https://stryper.info/aa.js
+https://stryper.info/t.ps1

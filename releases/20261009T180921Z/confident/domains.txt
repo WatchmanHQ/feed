@@ -1,0 +1,17 @@
+# intel-collector confident/domains.txt  release 20261009T180921Z
+# Reported as malicious by 2+ independent publishers and validated. Check against your own traffic before enforcing.
+# Registered domains. Match the domain AND all of its subdomains.
+# Valid until 2026-10-12 18:09 UTC. Do not enforce after that.
+# 12 entries. Evidence and reasons for each: indicators.json
+add-passkey.com
+awqhnjewqjkl.icu
+js-mirror.com
+keysyncos.com
+myconnectkey.com
+npm-cache.com
+oskeyconnect.com
+oskeysync.com
+passkeyhelpdesk.com
+portalsetuphub.com
+pypi-get.com
+secure-passkey.com

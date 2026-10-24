@@ -1,0 +1,55 @@
+# WatchmanHQ fresh/urls.txt  release 20261024T085653Z
+# Blocking domains and URLs first reported in the last 14 days, none taken down: the newest names, which free filtering resolvers have had the least time to add. Part of blocking: pilot in alert-only mode first.
+# Full URLs. Match exactly.
+# Valid until 2026-10-27 08:56 UTC. Do not enforce after that.
+# 47 entries. Sources for each: https://watchmanhq.com/watch/blocking/
+# Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+# Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+# Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.
+http://154.217.251.226:19999/flowise-hb
+http://162.33.178.213:8888/clear-thinking_61.92.4_INSTALL.exe
+http://167.148.201.106:725/fakeurl.htm
+http://193.149.187.81:1287/1.exe
+http://23.240.77.233:8084/acme/authz/1
+http://23.240.77.233:8084/acme/finalize/61924744/774083503
+http://23.240.77.233:8084/acme/new-acct
+http://23.240.77.233:8084/acme/order/11111
+http://23.240.77.233:8084/directory
+http://23.240.77.233:8085/pM.js
+http://47.18.167.159:8085/pM.js
+http://92.118.112.100/mountpoint
+http://92.118.112.100/nfs-setup
+http://grillmasterchef.com/90e4a147-1234-505c-a024-062e543b5df8/timer6
+http://www.litellm.dev/healthcheck
+https://213.145.86.112/s
+https://213.145.86.112/s?r=0f511e19
+https://213.145.86.112/s?r=7ed4bb1d
+https://213.145.86.112/t/pixel.gif?m=stage2_ctx_admin_la_true&r=r=
+https://213.145.86.112/t/pixel.gif?r=&m=stage2_entry8
+https://64.94.85.14:4321/endpoint
+https://agent.afahimsa.top/meshagents?id=4&meshid=DSZSDHzU1YSP83eNnHzSUfPPt5MFUC3UadztK7UJWbWttVfTo$auq8StiVu0p6ND&installflags=0
+https://api.cloudsettle.org/pin-data
+https://ccmihr.com/macos/jquery.js
+https://cloud.shinewrist.net/foo/Files1.html
+https://cubedesign.co.kr/mobile/fashion
+https://cubedesign.co.kr/news
+https://cubedesign.co.kr/news/AABBCC
+https://dobeqnesmot.cc/gate
+https://ehegisnightmare.icu/build/J2BkQFArlBUXf4MF/install.exe
+https://ehegisnightmare.icu/build/nTOugj-fWWMurYHg/bludness.exe
+https://fp-news.co.kr/shop/cart
+https://grillmasterchef.com/90e4a147-1234-505c-a024-062e543b5df8/v6
+https://hjazfioe.surf/gate
+https://k-wbc.co.kr/skin/social/social_view.php
+https://kiriosyka.com/KsxmmKiN5N0j/sqr-viewertr6
+https://liokida.com/KsxmmKiN5N0j/sqr-viewertr6z
+https://lygyaou.com/9AioLNhtdi.kumamoto-city.jp
+https://main.router-apex.com/updater.sh
+https://neihite.cc/gate
+https://promotion.storage-data.com/config/component.zip
+https://rcsh.co.kr/modules/bbs/tiles/bbs_div/inputForm.php
+https://sthyjk.com:8443/clear-thinking_61.92.4_INSTALL.exe
+https://update.apex-arena-router.com/loader.sh
+https://verify.apexfdn.xyz/macos/installer/terminal/interactive/bash
+https://vrf.apexaccs.org/api/v1/vrf
+https://www.ksog.org/insert_file/handle.php

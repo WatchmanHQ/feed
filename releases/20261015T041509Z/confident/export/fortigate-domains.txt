@@ -1,0 +1,27 @@
+# WatchmanHQ confident list, release 20261015T041509Z. Valid until 2026-10-18 04:15 UTC; refresh daily and stop using it after that.
+# Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+# Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+# Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.
+ascendpopdownloadtoday.monster
+*.ascendpopdownloadtoday.monster
+asdfafadafg.online
+*.asdfafadafg.online
+awqhnjewqjkl.icu
+*.awqhnjewqjkl.icu
+boundpopclickgetfile.monster
+*.boundpopclickgetfile.monster
+cyrna.top
+*.cyrna.top
+fdn4apex.com
+*.fdn4apex.com
+joinconnect.cfd
+*.joinconnect.cfd
+js-mirror.com
+*.js-mirror.com
+pdfsecurtoview.info
+*.pdfsecurtoview.info
+pypi-get.com
+*.pypi-get.com
+ruten.observer
+*.ruten.observer
+help.xenngypt.com
