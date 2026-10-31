@@ -1,0 +1,12 @@
+{
+  "blocking_added": [],
+  "blocking_removed": [
+    {
+      "type": "domain",
+      "value": "storage.hubpage.cloud",
+      "why": "reported as listed ioc; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    }
+  ],
+  "previous_release": "20261019T100149Z",
+  "release": "20261019T142218Z"
+}

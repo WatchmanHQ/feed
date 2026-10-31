@@ -1,0 +1,51 @@
+{
+  "blocking_added": [
+    {
+      "type": "domain",
+      "value": "ab.com"
+    },
+    {
+      "type": "domain",
+      "value": "archivetj.com"
+    }
+  ],
+  "blocking_removed": [
+    {
+      "type": "domain",
+      "value": "ytl99.vip",
+      "why": "reported as payload delivery; passed every safety check / held back by validation (REVIEW): registration data unavailable: HTTP 404"
+    },
+    {
+      "type": "ip",
+      "value": "107.175.82.242",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "176.53.159.40",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "193.178.159.128",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "194.87.89.30",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "85.137.243.49",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "98.142.252.140",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    }
+  ],
+  "previous_release": "20261024T085653Z",
+  "release": "20261025T091337Z"
+}

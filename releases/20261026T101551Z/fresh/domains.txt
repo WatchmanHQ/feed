@@ -1,0 +1,70 @@
+# WatchmanHQ fresh/domains.txt  release 20261026T101551Z
+# Blocking domains and URLs first reported in the last 14 days, none taken down: the newest names, which free filtering resolvers have had the least time to add. Part of blocking: pilot in alert-only mode first.
+# Registered domains. Match the domain AND all of its subdomains.
+# Valid until 2026-10-29 10:15 UTC. Do not enforce after that.
+# 62 entries. Sources for each: https://watchmanhq.com/watch/blocking/
+# Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+# Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+# Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.
+amazonyt.com
+archivetj.com
+beta-manus.com
+biesmanscars.biz
+budgetforge.ai
+choclatey.org
+cladesktop-apps.com
+claude-advertisement.com
+claudedev.net
+claudgodic.com
+code-desktop.com
+code-setup.com
+datamons.org
+dfwioeiofwr.info
+directindustry.duckdns.org
+dobeqnesmot.cc
+embersandbites.com
+gemini-beta-invitations.com
+gemini-beta-invites.com
+grillrecipespro.com
+hjazfioe.surf
+homelygrill.com
+install-copilot.com
+joinconnect.cfd
+joinconnect.works
+joinhire.cfd
+joinhire.info
+joinquest.info
+joinquest.works
+jointhetalent.cfd
+jointhetalent.info
+jointhetalent.works
+jointheteam.cfd
+kafeprog7.com
+kgbrat.org
+kiriosyka.com
+kkeyyou.cc
+lib1.biz
+liokida.com
+litellm.dev
+mbackend-mdye.onrender.com
+meta-claude.com
+monday-brief-claude.com
+nanejaojmnas.duckdns.org
+neihite.cc
+niceer.net
+openai-backup.one
+perfectgrillrecipes.com
+perplexity-beta-ads.com
+pymons.is
+pythonapischool.com
+rank1cdn.com
+refract3.com
+roi-traffic.icu
+setup-ollama.com
+stat30ffooo.xyz
+sthyjk.com
+supertrap.net
+thegrilljournal.com
+watchguard-ssl.online
+workerstats.net
+youtubechannelverification.com
