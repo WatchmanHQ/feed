@@ -1,0 +1,35 @@
+; WatchmanHQ confident list, release 20261014T093524Z. Valid until 2026-10-17 09:35 UTC; refresh daily and stop using it after that.
+; Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+; Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+; Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.
+$TTL 300
+@ IN SOA localhost. hostmaster.localhost. 1791970524 3600 600 86400 300
+@ IN NS localhost.
+add-passkey.com CNAME .
+*.add-passkey.com CNAME .
+awqhnjewqjkl.icu CNAME .
+*.awqhnjewqjkl.icu CNAME .
+fdn4apex.com CNAME .
+*.fdn4apex.com CNAME .
+js-mirror.com CNAME .
+*.js-mirror.com CNAME .
+keysyncos.com CNAME .
+*.keysyncos.com CNAME .
+myconnectkey.com CNAME .
+*.myconnectkey.com CNAME .
+npm-cache.com CNAME .
+*.npm-cache.com CNAME .
+oskeyconnect.com CNAME .
+*.oskeyconnect.com CNAME .
+oskeysync.com CNAME .
+*.oskeysync.com CNAME .
+passkeyhelpdesk.com CNAME .
+*.passkeyhelpdesk.com CNAME .
+portalsetuphub.com CNAME .
+*.portalsetuphub.com CNAME .
+pypi-get.com CNAME .
+*.pypi-get.com CNAME .
+secure-passkey.com CNAME .
+*.secure-passkey.com CNAME .
+sys-tools.cfd CNAME .
+*.sys-tools.cfd CNAME .

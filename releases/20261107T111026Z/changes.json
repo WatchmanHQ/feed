@@ -1,0 +1,165 @@
+{
+  "blocking_added": [
+    {
+      "type": "domain",
+      "value": "cer.septey.shop"
+    },
+    {
+      "type": "domain",
+      "value": "paleasbest.top"
+    },
+    {
+      "type": "ip",
+      "value": "178.16.54.129"
+    },
+    {
+      "type": "ip",
+      "value": "199.19.95.66"
+    },
+    {
+      "type": "ip",
+      "value": "199.19.95.67"
+    },
+    {
+      "type": "ip",
+      "value": "199.19.95.68"
+    },
+    {
+      "type": "ip",
+      "value": "31.77.229.35"
+    },
+    {
+      "type": "ip",
+      "value": "85.11.167.52"
+    },
+    {
+      "type": "ip",
+      "value": "85.11.168.45"
+    },
+    {
+      "type": "ip",
+      "value": "91.92.240.238"
+    },
+    {
+      "type": "sha256",
+      "value": "c5264f3b9cf2f95c83a70b7dd7430aab8abc262b853dbbcd5386c3a8a9c74769"
+    },
+    {
+      "type": "sha256",
+      "value": "c7ef186aa59b67d9b198a14f6dc8aaee6dd86510ac7c37d28f65d310cd846411"
+    },
+    {
+      "type": "url",
+      "value": "https://paleasbest.top/v1/api"
+    }
+  ],
+  "blocking_removed": [
+    {
+      "type": "domain",
+      "value": "xmsae.sbs",
+      "why": "popular site (xmsae.sbs is ranked #99531); often a victim, lure or abused service"
+    },
+    {
+      "type": "domain",
+      "value": "xshaon123.sbs",
+      "why": "popular site (xshaon123.sbs is ranked #99557); often a victim, lure or abused service"
+    },
+    {
+      "type": "ip",
+      "value": "103.157.217.38",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "112.213.108.85",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "128.199.127.217",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "14.128.47.81",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "154.18.187.160",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "154.217.250.206",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "154.219.127.94",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "156.239.230.120",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "166.88.95.90",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "185.189.45.40",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "199.30.90.154",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "202.146.222.253",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "203.91.77.253",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "218.25.85.177",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "218.25.85.178",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "23.148.212.237",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "43.134.165.205",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "59.46.4.117",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "59.46.4.119",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    }
+  ],
+  "previous_release": "20261106T121344Z",
+  "release": "20261107T111026Z"
+}

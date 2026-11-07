@@ -1,0 +1,11 @@
+add-passkey.com
+keysyncos.com
+myconnectkey.com
+npm-cache.com
+oskeyconnect.com
+oskeysync.com
+passkeyhelpdesk.com
+portalsetuphub.com
+secure-passkey.com
+sys-tools.cfd
+https://npm-cache.com:443/router

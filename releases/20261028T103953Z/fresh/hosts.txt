@@ -1,0 +1,82 @@
+# WatchmanHQ fresh/hosts.txt  release 20261028T103953Z
+# Blocking domains and URLs first reported in the last 14 days, none taken down: the newest names, which free filtering resolvers have had the least time to add. Part of blocking: pilot in alert-only mode first.
+# Exact host names. Match this name only, never its parent domain.
+# Valid until 2026-10-31 10:39 UTC. Do not enforce after that.
+# 74 entries. Sources for each: https://watchmanhq.com/watch/blocking/
+# Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+# Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+# Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.
+5200m.com
+accessor.fud2026.com
+acrobat-adobe-com-4464uswc.egllo.com
+agent.afahimsa.top
+api.cloudsettle.org
+aptabase.fud2026.xyz
+auth.login.office365.cloud.onedrive.outlook.atlarchitacts.com
+authorize.copilot.outlook.common.microsoft0365.atlarchitacts.com
+bashupload.com
+community.choclatey.org
+copilot.login.office365outlook.cloud.onedrive.atlarchitacts.com
+copilots.outlook.cloud.microsoft.syrosconstructlon.com
+cracked.to
+crax.pro
+docshare.auth.copilot.outlook.onedrive.common.earthlink-net.com
+docshare.auth.copilot.outlook.onedrive.common.evergreenerg.com
+docshare.auth.copilot.outlook.onedrive.common.northemheating.com
+docshare.auth.copilot.outlook.onedrive.common0.evergreenerg.com
+docshare.auth.copilot.outlookonedrive.common.northemheating.com
+docshare.auth2026.onedrive.outlooksdocument.csr-rooflng.com
+docshares.auth2026.outlookcommon.copilots.commm.csr-rooflng.com
+document.akiflx.com
+eccentric-authentication.com
+ecosys.newdocument2026.pdfdocshared.tntileandmarbleinc.com
+efaxdoc.auth.login.outlook.office365.tescoccontrols.com
+efaxdoc.auth.outlook2026common.copilos26.bettylnc.com
+efaxdoc.auth.outlook2026common.copilos26.ikextal-co-kr.com
+efaxdoc.auth.outlook2026common.copilos26.kone-inc.com
+efaxdoc.documents2026.cmc.docs.shared.matchlinemechanicallc.com
+efaxdoc.documents2026.docs.shared.lakeviewscustom.com
+filebin.net
+gate.dfwioeiofwr.info
+kilishy.qhigh.com
+kvision.ai
+liyuda.com
+login.microsoft365.outlook.copilotsoffice365.lntactpr.com
+login.office365outlooks.microsoft.cloud-outlook.naregruop.com
+m365cloud.login.outlook.office365.azgymfloor.com
+md.kleenghjah.com
+mesh.buttruyen.com
+mouphyweb.com
+net.dpworldto.com
+office0365login.2waky.com
+orders-amazon.com.advancedfences.com
+outlookoffice365.microsoftcopilots.vigilantlnc.com
+payapp.auth.outlook2026common.copilos26.bettylnc.com
+pdfdocshared.auth.outlook2026common.copilos26.ikextal-co-kr.com
+pdocshared.documents2026.docs.shared.ecmholdlnggroup.com
+pdocshared.payments2026.outlooks.common.ecmholdlnggroup.com
+pinkfels.shop
+pool-proxy.fud2026.com
+pool.fud2026.com
+reauth.copilot.auth.outlook.mcloud365.myhalnc.com
+reauth.copilot.common.outlook.mcloud365.atlarchitacts.com
+reauth.docs.copilot.auth02.outlook.mcloud365.argentventuras.com
+register.rsvpconnect-events.com
+roi777.com
+sdocshares.auth.outlook.copilos26.general.csr-rooflng.com
+sdocshares.auth.outlook2026common.copilos26.csr-rooflng.com
+sdocshares.authoutlooks.common.copilots2026.hathormson.com
+sedocs.docs.payrol2026.common.copilots2026.vatrarnsformer.com
+shared.paymentsclouds.statementsapproved.jetbusinesscapltal.com
+sirius.gldbrt.com
+slybee.com
+statement.docdriveoauth.authorized.copilot.syrosconstructlon.com
+statement.outlookoffice365.microsoftcopilots.calmechc.net
+statements.outlook.office365microsoft.payment.run.stoneclty.com
+tentkit.com
+thepaybank.com
+toplinebuy.com
+wsochares.authpayments.common.paid2026.bullochdirtwroks.com
+www.archivetj.com
+www.litellm.dev
+ydgjgdbhoa.shifts.icu

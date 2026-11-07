@@ -1,0 +1,100 @@
+{
+  "blocking_added": [
+    {
+      "type": "domain",
+      "value": "bybit-assessment.com"
+    },
+    {
+      "type": "ip",
+      "value": "134.209.82.225"
+    },
+    {
+      "type": "sha256",
+      "value": "06c5c14f043aee3bcc5843b5f50909623d5c9a6239a7c1fba9cddad4111469e7"
+    },
+    {
+      "type": "sha256",
+      "value": "7e0a52885fadee05544a9e99eb18c792bec05900a5e1a66d68f8383decb0e278"
+    },
+    {
+      "type": "sha256",
+      "value": "85b6c424117494d3056e88689dbc94c75e9afdb187a339714043aec0da109f17"
+    },
+    {
+      "type": "sha256",
+      "value": "ecb58cb29078d9646ad1dcdbe51526f2d9cfea06be5fb2ab183e8ecc3ab6bf15"
+    },
+    {
+      "type": "sha256",
+      "value": "f326201269f1ee2f803ae435317507263bb6e0dbfdeb70bd1bb5446e2e46f001"
+    },
+    {
+      "type": "url",
+      "value": "http://134.209.82.225:8099/beacon"
+    }
+  ],
+  "blocking_removed": [
+    {
+      "type": "domain",
+      "value": "kkeyyou.cc",
+      "why": "reported as listed ioc; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "ip",
+      "value": "104.248.244.66",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "108.61.163.187",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "117.107.25.243",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "162.33.178.9",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "192.255.193.111",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "193.149.176.207",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "193.42.40.135",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "216.245.184.164",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "45.32.30.235",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "45.61.136.143",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "66.227.183.84",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    }
+  ],
+  "previous_release": "20261030T105531Z",
+  "release": "20261031T102738Z"
+}

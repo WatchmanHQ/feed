@@ -1,0 +1,234 @@
+{
+  "blocking_added": [
+    {
+      "type": "domain",
+      "value": "celebration-internet.cc"
+    },
+    {
+      "type": "domain",
+      "value": "kkc.vogueatelier.cc"
+    },
+    {
+      "type": "domain",
+      "value": "lb.propertyfind.cc"
+    },
+    {
+      "type": "domain",
+      "value": "patched.to"
+    },
+    {
+      "type": "domain",
+      "value": "qbcares.com"
+    },
+    {
+      "type": "domain",
+      "value": "static.quorashift.cc"
+    },
+    {
+      "type": "ip",
+      "value": "144.172.101.72"
+    },
+    {
+      "type": "ip",
+      "value": "152.236.3.8"
+    },
+    {
+      "type": "ip",
+      "value": "152.236.4.14"
+    },
+    {
+      "type": "ip",
+      "value": "172.86.89.124"
+    },
+    {
+      "type": "ip",
+      "value": "206.223.230.107"
+    },
+    {
+      "type": "md5",
+      "value": "0585a54a7edc2b8d84de952c748b62d8"
+    },
+    {
+      "type": "md5",
+      "value": "05c510fc70d4bdeba2253d563720ff24"
+    },
+    {
+      "type": "md5",
+      "value": "0b079ef7bae438b67fc19a875d93a8e3"
+    },
+    {
+      "type": "md5",
+      "value": "0cf0271c3564881fce95f44c649bd745"
+    },
+    {
+      "type": "md5",
+      "value": "10c5864f075c24b64c69e60e79dd6cc1"
+    },
+    {
+      "type": "md5",
+      "value": "112d6bd5d93a3e7fbdacb77e775e7569"
+    },
+    {
+      "type": "sha1",
+      "value": "2c1d12f8bbe0827400a8440af74fffa8dcc8097c"
+    },
+    {
+      "type": "sha1",
+      "value": "936bb9b6a2f8e1cd149b33f4a16d8a927cd675de"
+    },
+    {
+      "type": "sha256",
+      "value": "2226f06646126f16779442632a472803e14e0d5bc5a7a22f172b8f58d3113593"
+    },
+    {
+      "type": "sha256",
+      "value": "28f046d9f985e58cbc8b245b54d4179feacecc12f41e2f6594306867ce3e8727"
+    },
+    {
+      "type": "sha256",
+      "value": "5250927806bc7087963d16298a341c301fa0f29f94cd6eb40518827ede3b04d4"
+    },
+    {
+      "type": "sha256",
+      "value": "73a25ff8893260418c2271b863c567e40e842adbab3c57023cb72de590ea377d"
+    },
+    {
+      "type": "sha256",
+      "value": "9e1a679ca45a149d2bd681cbb8ec3b1cc3d271fad51b092a3db5e5642eb6676b"
+    },
+    {
+      "type": "sha256",
+      "value": "c49dc64559ca84df2716113592b84ada7704e783a3e31b3ab42b531cc835e996"
+    },
+    {
+      "type": "url",
+      "value": "http://167.233.30.202/files/9je7p2.exe"
+    },
+    {
+      "type": "url",
+      "value": "http://167.233.30.202/files/swfe60.exe"
+    },
+    {
+      "type": "url",
+      "value": "http://167.233.30.202/files/wjpr1q.exe"
+    },
+    {
+      "type": "url",
+      "value": "http://167.233.30.202/files/xgc6jp.exe"
+    },
+    {
+      "type": "url",
+      "value": "http://hasansunnah.xyz/composer.dat"
+    },
+    {
+      "type": "url",
+      "value": "http://voedseltuinijplein.nl/composer.dat"
+    },
+    {
+      "type": "url",
+      "value": "https://hasansunnah.xyz/composer.dat"
+    },
+    {
+      "type": "url",
+      "value": "https://voedseltuinijplein.nl/composer.dat"
+    },
+    {
+      "type": "url",
+      "value": "https://webenvysolutions.com/composer.php"
+    }
+  ],
+  "blocking_removed": [
+    {
+      "type": "domain",
+      "value": "dcgfun.top",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "df45gdf48g.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "localcontex.online",
+      "why": "reported as payload delivery; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "m365-owa.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "ms365-device.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "ms365-live.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "myymk.cc",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "owa-ms365.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "se006.vip",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "103.160.59.97",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "103.245.231.248",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "103.245.231.79",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "103.27.110.220",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "2.57.241.246",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "45.84.59.66",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "89.125.209.168",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "url",
+      "value": "https://localcontex.online/AdobecloudReader/pdf_Reader_en_install.msi",
+      "why": "reported as payload delivery; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "url",
+      "value": "https://localcontex.online/review.signal-doc.cloud/.DocuSign/",
+      "why": "reported as payload delivery; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    }
+  ],
+  "previous_release": "20261029T105805Z",
+  "release": "20261030T105531Z"
+}

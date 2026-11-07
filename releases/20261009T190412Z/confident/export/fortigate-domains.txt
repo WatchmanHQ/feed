@@ -1,0 +1,25 @@
+# intel-collector confident list, release 20261009T190412Z. Valid until 2026-10-12 19:04 UTC; refresh daily and stop using it after that.
+add-passkey.com
+*.add-passkey.com
+awqhnjewqjkl.icu
+*.awqhnjewqjkl.icu
+js-mirror.com
+*.js-mirror.com
+keysyncos.com
+*.keysyncos.com
+myconnectkey.com
+*.myconnectkey.com
+npm-cache.com
+*.npm-cache.com
+oskeyconnect.com
+*.oskeyconnect.com
+oskeysync.com
+*.oskeysync.com
+passkeyhelpdesk.com
+*.passkeyhelpdesk.com
+portalsetuphub.com
+*.portalsetuphub.com
+pypi-get.com
+*.pypi-get.com
+secure-passkey.com
+*.secure-passkey.com

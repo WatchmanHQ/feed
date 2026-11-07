@@ -1,0 +1,37 @@
+# WatchmanHQ fresh/hosts.txt  release 20261024T085653Z
+# Blocking domains and URLs first reported in the last 14 days, none taken down: the newest names, which free filtering resolvers have had the least time to add. Part of blocking: pilot in alert-only mode first.
+# Exact host names. Match this name only, never its parent domain.
+# Valid until 2026-10-27 08:56 UTC. Do not enforce after that.
+# 29 entries. Sources for each: https://watchmanhq.com/watch/blocking/
+# Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+# Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+# Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.
+agent.afahimsa.top
+api.cloudsettle.org
+arena.apexaccs.org
+arena.apexfdn.xyz
+bashupload.com
+ccmihr.com
+community.choclatey.org
+cracked.to
+crax.pro
+filebin.net
+gate.dfwioeiofwr.info
+help.xenngypt.com
+last-version.install-2026.com
+main.router-apex.com
+md.kleenghjah.com
+mesh.buttruyen.com
+net.dpworldto.com
+orders-amazon.com.advancedfences.com
+pinkfels.shop
+register.rsvpconnect-events.com
+roi777.com
+sirius.gldbrt.com
+token.apexaccs.org
+update.apex-arena-router.com
+verify.apexfdn.xyz
+vrf.apexaccs.org
+www.archivetj.com
+www.litellm.dev
+ydgjgdbhoa.shifts.icu

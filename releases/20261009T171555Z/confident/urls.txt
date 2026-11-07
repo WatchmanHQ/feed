@@ -1,0 +1,6 @@
+# intel-collector confident/urls.txt  release 20261009T171555Z
+# Reported as malicious by 2+ independent publishers and validated. Check against your own traffic before enforcing.
+# Full URLs. Match exactly.
+# Valid until 2026-10-12 17:15 UTC. Do not enforce after that.
+# 1 entries. Evidence and reasons for each: indicators.json
+https://npm-cache.com:443/router

@@ -1,0 +1,3 @@
+rank1cdn.com
+update.apex-arena-router.com
+https://update.apex-arena-router.com/loader.sh

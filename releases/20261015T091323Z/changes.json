@@ -1,0 +1,15 @@
+{
+  "blocking_added": [
+    {
+      "type": "domain",
+      "value": "api.cloudsettle.org"
+    },
+    {
+      "type": "url",
+      "value": "https://api.cloudsettle.org/pin-data"
+    }
+  ],
+  "blocking_removed": [],
+  "previous_release": "20261015T041509Z",
+  "release": "20261015T091323Z"
+}

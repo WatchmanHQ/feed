@@ -1,0 +1,33 @@
+# WatchmanHQ confident list, release 20261021T044500Z. Valid until 2026-10-24 04:45 UTC; refresh daily and stop using it after that.
+# Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+# Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+# Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.
+# A hosts file blocks exact names only, not their subdomains.
+0.0.0.0 asdfafadafg.online
+0.0.0.0 awqhnjewqjkl.icu
+0.0.0.0 bobroviysmex.shop
+0.0.0.0 cyrna.top
+0.0.0.0 damaix9k.com
+0.0.0.0 dojaekrt.trade
+0.0.0.0 easybooters.com
+0.0.0.0 erifytrtr1.vip
+0.0.0.0 fdn4apex.com
+0.0.0.0 incoming.rent
+0.0.0.0 joinconnect.cfd
+0.0.0.0 jointhetalent.cfd
+0.0.0.0 js-mirror.com
+0.0.0.0 kaiangelsystems.rest
+0.0.0.0 matie-bal.club
+0.0.0.0 nextlanding.net
+0.0.0.0 nweenwew234.cc
+0.0.0.0 pdfsecurtoview.info
+0.0.0.0 pypi-get.com
+0.0.0.0 rabbids-sixseven.cc
+0.0.0.0 rank1cdn.com
+0.0.0.0 recap-check.org
+0.0.0.0 rocks56.com
+0.0.0.0 ruten.observer
+0.0.0.0 skibidistealer.team
+0.0.0.0 verifytrtr.vip
+0.0.0.0 vlad-nazarenko2004.club
+0.0.0.0 help.xenngypt.com
