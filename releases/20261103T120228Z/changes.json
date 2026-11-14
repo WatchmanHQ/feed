@@ -1,0 +1,164 @@
+{
+  "blocking_added": [
+    {
+      "type": "domain",
+      "value": "bd-devmetrics.net"
+    },
+    {
+      "type": "domain",
+      "value": "columbus2024.com"
+    },
+    {
+      "type": "domain",
+      "value": "dramapi.com"
+    },
+    {
+      "type": "domain",
+      "value": "edisajalsjfdfh.shop"
+    },
+    {
+      "type": "domain",
+      "value": "hastebin.com"
+    },
+    {
+      "type": "domain",
+      "value": "jaguar-distributor.logreporter.com"
+    },
+    {
+      "type": "domain",
+      "value": "netmansrvdns.com"
+    },
+    {
+      "type": "domain",
+      "value": "rivingtonclarks.com"
+    },
+    {
+      "type": "domain",
+      "value": "serv.host"
+    },
+    {
+      "type": "domain",
+      "value": "shaiosjdaln.shop"
+    },
+    {
+      "type": "domain",
+      "value": "shsuanalsjai.shop"
+    },
+    {
+      "type": "domain",
+      "value": "spiritlib.cyou"
+    },
+    {
+      "type": "domain",
+      "value": "winklenark.com"
+    },
+    {
+      "type": "domain",
+      "value": "wogglenift.com"
+    },
+    {
+      "type": "domain",
+      "value": "www.chestergreenfarming.com"
+    },
+    {
+      "type": "domain",
+      "value": "www.rivingtonclarks.com"
+    },
+    {
+      "type": "domain",
+      "value": "xmsae.sbs"
+    },
+    {
+      "type": "domain",
+      "value": "xshaon123.sbs"
+    },
+    {
+      "type": "ip",
+      "value": "219.134.163.210"
+    },
+    {
+      "type": "ip",
+      "value": "219.134.163.211"
+    },
+    {
+      "type": "ip",
+      "value": "23.94.49.57"
+    },
+    {
+      "type": "ip",
+      "value": "38.145.197.135"
+    },
+    {
+      "type": "md5",
+      "value": "abd0b6de6fdf78234f5dab098d5dd229"
+    },
+    {
+      "type": "md5",
+      "value": "d8971688d1929b6ed915b80eca7e7e3f"
+    }
+  ],
+  "blocking_removed": [
+    {
+      "type": "domain",
+      "value": "sectioncompil.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "www.google-apis.net",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "www.techcheck1.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "www.wangmeng66.top",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "www.wangmengsb.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "195.63.128.106",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "url",
+      "value": "http://178.16.54.109/st.exe",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "url",
+      "value": "https://cdn.uploadtourl.com/3b154d8e-61be-4521-b3c3-75efb845a2e2_msi_base64.txt",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "url",
+      "value": "https://sectioncompil.com/wkudpl/main.php",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "url",
+      "value": "https://sectioncompil.com/wkudpl/notarize.php",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "url",
+      "value": "https://sectioncompil.com/wkudpl/windows/download/AccountGuardSetup.zip",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "url",
+      "value": "https://sectioncompil.com/wkudpl/windows/manage.html",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    }
+  ],
+  "previous_release": "20261102T123638Z",
+  "release": "20261103T120228Z"
+}

@@ -1,0 +1,4 @@
+api.cloudsettle.org
+joinconnect.works
+joinhire.cfd
+https://api.cloudsettle.org/pin-data

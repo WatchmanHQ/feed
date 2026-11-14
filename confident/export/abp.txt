@@ -1,0 +1,56 @@
+! WatchmanHQ confident list, release 20261114T113639Z. Valid until 2026-11-17 11:36 UTC; refresh daily and stop using it after that.
+! Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+! Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+! Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.
+! ||name^ blocks the name and every name below it.
+||albertamo.com^
+||bandg-electrics.com^
+||beliefdesk.xyz^
+||bloomfleldcapital.com^
+||bramum.online^
+||cdn007-digitaldownloads.com^
+||centipedtourspa.com^
+||companyharbor.xyz^
+||datamons.org^
+||dobeqnesmot.cc^
+||dpincoli.com^
+||dutchfarrms.com^
+||fdn4apex.com^
+||frameworkmetrics.xyz^
+||gcotoncovingtoncontracting.com^
+||grillrecipespro.com^
+||hjazfioe.surf^
+||homelygrill.com^
+||ideahom.world^
+||incommecialre.com^
+||kiriosyka.com^
+||liokida.com^
+||naregruop.com^
+||neihite.cc^
+||off365mail.club^
+||paleasbest.top^
+||rank1cdn.com^
+||seatacsmarine.com^
+||signalpane.cfd^
+||stellarntis-fs.com^
+||thegrilljournal.com^
+||westlaw-signon.com^
+||youtubechannelverification.com^
+||acrobat-adobe-com-4464uswc.egllo.com^
+||api.cloudsettle.org^
+||api.frameworkmetrics.xyz^
+||cumminslogistic.kemalradio.com^
+||docshare.auth.copilot.outlook.onedrive.common.earthlink-net.com^
+||docshare.auth.copilot.outlook.onedrive.common.evergreenerg.com^
+||docshare.auth.copilot.outlook.onedrive.common.northemheating.com^
+||efaxdoc.documents2026.docs.shared.lakeviewscustom.com^
+||ftp.vietnam852.com^
+||kkc.vogueatelier.cc^
+||lb.propertyfind.cc^
+||login.office365outlooks.microsoft.cloud-outlook.naregruop.com^
+||ns.mo7sen.dev^
+||pdocshared.payments2026.outlooks.common.ecmholdlnggroup.com^
+||sc.payproofkit.com^
+||sdocshares.authoutlooks.common.copilots2026.hathormson.com^
+||www.hlushkova.top^
+||www.litellm.dev^

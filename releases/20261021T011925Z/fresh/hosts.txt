@@ -1,0 +1,42 @@
+# WatchmanHQ fresh/hosts.txt  release 20261021T011925Z
+# Blocking domains and URLs first reported in the last 14 days, none taken down: the newest names, which free filtering resolvers have had the least time to add. Part of blocking: pilot in alert-only mode first.
+# Exact host names. Match this name only, never its parent domain.
+# Valid until 2026-10-24 01:19 UTC. Do not enforce after that.
+# 34 entries. Sources for each: https://watchmanhq.com/watch/blocking/
+# Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+# Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+# Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.
+api.cloudsettle.org
+arena.apexaccs.org
+arena.apexfdn.xyz
+bashupload.com
+bbs.sunmoon.website
+beta.eggywall.cc
+ccmihr.com
+cgb.jingongbuxiao.com
+filebin.net
+flat-wildflower-f954.fondationanimalaidrelief.workers.dev
+green-firefly-ab28.icy-star-f45c.workers.dev
+help.xenngypt.com
+imap.sunmoon.website
+last-version.install-2026.com
+mail.sunmoon.website
+main.router-apex.com
+mx.sunmoon.website
+net.dpworldto.com
+oss.showtimetool.com
+pinkfels.shop
+roi777.com
+silent-wind-get.icy-star-f45c.workers.dev
+small-boat-969c.icy-star-f45c.workers.dev
+smtp.sunmoon.website
+token.apexaccs.org
+update.apex-arena-router.com
+verify.apexfdn.xyz
+vrf.apexaccs.org
+www.msedge.store
+www.mx.sunmoon.website
+www.smtp.sunmoon.website
+www.sunmoon.website
+www.www.smtp.sunmoon.website
+www.www.sunmoon.website

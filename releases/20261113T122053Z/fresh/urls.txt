@@ -1,0 +1,49 @@
+# WatchmanHQ fresh/urls.txt  release 20261113T122053Z
+# Blocking domains and URLs first reported in the last 14 days, none taken down: the newest names, which free filtering resolvers have had the least time to add. Part of blocking: pilot in alert-only mode first.
+# Full URLs. Match exactly.
+# Valid until 2026-11-16 12:20 UTC. Do not enforce after that.
+# 41 entries. Sources for each: https://watchmanhq.com/watch/blocking/
+# Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+# Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+# Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.
+http://103.79.79.191/yuze
+http://107.189.27.46:3000/app.js
+http://108.165.20.205:8080/sqlrun2.ps1
+http://129.146.87.174:18080/OJGWIP/son2.tar.gz
+http://129.146.87.174:18080/UzIwMH/forti-ca.txt
+http://129.146.87.174:18080/aN2MLr/forti_GB.txt
+http://129.146.87.174:18080/hJCdxq/popoc.py
+http://134.209.82.225:8099/beacon
+http://154.81.37.136/server.ps1
+http://166.0.25.106/filemanager.asp
+http://166.0.25.106/server.ps1
+http://167.233.30.202/files/9je7p2.exe
+http://167.233.30.202/files/swfe60.exe
+http://167.233.30.202/files/wjpr1q.exe
+http://167.233.30.202/files/xgc6jp.exe
+http://204.194.49.129:8080/ASK.exe
+http://204.194.49.129:8080/bdreinit.exe
+http://204.194.49.129:8080/log.dll
+http://204.194.49.129:8080/log.txt
+http://204.194.49.129:8080/qwdajhsd.asp
+http://8.219.82.21/yuze
+http://91.108.240.156:3000/app.js
+http://hasansunnah.xyz/composer.dat
+http://site.vietnam852.com:88/down.exe
+http://voedseltuinijplein.nl/composer.dat
+http://www.dumbsplash.com/ilto/
+http://www.hlushkova.top/ef5f/
+http://www.stanbicfinanceug.com/9wgi/
+https://api.frameworkmetrics.xyz/v1/analytics
+https://api.frameworkmetrics.xyz/v1/electron
+https://api.frameworkmetrics.xyz/v1/swarm/report
+https://creepexplosiondarknight.com/d
+https://gpimmlgration.com/static-export/api/device/start
+https://hasansunnah.xyz/composer.dat
+https://microsoft-flash.com/download/Adobe_installer.exe
+https://ns.mo7sen.dev/EadF.php
+https://ns.mo7sen.dev/EadF.php?p=4
+https://ns.mo7sen.dev/EadF.php?p=5
+https://paleasbest.top/v1/api
+https://voedseltuinijplein.nl/composer.dat
+https://webenvysolutions.com/composer.php

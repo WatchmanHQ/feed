@@ -1,0 +1,388 @@
+{
+  "checked": "2026-11-14T11:36:39.261163+00:00",
+  "collector": "2.1.0",
+  "counts": {
+    "blocking": 5644,
+    "compromise_check": 564,
+    "confident": 117,
+    "confident_by_path": {
+      "attacker-registered": 53,
+      "corroborated": 66
+    },
+    "enrichment": 7758,
+    "fresh": 92,
+    "hunting": 6050,
+    "named_in_attacks_not_blocked": 179,
+    "patch_now": 24,
+    "suppressed": 0,
+    "validation": {
+      "BLOCK_CANDIDATE": 5644,
+      "REVIEW": 637,
+      "TAKEN_DOWN": 564
+    }
+  },
+  "feeds": {
+    "ANY.RUN": {
+      "articles": 10,
+      "articles_with_indicators": 3,
+      "new_or_changed": 0,
+      "newest_article": "2026-11-12T10:19:35+00:00",
+      "ok": true
+    },
+    "AhnLab ASEC": {
+      "articles": 30,
+      "articles_with_indicators": 11,
+      "new_or_changed": 0,
+      "newest_article": "2026-11-11T15:00:00+00:00",
+      "ok": true
+    },
+    "Arctic Wolf": {
+      "articles": 10,
+      "articles_with_indicators": 0,
+      "new_or_changed": 0,
+      "newest_article": "2026-11-12T22:13:26+00:00",
+      "ok": true
+    },
+    "Bitdefender Labs": {
+      "articles": 15,
+      "articles_with_indicators": 12,
+      "new_or_changed": 0,
+      "newest_article": "2026-11-12T10:22:26+00:00",
+      "ok": true
+    },
+    "BleepingComputer": {
+      "articles": 15,
+      "articles_with_indicators": 1,
+      "new_or_changed": 5,
+      "newest_article": "2026-11-13T14:38:36-05:00",
+      "ok": true
+    },
+    "Censys": {
+      "articles": 10,
+      "articles_with_indicators": 3,
+      "new_or_changed": 0,
+      "newest_article": "2026-11-12T17:24:54+00:00",
+      "ok": true
+    },
+    "Check Point Research": {
+      "articles": 15,
+      "articles_with_indicators": 4,
+      "new_or_changed": 0,
+      "newest_article": "2026-11-12T13:56:37+00:00",
+      "ok": true
+    },
+    "Cisco Talos": {
+      "articles": 15,
+      "articles_with_indicators": 8,
+      "new_or_changed": 1,
+      "newest_article": "2026-11-13T20:57:13+00:00",
+      "ok": true
+    },
+    "Cyble": {
+      "articles": 10,
+      "articles_with_indicators": 3,
+      "new_or_changed": 0,
+      "newest_article": "2026-11-13T08:34:42+00:00",
+      "ok": true
+    },
+    "Darktrace": {
+      "articles": 30,
+      "articles_with_indicators": 28,
+      "new_or_changed": 0,
+      "newest_article": "2026-11-02T10:17:00+00:00",
+      "ok": true
+    },
+    "Datadog Security Labs": {
+      "articles": 30,
+      "articles_with_indicators": 11,
+      "new_or_changed": 0,
+      "newest_article": "2026-11-11T00:00:00+00:00",
+      "ok": true
+    },
+    "ESET WeLiveSecurity": {
+      "articles": 30,
+      "articles_with_indicators": 6,
+      "new_or_changed": 1,
+      "newest_article": "2026-11-13T10:00:00+00:00",
+      "ok": true
+    },
+    "Elastic Security Labs": {
+      "articles": 30,
+      "articles_with_indicators": 8,
+      "new_or_changed": 2,
+      "newest_article": "2026-11-13T16:00:00+00:00",
+      "ok": true
+    },
+    "Fortinet Threat Research": {
+      "articles": 10,
+      "articles_with_indicators": 9,
+      "new_or_changed": 0,
+      "newest_article": "2026-11-12T14:00:00+00:00",
+      "ok": true
+    },
+    "Gen Digital": {
+      "articles": 10,
+      "articles_with_indicators": 3,
+      "new_or_changed": 0,
+      "newest_article": "2026-11-12T15:10:55+00:00",
+      "ok": true
+    },
+    "Google Threat Intelligence / Mandiant": {
+      "articles": 20,
+      "articles_with_indicators": 8,
+      "new_or_changed": 0,
+      "newest_article": "2026-11-02T14:00:00+00:00",
+      "ok": true
+    },
+    "Group-IB": {
+      "articles": 30,
+      "articles_with_indicators": 14,
+      "new_or_changed": 0,
+      "newest_article": "2026-11-11T07:07:52+00:00",
+      "ok": true
+    },
+    "Huntress": {
+      "articles": 30,
+      "articles_with_indicators": 13,
+      "new_or_changed": 2,
+      "newest_article": "2026-11-14T01:50:00+00:00",
+      "ok": true
+    },
+    "Infoblox Threat Intel": {
+      "consecutive_failures": 9,
+      "error": "HTTP Error 404: Not Found",
+      "failing_since": "2026-11-06T12:13:44.740665+00:00",
+      "ok": false
+    },
+    "Jamf Threat Labs": {
+      "articles": 30,
+      "articles_with_indicators": 1,
+      "new_or_changed": 0,
+      "newest_article": "2026-11-09T20:06:00+00:00",
+      "ok": true
+    },
+    "K7 Labs": {
+      "articles": 1,
+      "articles_with_indicators": 0,
+      "new_or_changed": 0,
+      "newest_article": "2026-11-03T06:39:37+00:00",
+      "ok": true
+    },
+    "KrebsOnSecurity": {
+      "articles": 10,
+      "articles_with_indicators": 3,
+      "new_or_changed": 0,
+      "newest_article": "2026-11-11T18:06:01+00:00",
+      "ok": true
+    },
+    "Lab52": {
+      "consecutive_failures": 16,
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)>",
+      "failing_since": "2026-10-30T10:55:31.854830+00:00",
+      "ok": false
+    },
+    "Malware Traffic Analysis": {
+      "articles": 4,
+      "articles_with_indicators": 2,
+      "new_or_changed": 0,
+      "newest_article": "2026-11-13T00:38:00+00:00",
+      "ok": true
+    },
+    "Malwarebytes Labs": {
+      "articles": 20,
+      "articles_with_indicators": 0,
+      "new_or_changed": 2,
+      "newest_article": "2026-11-13T16:52:36+00:00",
+      "ok": true
+    },
+    "Microsoft Threat Intelligence": {
+      "articles": 10,
+      "articles_with_indicators": 7,
+      "new_or_changed": 1,
+      "newest_article": "2026-11-13T21:31:44+00:00",
+      "ok": true
+    },
+    "NVISO Labs": {
+      "articles": 10,
+      "articles_with_indicators": 0,
+      "new_or_changed": 0,
+      "newest_article": "2026-11-13T08:27:57+00:00",
+      "ok": true
+    },
+    "Netskope": {
+      "articles": 20,
+      "articles_with_indicators": 1,
+      "new_or_changed": 0,
+      "newest_article": "2026-11-11T01:24:37+00:00",
+      "ok": true
+    },
+    "Objective-See": {
+      "articles": 9,
+      "articles_with_indicators": 2,
+      "new_or_changed": 0,
+      "newest_article": "2026-10-18T00:00:00+00:00",
+      "ok": true,
+      "undated_skipped": 81
+    },
+    "Proofpoint Threat Insight": {
+      "articles": 10,
+      "articles_with_indicators": 6,
+      "new_or_changed": 0,
+      "newest_article": "2026-11-09T09:39:42-08:00",
+      "ok": true
+    },
+    "Rapid7": {
+      "articles": 20,
+      "articles_with_indicators": 4,
+      "new_or_changed": 1,
+      "newest_article": "2026-11-13T16:37:29+00:00",
+      "ok": true
+    },
+    "Recorded Future Insikt Group": {
+      "articles": 30,
+      "articles_with_indicators": 1,
+      "new_or_changed": 0,
+      "newest_article": "2026-11-12T00:00:00+00:00",
+      "ok": true
+    },
+    "Red Canary": {
+      "articles": 10,
+      "articles_with_indicators": 5,
+      "new_or_changed": 0,
+      "newest_article": "2026-08-20T20:09:55+00:00",
+      "ok": true
+    },
+    "ReversingLabs": {
+      "articles": 30,
+      "articles_with_indicators": 6,
+      "new_or_changed": 0,
+      "newest_article": "2026-11-12T10:00:00+00:00",
+      "ok": true
+    },
+    "SANS Internet Storm Center": {
+      "articles": 10,
+      "articles_with_indicators": 1,
+      "new_or_changed": 0,
+      "newest_article": "2026-11-13T03:41:41+00:00",
+      "ok": true
+    },
+    "Securelist": {
+      "articles": 10,
+      "articles_with_indicators": 4,
+      "new_or_changed": 0,
+      "newest_article": "2026-11-13T09:00:43+00:00",
+      "ok": true
+    },
+    "Sekoia": {
+      "articles": 30,
+      "articles_with_indicators": 7,
+      "new_or_changed": 0,
+      "newest_article": "2026-11-09T14:24:06+00:00",
+      "ok": true
+    },
+    "SentinelLabs": {
+      "articles": 10,
+      "articles_with_indicators": 3,
+      "new_or_changed": 0,
+      "newest_article": "2026-11-12T14:00:02+00:00",
+      "ok": true
+    },
+    "Seqrite": {
+      "articles": 10,
+      "articles_with_indicators": 1,
+      "new_or_changed": 0,
+      "newest_article": "2026-11-06T11:43:12+00:00",
+      "ok": true
+    },
+    "Silent Push": {
+      "articles": 10,
+      "articles_with_indicators": 2,
+      "new_or_changed": 2,
+      "newest_article": "2026-11-11T16:35:39+00:00",
+      "ok": true
+    },
+    "Socket": {
+      "articles": 10,
+      "articles_with_indicators": 3,
+      "new_or_changed": 0,
+      "newest_article": "2026-11-12T14:51:52.947000+00:00",
+      "ok": true
+    },
+    "Sophos Threat Research": {
+      "articles": 15,
+      "articles_with_indicators": 6,
+      "new_or_changed": 0,
+      "newest_article": "2026-11-11T00:00:00+00:00",
+      "ok": true
+    },
+    "Sucuri": {
+      "articles": 11,
+      "articles_with_indicators": 0,
+      "new_or_changed": 0,
+      "newest_article": "2026-10-31T19:19:57+00:00",
+      "ok": true
+    },
+    "Symantec Threat Intelligence": {
+      "articles": 10,
+      "articles_with_indicators": 9,
+      "new_or_changed": 0,
+      "newest_article": "2026-11-12T11:00:00+00:00",
+      "ok": true
+    },
+    "The DFIR Report": {
+      "articles": 6,
+      "articles_with_indicators": 6,
+      "new_or_changed": 0,
+      "newest_article": "2026-08-24T14:28:41+00:00",
+      "ok": true
+    },
+    "Trend Micro Research": {
+      "articles": 30,
+      "articles_with_indicators": 15,
+      "new_or_changed": 0,
+      "newest_article": "2026-09-25T00:00:00+00:00",
+      "ok": true
+    },
+    "Unit 42": {
+      "articles": 15,
+      "articles_with_indicators": 8,
+      "new_or_changed": 0,
+      "newest_article": "2026-11-12T15:00:31+00:00",
+      "ok": true
+    },
+    "Volexity": {
+      "articles": 7,
+      "articles_with_indicators": 7,
+      "new_or_changed": 0,
+      "newest_article": "2026-10-16T18:27:25+00:00",
+      "ok": true
+    },
+    "Zscaler ThreatLabz": {
+      "articles": 30,
+      "articles_with_indicators": 21,
+      "new_or_changed": 0,
+      "newest_article": "2026-10-28T16:11:02+00:00",
+      "ok": true
+    }
+  },
+  "last_good_release": "20261114T113639Z",
+  "newest_article_age_days": 0.4,
+  "patch_now": {
+    "alerts": 24,
+    "catalog_read": "2026-11-14T11:36:39.261163+00:00",
+    "catalog_version": "2026.11.13"
+  },
+  "problems": [],
+  "release": "20261114T113639Z",
+  "safelist_age_days": {
+    "cdn_ranges.txt": 0,
+    "public_suffixes.txt": 0,
+    "tranco.txt": 0
+  },
+  "status": "ok",
+  "valid_until": "2026-11-17T11:36:39.261163+00:00",
+  "warnings": [
+    "feed Infoblox Threat Intel has failed 9 runs in a row since 2026-11-06: HTTP Error 404: Not Found",
+    "feed Lab52 has failed 16 runs in a row since 2026-10-30: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)>"
+  ]
+}

@@ -1,0 +1,10 @@
+controller.rightwidth.dev
+file.rightwidth.dev
+ldb.rightwidth.dev
+rightwidth.dev
+upload.rightwidth.dev
+146.103.91.133
+157.185.143.150
+192.169.176.54
+68.178.202.150
+68.178.205.17

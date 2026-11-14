@@ -1,0 +1,666 @@
+{
+  "blocking_added": [
+    {
+      "type": "domain",
+      "value": "amazonyt.com"
+    },
+    {
+      "type": "domain",
+      "value": "biesmanscars.biz"
+    },
+    {
+      "type": "domain",
+      "value": "cracked.to"
+    },
+    {
+      "type": "domain",
+      "value": "crax.pro"
+    },
+    {
+      "type": "domain",
+      "value": "directindustry.duckdns.org"
+    },
+    {
+      "type": "domain",
+      "value": "embersandbites.com"
+    },
+    {
+      "type": "domain",
+      "value": "grillrecipespro.com"
+    },
+    {
+      "type": "domain",
+      "value": "homelygrill.com"
+    },
+    {
+      "type": "domain",
+      "value": "kiriosyka.com"
+    },
+    {
+      "type": "domain",
+      "value": "liokida.com"
+    },
+    {
+      "type": "domain",
+      "value": "litellm.dev"
+    },
+    {
+      "type": "domain",
+      "value": "md.kleenghjah.com"
+    },
+    {
+      "type": "domain",
+      "value": "nanejaojmnas.duckdns.org"
+    },
+    {
+      "type": "domain",
+      "value": "orders-amazon.com.advancedfences.com"
+    },
+    {
+      "type": "domain",
+      "value": "perfectgrillrecipes.com"
+    },
+    {
+      "type": "domain",
+      "value": "register.rsvpconnect-events.com"
+    },
+    {
+      "type": "domain",
+      "value": "sirius.gldbrt.com"
+    },
+    {
+      "type": "domain",
+      "value": "thegrilljournal.com"
+    },
+    {
+      "type": "domain",
+      "value": "www.archivetj.com"
+    },
+    {
+      "type": "domain",
+      "value": "www.litellm.dev"
+    },
+    {
+      "type": "domain",
+      "value": "ydgjgdbhoa.shifts.icu"
+    },
+    {
+      "type": "domain",
+      "value": "youtubechannelverification.com"
+    },
+    {
+      "type": "ip",
+      "value": "103.27.157.18"
+    },
+    {
+      "type": "ip",
+      "value": "103.89.12.159"
+    },
+    {
+      "type": "ip",
+      "value": "104.238.38.202"
+    },
+    {
+      "type": "ip",
+      "value": "104.239.66.128"
+    },
+    {
+      "type": "ip",
+      "value": "107.172.135.18"
+    },
+    {
+      "type": "ip",
+      "value": "109.242.9.165"
+    },
+    {
+      "type": "ip",
+      "value": "109.243.144.45"
+    },
+    {
+      "type": "ip",
+      "value": "13.140.161.91"
+    },
+    {
+      "type": "ip",
+      "value": "133.18.107.191"
+    },
+    {
+      "type": "ip",
+      "value": "135.136.141.43"
+    },
+    {
+      "type": "ip",
+      "value": "144.172.116.47"
+    },
+    {
+      "type": "ip",
+      "value": "144.31.48.132"
+    },
+    {
+      "type": "ip",
+      "value": "151.243.109.130"
+    },
+    {
+      "type": "ip",
+      "value": "155.103.71.146"
+    },
+    {
+      "type": "ip",
+      "value": "155.117.183.31"
+    },
+    {
+      "type": "ip",
+      "value": "160.191.50.145"
+    },
+    {
+      "type": "ip",
+      "value": "162.217.248.219"
+    },
+    {
+      "type": "ip",
+      "value": "162.243.3.92"
+    },
+    {
+      "type": "ip",
+      "value": "167.148.201.106"
+    },
+    {
+      "type": "ip",
+      "value": "172.245.246.86"
+    },
+    {
+      "type": "ip",
+      "value": "178.16.55.23"
+    },
+    {
+      "type": "ip",
+      "value": "185.114.206.45"
+    },
+    {
+      "type": "ip",
+      "value": "185.182.65.150"
+    },
+    {
+      "type": "ip",
+      "value": "185.196.8.145"
+    },
+    {
+      "type": "ip",
+      "value": "185.227.69.72"
+    },
+    {
+      "type": "ip",
+      "value": "185.238.191.37"
+    },
+    {
+      "type": "ip",
+      "value": "185.243.112.227"
+    },
+    {
+      "type": "ip",
+      "value": "185.69.122.235"
+    },
+    {
+      "type": "ip",
+      "value": "185.73.126.54"
+    },
+    {
+      "type": "ip",
+      "value": "188.215.229.24"
+    },
+    {
+      "type": "ip",
+      "value": "192.109.200.221"
+    },
+    {
+      "type": "ip",
+      "value": "194.156.79.151"
+    },
+    {
+      "type": "ip",
+      "value": "194.156.79.168"
+    },
+    {
+      "type": "ip",
+      "value": "194.156.79.203"
+    },
+    {
+      "type": "ip",
+      "value": "194.26.192.101"
+    },
+    {
+      "type": "ip",
+      "value": "194.59.30.175"
+    },
+    {
+      "type": "ip",
+      "value": "195.226.92.129"
+    },
+    {
+      "type": "ip",
+      "value": "198.46.173.36"
+    },
+    {
+      "type": "ip",
+      "value": "2.27.62.140"
+    },
+    {
+      "type": "ip",
+      "value": "2.27.63.150"
+    },
+    {
+      "type": "ip",
+      "value": "203.202.232.59"
+    },
+    {
+      "type": "ip",
+      "value": "207.180.232.206"
+    },
+    {
+      "type": "ip",
+      "value": "209.50.250.33"
+    },
+    {
+      "type": "ip",
+      "value": "209.99.187.200"
+    },
+    {
+      "type": "ip",
+      "value": "213.49.31.253"
+    },
+    {
+      "type": "ip",
+      "value": "217.160.43.170"
+    },
+    {
+      "type": "ip",
+      "value": "23.160.168.174"
+    },
+    {
+      "type": "ip",
+      "value": "24.157.199.215"
+    },
+    {
+      "type": "ip",
+      "value": "31.40.204.71"
+    },
+    {
+      "type": "ip",
+      "value": "38.240.51.143"
+    },
+    {
+      "type": "ip",
+      "value": "38.240.51.74"
+    },
+    {
+      "type": "ip",
+      "value": "45.153.34.146"
+    },
+    {
+      "type": "ip",
+      "value": "45.153.34.168"
+    },
+    {
+      "type": "ip",
+      "value": "45.154.98.251"
+    },
+    {
+      "type": "ip",
+      "value": "46.16.34.62"
+    },
+    {
+      "type": "ip",
+      "value": "5.181.80.130"
+    },
+    {
+      "type": "ip",
+      "value": "5.181.82.130"
+    },
+    {
+      "type": "ip",
+      "value": "64.89.160.4"
+    },
+    {
+      "type": "ip",
+      "value": "66.94.102.6"
+    },
+    {
+      "type": "ip",
+      "value": "77.91.65.188"
+    },
+    {
+      "type": "ip",
+      "value": "80.234.41.242"
+    },
+    {
+      "type": "ip",
+      "value": "84.54.33.26"
+    },
+    {
+      "type": "ip",
+      "value": "85.158.110.116"
+    },
+    {
+      "type": "ip",
+      "value": "85.17.116.195"
+    },
+    {
+      "type": "ip",
+      "value": "86.216.147.228"
+    },
+    {
+      "type": "ip",
+      "value": "91.236.186.56"
+    },
+    {
+      "type": "ip",
+      "value": "91.92.120.61"
+    },
+    {
+      "type": "ip",
+      "value": "95.164.55.74"
+    },
+    {
+      "type": "ip",
+      "value": "95.31.217.8"
+    },
+    {
+      "type": "md5",
+      "value": "0bcdf5e0da32d68900b8b7638459d072"
+    },
+    {
+      "type": "sha1",
+      "value": "08a69dd233ac6f4b83aff34cfcb2984590e2670a"
+    },
+    {
+      "type": "sha256",
+      "value": "0164d7ceae5bb909c272af151ff44b1177ae9b47d9424b94f1d9558c30934d19"
+    },
+    {
+      "type": "sha256",
+      "value": "035d396b3a329f59d680dc36a0a639eb7fb306bea97e42f5f53293dce817e8b7"
+    },
+    {
+      "type": "sha256",
+      "value": "0aaf7ba346d41ef2f40390436738b001180d5a1c03aa093f121078a9969d9a1a"
+    },
+    {
+      "type": "sha256",
+      "value": "12d4ccc5c6f8d35cf4f2cf233b7f3e418e863e657d81ff5f5fc9e210005b9484"
+    },
+    {
+      "type": "sha256",
+      "value": "1bbcb1443bc962e45f5aad53fe3d2c30600e0379715fb6c664cdd3ac126c339e"
+    },
+    {
+      "type": "sha256",
+      "value": "1bbce8caa94f01c0aaa0b7ddae51553a8a32e1ce53d96d44fe583272aff7ad00"
+    },
+    {
+      "type": "sha256",
+      "value": "24a293a662600b2292d9259baebba1c09b41df82a5c9c20f8572625ae759696f"
+    },
+    {
+      "type": "sha256",
+      "value": "2eced97bf1395c1560fce05971a3400e0718a3bb70aadb5c2323121cdf6d19a2"
+    },
+    {
+      "type": "sha256",
+      "value": "408b7fc4f08f2a9044046025f05995e8cbd5c96c39844aaa8a7eb8ee4697ea89"
+    },
+    {
+      "type": "sha256",
+      "value": "42527a4388ef4ade6f4eaf52706f0ab31cb4e9ced3a56a6b15402551f9f01208"
+    },
+    {
+      "type": "sha256",
+      "value": "42c4accd12c4f59597925e1a08a7a90102608543809308d50ec427e118ba1493"
+    },
+    {
+      "type": "sha256",
+      "value": "432ec25f0d28de9006d97bf752f17bbb2cd41f669933fcb072d9a1148d0261f3"
+    },
+    {
+      "type": "sha256",
+      "value": "462d0c9f67ca522d9e0e4acd245e90b36ce0d5353604a66bb7c43a1ec4a6fcf7"
+    },
+    {
+      "type": "sha256",
+      "value": "4b2460a466f95fd40113bcdcca2ceb29b3b093921de45474da7df48874c630b1"
+    },
+    {
+      "type": "sha256",
+      "value": "4fbbb632e08fde2aed8401ffcae9e45627d87084335ac88eb4c25088f0708b79"
+    },
+    {
+      "type": "sha256",
+      "value": "56b74573eed6e4aafe4b50603dbe7853e0345f188c8e44a09f1098caf1f4bcdf"
+    },
+    {
+      "type": "sha256",
+      "value": "668169d35b87bf51324080390b1b1c5ab12bd335cfe5f1a99e3689abd5e02ae6"
+    },
+    {
+      "type": "sha256",
+      "value": "7598727f209d717041db37f7dca271d3a7d328a279890e0e1d55375729aeb86d"
+    },
+    {
+      "type": "sha256",
+      "value": "87a047160eb1a9b92e6ede511252dfc624b0f5a7185ac2cec1c7ebde8cdf4eea"
+    },
+    {
+      "type": "sha256",
+      "value": "891cc3ca2d29e9b185a8913e93810f48859d2be1f23ddd977a15cdbeed509e0e"
+    },
+    {
+      "type": "sha256",
+      "value": "903fdebedf8976c8f6f937ab02e86dd73e5386120b6ec257bc9b2ff57a653cee"
+    },
+    {
+      "type": "sha256",
+      "value": "98b896625c0c230adeec3eb2cf6aad5001ecf9156a68644e82374ce5833bc25b"
+    },
+    {
+      "type": "sha256",
+      "value": "9e39de2881273acc225a149c72ba3e0f51424963669ab633ee1dc7df5db067b4"
+    },
+    {
+      "type": "sha256",
+      "value": "b720a5e7c3a5b1760d15a8833a782f4fe7fc5c62b967fe57f607e72745ec0ccf"
+    },
+    {
+      "type": "sha256",
+      "value": "b8419a676a3d4af04ea98287a2b85052fae5c06e6278ca9d8bfa4b5b396b39a6"
+    },
+    {
+      "type": "sha256",
+      "value": "bc9e2dac08fb4f83dddb44f89bf7082bb4134697fbf6a99ad8ce30c634e9fe8a"
+    },
+    {
+      "type": "sha256",
+      "value": "bd1aeee419ea36da9aa2b657288da4101887be468f020ac63d22ba6ed84a3ea5"
+    },
+    {
+      "type": "sha256",
+      "value": "c206fa613257110b0522b60b402ca0b35da2cb126113e47b67543ba3ff93c53c"
+    },
+    {
+      "type": "sha256",
+      "value": "c2e32d0ce2548aa662c18bf5001911a79fe5b30cf8357132275add02fdcde054"
+    },
+    {
+      "type": "sha256",
+      "value": "cb6e15165ac802e9b3f993f16c25d41f4e81c21ebde71ae1b012ac00bf9c7c3f"
+    },
+    {
+      "type": "sha256",
+      "value": "d864b28c302db9ed10baf8def0fb26bac0b97d27349d22c4e9390d30fce54649"
+    },
+    {
+      "type": "sha256",
+      "value": "f7f28ef35e6becde12c319b90acfc98ec25bfa9acb17b534cd68f8c5f732fde2"
+    },
+    {
+      "type": "sha256",
+      "value": "fcde1323acceb46fd88f2276c010bb98839dccce03dc512c56d9529428ceec68"
+    },
+    {
+      "type": "url",
+      "value": "http://167.148.201.106:725/fakeurl.htm"
+    },
+    {
+      "type": "url",
+      "value": "http://grillmasterchef.com/90e4a147-1234-505c-a024-062e543b5df8/timer6"
+    },
+    {
+      "type": "url",
+      "value": "http://www.litellm.dev/healthcheck"
+    },
+    {
+      "type": "url",
+      "value": "https://grillmasterchef.com/90e4a147-1234-505c-a024-062e543b5df8/v6"
+    },
+    {
+      "type": "url",
+      "value": "https://kiriosyka.com/KsxmmKiN5N0j/sqr-viewertr6"
+    },
+    {
+      "type": "url",
+      "value": "https://liokida.com/KsxmmKiN5N0j/sqr-viewertr6z"
+    }
+  ],
+  "blocking_removed": [
+    {
+      "type": "domain",
+      "value": "9i6pokerdepot.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "connect.conditiongrade.xyz",
+      "why": "reported as listed ioc; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "connect.seashoreletters.info",
+      "why": "reported as listed ioc; passed every safety check / held back by validation (REVIEW): registration data unavailable: HTTP 404"
+    },
+    {
+      "type": "domain",
+      "value": "connect.shoptax.xyz",
+      "why": "reported as listed ioc; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "connect.structurekiss.xyz",
+      "why": "reported as listed ioc; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "connect.tanksuggestion.xyz",
+      "why": "reported as listed ioc; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "connect.vacationthought.xyz",
+      "why": "reported as listed ioc; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "connect.woolreward.xyz",
+      "why": "reported as listed ioc; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "incoming.rent",
+      "why": "reported as c2; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "indeed-jobs.net",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "konradkerz40000.work",
+      "why": "reported as c2; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "linkedall.org",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "macfilecloud8.com",
+      "why": "reported as c2; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "skibidiclipper.pw",
+      "why": "reported as c2; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "vlad-nazarenko2004.club",
+      "why": "reported as c2; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "zxcwork.com",
+      "why": "reported as c2; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "ip",
+      "value": "104.164.55.46",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "146.70.117.239",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "149.102.229.154",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "192.42.116.12",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "192.42.116.50",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "192.42.116.52",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "192.42.116.56",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "192.42.116.97",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "37.19.210.12",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "64.190.76.14",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    }
+  ],
+  "previous_release": "20261021T092555Z",
+  "release": "20261022T092900Z"
+}

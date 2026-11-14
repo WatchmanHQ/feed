@@ -1,0 +1,90 @@
+{
+  "blocking_added": [
+    {
+      "type": "domain",
+      "value": "fastcdn.bar"
+    },
+    {
+      "type": "domain",
+      "value": "media.fastcdn.bar"
+    },
+    {
+      "type": "ip",
+      "value": "104.234.26.163"
+    },
+    {
+      "type": "ip",
+      "value": "108.165.147.64"
+    },
+    {
+      "type": "ip",
+      "value": "154.217.251.226"
+    },
+    {
+      "type": "ip",
+      "value": "185.186.245.144"
+    },
+    {
+      "type": "md5",
+      "value": "09e1da2afa1216ecc55648ec8e122d2a"
+    },
+    {
+      "type": "md5",
+      "value": "0bbd08af95f877f1d568b03de2eb76b4"
+    },
+    {
+      "type": "md5",
+      "value": "2770562d104391b92b42671c270079bb"
+    },
+    {
+      "type": "md5",
+      "value": "74f57b3e897a4960dcdd5b7e8a54f9df"
+    },
+    {
+      "type": "md5",
+      "value": "805b9e4ae74c903787416800999b8418"
+    },
+    {
+      "type": "md5",
+      "value": "d726a8b4886c636f76ca6d30ef6a6ff4"
+    },
+    {
+      "type": "url",
+      "value": "http://154.217.251.226:19999/flowise-hb"
+    }
+  ],
+  "blocking_removed": [
+    {
+      "type": "domain",
+      "value": "awqhnjewqjkl.icu",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "ftabnews.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "js-mirror.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "pypi-get.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "url",
+      "value": "https://solthere.net/api/v1/redeem",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "url",
+      "value": "https://solthere.net/justacoolkat10",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    }
+  ],
+  "previous_release": "20261101T112219Z",
+  "release": "20261102T123638Z"
+}

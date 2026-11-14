@@ -1,0 +1,57 @@
+# WatchmanHQ fresh/domains.txt  release 20261112T125413Z
+# Blocking domains and URLs first reported in the last 14 days, none taken down: the newest names, which free filtering resolvers have had the least time to add. Part of blocking: pilot in alert-only mode first.
+# Registered domains. Match the domain AND all of its subdomains.
+# Valid until 2026-11-15 12:54 UTC. Do not enforce after that.
+# 49 entries. Sources for each: https://watchmanhq.com/watch/blocking/
+# Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+# Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+# Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.
+aauctioneer.com
+ads-it-assets.com
+adsprism-stat.com
+aistei.com
+assets-int.com
+bd-devmetrics.net
+beliefdesk.xyz
+bybit-assessment.com
+cdn007-digitaldownloads.com
+celebration-internet.cc
+columbus2024.com
+companyharbor.xyz
+creepexplosiondarknight.com
+dramapi.com
+edisajalsjfdfh.shop
+faceorkut.com
+fastcdn.bar
+frameworkmetrics.xyz
+haimnsgsjhansj.shop
+icedhatch.top
+icedhatch.xyz
+icedout.top
+jamvybez.com
+kenobuias.com
+microscoft.vip
+microsfot.vip
+msrcontrib.com
+oscofneuid.com
+paleasbest.top
+plaineagle.xyz
+qbcares.com
+rivingtonclarks.com
+sdoisanadf.shop
+shaiosjdaln.shop
+shsuanalsjai.shop
+signalpane.cfd
+sogou-cdn.com
+spiritlib.cyou
+taprkr.com
+teams-cloud.live
+teams-livemeeting.com
+theowo.club
+univalley.top
+westlaw-signon.com
+windefender.net
+winklenark.com
+wishgrove.cfd
+wogglenift.com
+wpvortex-mod.com

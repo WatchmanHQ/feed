@@ -1,0 +1,35 @@
+! WatchmanHQ confident list, release 20261025T091337Z. Valid until 2026-10-28 09:13 UTC; refresh daily and stop using it after that.
+! Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+! Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+! Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.
+! ||name^ blocks the name and every name below it.
+||asdfafadafg.online^
+||awqhnjewqjkl.icu^
+||bobroviysmex.shop^
+||cyrna.top^
+||damaix9k.com^
+||dobeqnesmot.cc^
+||dojaekrt.trade^
+||easybooters.com^
+||erifytrtr1.vip^
+||fdn4apex.com^
+||hjazfioe.surf^
+||joinconnect.cfd^
+||jointhetalent.cfd^
+||js-mirror.com^
+||kaiangelsystems.rest^
+||matie-bal.club^
+||neihite.cc^
+||nextlanding.net^
+||nweenwew234.cc^
+||pypi-get.com^
+||rabbids-sixseven.cc^
+||rank1cdn.com^
+||recap-check.org^
+||rocks56.com^
+||ruten.observer^
+||skibidistealer.team^
+||thegrilljournal.com^
+||verifytrtr.vip^
+||help.xenngypt.com^
+||www.litellm.dev^

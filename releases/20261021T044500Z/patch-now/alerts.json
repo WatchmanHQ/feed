@@ -1,0 +1,1005 @@
+{
+ "alerts": [
+  {
+   "advisories": [
+    "https://www.beyondtrust.com/trust-center/security-advisories/bt26-05"
+   ],
+   "alert_since": "2026-10-16",
+   "cisa_required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+   "cve": "CVE-2026-102764",
+   "description": "BeyondTrust Remote Support contains an authentication bypass by spoofing vulnerability that could allow a remote attacker to perform file operations on the appliance.",
+   "equipment": "Remote support (BeyondTrust)",
+   "federal_due_date": "2026-10-19",
+   "kev_added": "2026-10-16",
+   "latest_activity": "2026-10-19",
+   "newly_exploited": true,
+   "nvd": "https://nvd.nist.gov/vuln/detail/CVE-2026-102764",
+   "product": "Remote Support",
+   "ransomware": false,
+   "reports": [
+    {
+     "published": "2026-10-19",
+     "publisher": "Rapid7",
+     "title": "CVE-2026-102764: Critical BeyondTrust Remote Support Authentication Bypass Exploited in the Wild",
+     "url": "https://www.rapid7.com/blog/post/etr-cve-2026-102764-critical-beyondtrust-remote-support-authentication-bypass-exploited-in-the-wild"
+    },
+    {
+     "published": "2026-10-19",
+     "publisher": "Check Point Research",
+     "title": "19th October \u2013 Threat Intelligence Report",
+     "url": "https://research.checkpoint.com/2026/19th-october-threat-intelligence-report/"
+    },
+    {
+     "published": "2026-10-16",
+     "publisher": "BleepingComputer",
+     "title": "BeyondTrust patches zero-day exploited in attacks since August",
+     "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/"
+    },
+    {
+     "published": "2026-10-15",
+     "publisher": "Google Threat Intelligence / Mandiant",
+     "title": "ARMORY CASTLE Exploits BeyondTrust",
+     "url": "https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-beyondtrust/"
+    }
+   ],
+   "vendor": "BeyondTrust",
+   "vulnerability": "BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability"
+  },
+  {
+   "advisories": [],
+   "alert_since": "2026-10-13",
+   "cisa_required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+   "cve": "CVE-2026-104935",
+   "description": "Ivanti Connect Secure contains an authentication bypass by spoofing vulnerability that allows a remote unauthenticated attacker to execute arbitrary commands.",
+   "equipment": "VPN or device management (Ivanti)",
+   "federal_due_date": "2026-10-16",
+   "kev_added": "2026-10-13",
+   "latest_activity": "2026-10-19",
+   "newly_exploited": true,
+   "nvd": "https://nvd.nist.gov/vuln/detail/CVE-2026-104935",
+   "product": "Connect Secure",
+   "ransomware": false,
+   "reports": [
+    {
+     "published": "2026-10-19",
+     "publisher": "Check Point Research",
+     "title": "19th October \u2013 Threat Intelligence Report",
+     "url": "https://research.checkpoint.com/2026/19th-october-threat-intelligence-report/"
+    },
+    {
+     "published": "2026-10-15",
+     "publisher": "Cisco Talos",
+     "title": "The Q3 Vulnerability Pulse: Discovery \u2260 Exploitation",
+     "url": "https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/"
+    },
+    {
+     "published": "2026-10-14",
+     "publisher": "BleepingComputer",
+     "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
+     "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/"
+    },
+    {
+     "published": "2026-10-13",
+     "publisher": "Volexity",
+     "title": "A Series of Unauthenticated Events: Chained Exploitation of Ivanti Connect Secure Zero-Days",
+     "url": "https://www.volexity.com/blog/2026/10/13/a-series-of-unauthenticated-events-chained-exploitation-of-ivanti-connect-secure-zero-days/"
+    },
+    {
+     "published": "2026-10-13",
+     "publisher": "Rapid7",
+     "title": "Ivanti Connect Secure zero-day exploited in the wild (CVE-2026-104935)",
+     "url": "https://www.rapid7.com/blog/post/etr-ivanti-connect-secure-zero-day-exploited-in-the-wild-cve-2026-104935"
+    },
+    {
+     "published": "2026-10-13",
+     "publisher": "BleepingComputer",
+     "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
+     "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/"
+    }
+   ],
+   "vendor": "Ivanti",
+   "vulnerability": "Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability"
+  },
+  {
+   "advisories": [
+    "https://www.beyondtrust.com/trust-center/security-advisories/bt26-02"
+   ],
+   "alert_since": "2026-08-26",
+   "cisa_required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+   "cve": "CVE-2026-1731",
+   "description": "BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA)contain an OS command injection vulnerability. Successful exploitation could allow an unauthenticated remote attacker to execute operating system commands in the context of the site user. Successful exploitation requires no authentication or user interaction and may lead to system compromise, including unauthorized access, data exfiltration, and service disruption.",
+   "equipment": "Remote support (BeyondTrust)",
+   "federal_due_date": "2026-02-16",
+   "kev_added": "2026-02-13",
+   "latest_activity": "2026-10-19",
+   "newly_exploited": false,
+   "nvd": "https://nvd.nist.gov/vuln/detail/CVE-2026-1731",
+   "product": "Remote Support (RS) and Privileged Remote Access (PRA)",
+   "ransomware": true,
+   "reports": [
+    {
+     "published": "2026-10-19",
+     "publisher": "Rapid7",
+     "title": "CVE-2026-102764: Critical BeyondTrust Remote Support Authentication Bypass Exploited in the Wild",
+     "url": "https://www.rapid7.com/blog/post/etr-cve-2026-102764-critical-beyondtrust-remote-support-authentication-bypass-exploited-in-the-wild"
+    },
+    {
+     "published": "2026-10-16",
+     "publisher": "BleepingComputer",
+     "title": "BeyondTrust patches zero-day exploited in attacks since August",
+     "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/"
+    },
+    {
+     "published": "2026-09-30",
+     "publisher": "Unit 42",
+     "title": "Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30)",
+     "url": "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/"
+    },
+    {
+     "published": "2026-09-30",
+     "publisher": "Google Threat Intelligence / Mandiant",
+     "title": "Vulnerability Discovery and Exploitation Trends in the AI Era",
+     "url": "https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/"
+    },
+    {
+     "published": "2026-08-26",
+     "publisher": "Securelist",
+     "title": "Exploits and vulnerabilities in Q2 2026",
+     "url": "https://securelist.com/vulnerabilities-and-exploits-in-q2-2026/121091/"
+    }
+   ],
+   "vendor": "BeyondTrust",
+   "vulnerability": "BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) OS Command Injection Vulnerability"
+  },
+  {
+   "advisories": [
+    "https://community.citrix.com/techzone-blogs/110_security-updates/netscaler-adc-and-netscaler-gateway-security-bulletin-for-cve-2026-88771-through-cve-2026-88778",
+    "https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX697096",
+    "https://support.citrix.com/external/article/CTX694799/steps-to-take-if-netscaler-adc-is-suspec.html"
+   ],
+   "alert_since": "2026-09-28",
+   "cisa_required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+   "cve": "CVE-2026-88771",
+   "description": "Citrix NetScaler ADC and NetScaler Gateway contain an improper input validation vulnerability that could allow an unauthenticated attacker to execute arbitrary commands.",
+   "equipment": "Remote access or file sharing (Citrix)",
+   "federal_due_date": "2026-09-30",
+   "kev_added": "2026-09-27",
+   "latest_activity": "2026-10-19",
+   "newly_exploited": true,
+   "nvd": "https://nvd.nist.gov/vuln/detail/CVE-2026-88771",
+   "product": "NetScaler",
+   "ransomware": false,
+   "reports": [
+    {
+     "published": "2026-10-19",
+     "publisher": "Rapid7",
+     "title": "Rapid7 Analysis: NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779",
+     "url": "https://www.rapid7.com/blog/post/ra-netscaler-intrusions-chaining-cve-2026-88771-and-cve-2026-88779"
+    },
+    {
+     "published": "2026-10-16",
+     "publisher": "Zscaler ThreatLabz",
+     "title": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
+     "url": "https://www.zscaler.com/blogs/security-research/cve-2026-88771-inside-exploitation-critical-netscaler-rce-vulnerability"
+    },
+    {
+     "published": "2026-10-13",
+     "publisher": "Recorded Future Insikt Group",
+     "title": "September 2026 CVE Landscape",
+     "url": "https://www.recordedfuture.com/blog/september-2026-cve-landscape"
+    },
+    {
+     "published": "2026-10-09",
+     "publisher": "BleepingComputer",
+     "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
+     "url": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/"
+    },
+    {
+     "published": "2026-10-06",
+     "publisher": "Unit 42",
+     "title": "Blinder Tunnel Campaign Targets Iraqi Infrastructure",
+     "url": "https://unit42.paloaltonetworks.com/blinder-tunnel-targets-critical-infrastructure/"
+    },
+    {
+     "published": "2026-10-06",
+     "publisher": "AhnLab ASEC",
+     "title": "Q3 2026 Vulnerability Trend Report",
+     "url": "https://asec.ahnlab.com/en/95741/"
+    },
+    {
+     "published": "2026-10-06",
+     "publisher": "AhnLab ASEC",
+     "title": "Q3 2026 Attack Techniques Trend Report",
+     "url": "https://asec.ahnlab.com/en/95733/"
+    },
+    {
+     "published": "2026-10-05",
+     "publisher": "Check Point Research",
+     "title": "5th October \u2013 Threat Intelligence Report",
+     "url": "https://research.checkpoint.com/2026/5th-october-threat-intelligence-report/"
+    },
+    {
+     "published": "2026-09-30",
+     "publisher": "Unit 42",
+     "title": "Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30)",
+     "url": "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/"
+    },
+    {
+     "published": "2026-09-29",
+     "publisher": "Google Threat Intelligence / Mandiant",
+     "title": "Defending Against Active Exploitation of Citrix NetScaler ADC and Gateway Appliances",
+     "url": "https://cloud.google.com/blog/topics/threat-intelligence/defending-against-active-exploitation-of-citrix-netscaler-adc-and-gateway-appliances/"
+    },
+    {
+     "published": "2026-09-29",
+     "publisher": "Arctic Wolf",
+     "title": "Critical Citrix NetScaler ADC and Citrix NetScaler Gateway Vulnerabilities",
+     "url": "https://arcticwolf.com/resources/blog/critical-citrix-netscaler-adc-and-citrix-netscaler-gateway-vulnerabilities/"
+    },
+    {
+     "published": "2026-09-28",
+     "publisher": "Sophos Threat Research",
+     "title": "Citrix NetScaler vulnerabilities (CVE-2026-88771, CVE-2026-88772) in active exploitation",
+     "url": "https://www.sophos.com/en-us/blog/citrix-netscaler-cve-2026-88771-cve-2026-88772-in-active-exploitation"
+    },
+    {
+     "published": "2026-09-28",
+     "publisher": "Rapid7",
+     "title": "Zero-Day Exploitation of Citrix NetScaler ADC and Gateway: CVE-2026-88771 and CVE-2026-88772",
+     "url": "https://www.rapid7.com/blog/post/etr-zero-day-exploitation-of-citrix-netscaler-adc-and-gateway-cve-2026-88771-and-cve-2026-88772"
+    }
+   ],
+   "vendor": "Citrix",
+   "vulnerability": "Citrix NetScaler Improper Input Validation Vulnerability"
+  },
+  {
+   "advisories": [
+    "https://community.citrix.com/techzone-blogs/110_security-updates/netscaler-adc-and-netscaler-gateway-security-bulletin-for-cve-2026-88771-through-cve-2026-88778",
+    "https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX697096",
+    "https://support.citrix.com/external/article/CTX694799/steps-to-take-if-netscaler-adc-is-suspec.html"
+   ],
+   "alert_since": "2026-09-28",
+   "cisa_required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+   "cve": "CVE-2026-88772",
+   "description": "Citrix NetScaler ADC and NetScaler Gateway contain an improper restriction of operations within the bounds of a memory buffer vulnerability that could allow for remote code execution or denial of service",
+   "equipment": "Remote access or file sharing (Citrix)",
+   "federal_due_date": "2026-09-30",
+   "kev_added": "2026-09-27",
+   "latest_activity": "2026-10-19",
+   "newly_exploited": true,
+   "nvd": "https://nvd.nist.gov/vuln/detail/CVE-2026-88772",
+   "product": "NetScaler",
+   "ransomware": false,
+   "reports": [
+    {
+     "published": "2026-10-19",
+     "publisher": "Rapid7",
+     "title": "Rapid7 Analysis: NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779",
+     "url": "https://www.rapid7.com/blog/post/ra-netscaler-intrusions-chaining-cve-2026-88771-and-cve-2026-88779"
+    },
+    {
+     "published": "2026-10-13",
+     "publisher": "Recorded Future Insikt Group",
+     "title": "September 2026 CVE Landscape",
+     "url": "https://www.recordedfuture.com/blog/september-2026-cve-landscape"
+    },
+    {
+     "published": "2026-10-09",
+     "publisher": "BleepingComputer",
+     "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
+     "url": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/"
+    },
+    {
+     "published": "2026-10-06",
+     "publisher": "Unit 42",
+     "title": "Blinder Tunnel Campaign Targets Iraqi Infrastructure",
+     "url": "https://unit42.paloaltonetworks.com/blinder-tunnel-targets-critical-infrastructure/"
+    },
+    {
+     "published": "2026-10-06",
+     "publisher": "AhnLab ASEC",
+     "title": "Q3 2026 Attack Techniques Trend Report",
+     "url": "https://asec.ahnlab.com/en/95733/"
+    },
+    {
+     "published": "2026-10-05",
+     "publisher": "Check Point Research",
+     "title": "5th October \u2013 Threat Intelligence Report",
+     "url": "https://research.checkpoint.com/2026/5th-october-threat-intelligence-report/"
+    },
+    {
+     "published": "2026-09-30",
+     "publisher": "Unit 42",
+     "title": "Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30)",
+     "url": "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/"
+    },
+    {
+     "published": "2026-09-29",
+     "publisher": "Google Threat Intelligence / Mandiant",
+     "title": "Defending Against Active Exploitation of Citrix NetScaler ADC and Gateway Appliances",
+     "url": "https://cloud.google.com/blog/topics/threat-intelligence/defending-against-active-exploitation-of-citrix-netscaler-adc-and-gateway-appliances/"
+    },
+    {
+     "published": "2026-09-29",
+     "publisher": "Arctic Wolf",
+     "title": "Critical Citrix NetScaler ADC and Citrix NetScaler Gateway Vulnerabilities",
+     "url": "https://arcticwolf.com/resources/blog/critical-citrix-netscaler-adc-and-citrix-netscaler-gateway-vulnerabilities/"
+    },
+    {
+     "published": "2026-09-28",
+     "publisher": "Sophos Threat Research",
+     "title": "Citrix NetScaler vulnerabilities (CVE-2026-88771, CVE-2026-88772) in active exploitation",
+     "url": "https://www.sophos.com/en-us/blog/citrix-netscaler-cve-2026-88771-cve-2026-88772-in-active-exploitation"
+    },
+    {
+     "published": "2026-09-28",
+     "publisher": "Rapid7",
+     "title": "Zero-Day Exploitation of Citrix NetScaler ADC and Gateway: CVE-2026-88771 and CVE-2026-88772",
+     "url": "https://www.rapid7.com/blog/post/etr-zero-day-exploitation-of-citrix-netscaler-adc-and-gateway-cve-2026-88771-and-cve-2026-88772"
+    }
+   ],
+   "vendor": "Citrix",
+   "vulnerability": "Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability"
+  },
+  {
+   "advisories": [
+    "https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX697174",
+    "https://community.citrix.com/techzone-blogs/110_security-updates/understanding-and-addressing-cve-2026-88779-in-citrix-netscaler-adc-and-citrix-netscaler-gateway/"
+   ],
+   "alert_since": "2026-10-04",
+   "cisa_required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+   "cve": "CVE-2026-88779",
+   "description": "Citrix NetScaler ADC (formerly Citrix ADC) and Citrix NetScaler Gateway (formerly Citrix Gateway) contain an improper restriction of operations within the bounds of a memory buffer vulnerability that could allow for a denial of service.",
+   "equipment": "Remote access or file sharing (Citrix)",
+   "federal_due_date": "2026-10-07",
+   "kev_added": "2026-10-04",
+   "latest_activity": "2026-10-19",
+   "newly_exploited": true,
+   "nvd": "https://nvd.nist.gov/vuln/detail/CVE-2026-88779",
+   "product": "NetScaler",
+   "ransomware": false,
+   "reports": [
+    {
+     "published": "2026-10-19",
+     "publisher": "Rapid7",
+     "title": "Rapid7 Analysis: NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779",
+     "url": "https://www.rapid7.com/blog/post/ra-netscaler-intrusions-chaining-cve-2026-88771-and-cve-2026-88779"
+    },
+    {
+     "published": "2026-10-12",
+     "publisher": "Check Point Research",
+     "title": "12th October \u2013 Threat Intelligence Report",
+     "url": "https://research.checkpoint.com/2026/12th-october-threat-intelligence-report/"
+    },
+    {
+     "published": "2026-10-09",
+     "publisher": "BleepingComputer",
+     "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
+     "url": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/"
+    },
+    {
+     "published": "2026-10-08",
+     "publisher": "Cisco Talos",
+     "title": "Making sure the checks get printed",
+     "url": "https://blog.talosintelligence.com/making-sure-the-checks-get-printed/"
+    },
+    {
+     "published": "2026-10-05",
+     "publisher": "Sophos Threat Research",
+     "title": "Citrix NetScaler vulnerability (CVE-2026-88779) in active exploitation",
+     "url": "https://www.sophos.com/en-us/blog/citrix-netscaler-vulnerability-cve-2026-88779-in-active-exploitation"
+    },
+    {
+     "published": "2026-09-28",
+     "publisher": "Rapid7",
+     "title": "Zero-Day Exploitation of Citrix NetScaler ADC and Gateway: CVE-2026-88771 and CVE-2026-88772",
+     "url": "https://www.rapid7.com/blog/post/etr-zero-day-exploitation-of-citrix-netscaler-adc-and-gateway-cve-2026-88771-and-cve-2026-88772"
+    }
+   ],
+   "vendor": "Citrix",
+   "vulnerability": "Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability"
+  },
+  {
+   "advisories": [
+    "https://forums.ivanti.com/s/article/KB-CVE-2023-46805-Authentication-Bypass-CVE-2024-21887-Command-Injection-for-Ivanti-Connect-Secure-and-Ivanti-Policy-Secure-Gateways?language=en_US"
+   ],
+   "alert_since": "2026-09-25",
+   "cisa_required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+   "cve": "CVE-2023-46805",
+   "description": "Ivanti Connect Secure (ICS, formerly known as Pulse Connect Secure) and Ivanti Policy Secure gateways contain an authentication bypass vulnerability in the web component that allows an attacker to access restricted resources by bypassing control checks. This vulnerability can be leveraged in conjunction with CVE-2024-21887, a command injection vulnerability.",
+   "equipment": "VPN or device management (Ivanti)",
+   "federal_due_date": "2024-01-22",
+   "kev_added": "2024-01-10",
+   "latest_activity": "2026-10-16",
+   "newly_exploited": false,
+   "nvd": "https://nvd.nist.gov/vuln/detail/CVE-2023-46805",
+   "product": "Connect Secure and Policy Secure",
+   "ransomware": true,
+   "reports": [
+    {
+     "published": "2026-10-16",
+     "publisher": "BleepingComputer",
+     "title": "BeyondTrust patches zero-day exploited in attacks since August",
+     "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/"
+    },
+    {
+     "published": "2026-10-15",
+     "publisher": "Google Threat Intelligence / Mandiant",
+     "title": "ARMORY CASTLE Exploits BeyondTrust",
+     "url": "https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-beyondtrust/"
+    },
+    {
+     "published": "2026-10-14",
+     "publisher": "BleepingComputer",
+     "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
+     "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/"
+    },
+    {
+     "published": "2026-10-13",
+     "publisher": "BleepingComputer",
+     "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
+     "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/"
+    },
+    {
+     "published": "2026-10-05",
+     "publisher": "Fortinet Threat Research",
+     "title": "ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure",
+     "url": "https://feeds.fortinet.com/~/971007764/0/fortinet/blog/threat-research~ClingSTUN-Linux-Backdoor-Abuses-Public-STUN-Infrastructure"
+    },
+    {
+     "published": "2026-09-25",
+     "publisher": "Cyble",
+     "title": "Inside the Telecom Attack Surface: SS7, BGP Hijacking, and the Technical Reality of Nation-State Intrusions",
+     "url": "https://cyble.com/blog/ss7-bgp-nation-state-intrusions/"
+    }
+   ],
+   "vendor": "Ivanti",
+   "vulnerability": "Ivanti Connect Secure and Policy Secure Authentication Bypass Vulnerability"
+  },
+  {
+   "advisories": [
+    "https://forums.ivanti.com/s/article/KB-CVE-2023-46805-Authentication-Bypass-CVE-2024-21887-Command-Injection-for-Ivanti-Connect-Secure-and-Ivanti-Policy-Secure-Gateways?language=en_US"
+   ],
+   "alert_since": "2026-09-25",
+   "cisa_required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+   "cve": "CVE-2024-21887",
+   "description": "Ivanti Connect Secure (ICS, formerly known as Pulse Connect Secure) and Ivanti Policy Secure contain a command injection vulnerability in the web components of these products, which can allow an authenticated administrator to send crafted requests to execute code on affected appliances. This vulnerability can be leveraged in conjunction with CVE-2023-46805, an authenticated bypass issue.",
+   "equipment": "VPN or device management (Ivanti)",
+   "federal_due_date": "2024-01-22",
+   "kev_added": "2024-01-10",
+   "latest_activity": "2026-10-16",
+   "newly_exploited": false,
+   "nvd": "https://nvd.nist.gov/vuln/detail/CVE-2024-21887",
+   "product": "Connect Secure and Policy Secure",
+   "ransomware": true,
+   "reports": [
+    {
+     "published": "2026-10-16",
+     "publisher": "BleepingComputer",
+     "title": "BeyondTrust patches zero-day exploited in attacks since August",
+     "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/"
+    },
+    {
+     "published": "2026-10-15",
+     "publisher": "Google Threat Intelligence / Mandiant",
+     "title": "ARMORY CASTLE Exploits BeyondTrust",
+     "url": "https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-beyondtrust/"
+    },
+    {
+     "published": "2026-10-14",
+     "publisher": "BleepingComputer",
+     "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
+     "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/"
+    },
+    {
+     "published": "2026-10-13",
+     "publisher": "BleepingComputer",
+     "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
+     "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/"
+    },
+    {
+     "published": "2026-10-05",
+     "publisher": "Fortinet Threat Research",
+     "title": "ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure",
+     "url": "https://feeds.fortinet.com/~/971007764/0/fortinet/blog/threat-research~ClingSTUN-Linux-Backdoor-Abuses-Public-STUN-Infrastructure"
+    },
+    {
+     "published": "2026-09-25",
+     "publisher": "Cyble",
+     "title": "Inside the Telecom Attack Surface: SS7, BGP Hijacking, and the Technical Reality of Nation-State Intrusions",
+     "url": "https://cyble.com/blog/ss7-bgp-nation-state-intrusions/"
+    }
+   ],
+   "vendor": "Ivanti",
+   "vulnerability": "Ivanti Connect Secure and Policy Secure Command Injection Vulnerability"
+  },
+  {
+   "advisories": [
+    "https://fortiguard.fortinet.com/psirt/FG-IR-26-122"
+   ],
+   "alert_since": "2026-10-16",
+   "cisa_required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+   "cve": "CVE-2025-61624",
+   "description": "FortiOS, FortiPAM, FortiProxy, and FortiSwitchManager contain a path traversal vulnerability that may allow an authenticated attacker with admin profile and at least read-write permissions to write or delete arbitrary files via specific CLI commands.",
+   "equipment": "Firewall, VPN or other appliance (Fortinet)",
+   "federal_due_date": "2026-10-19",
+   "kev_added": "2026-10-16",
+   "latest_activity": "2026-10-16",
+   "newly_exploited": true,
+   "nvd": "https://nvd.nist.gov/vuln/detail/CVE-2025-61624",
+   "product": "Multiple Products",
+   "ransomware": false,
+   "reports": [
+    {
+     "published": "2026-10-14",
+     "publisher": "Unit 42",
+     "title": "Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant",
+     "url": "https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malware/"
+    }
+   ],
+   "vendor": "Fortinet",
+   "vulnerability": "Fortinet Multiple Products Path Traversal Vulnerability"
+  },
+  {
+   "advisories": [
+    "https://security.paloaltonetworks.com/CVE-2026-0322"
+   ],
+   "alert_since": "2026-10-14",
+   "cisa_required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+   "cve": "CVE-2026-0322",
+   "description": "Palo Alto Networks PAN-OS contains a code injection vulnerability that could allow an authenticated attacker with network access to execute arbitrary code with root privileges on the firewall.",
+   "equipment": "Firewall or VPN (Palo Alto Networks)",
+   "federal_due_date": "2026-10-17",
+   "kev_added": "2026-10-14",
+   "latest_activity": "2026-10-14",
+   "newly_exploited": true,
+   "nvd": "https://nvd.nist.gov/vuln/detail/CVE-2026-0322",
+   "product": "PAN-OS",
+   "ransomware": false,
+   "reports": [
+    {
+     "published": "2026-10-14",
+     "publisher": "BleepingComputer",
+     "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
+     "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/"
+    }
+   ],
+   "vendor": "Palo Alto Networks",
+   "vulnerability": "Palo Alto Networks PAN-OS Code Injection Vulnerability"
+  },
+  {
+   "advisories": [
+    "https://fortiguard.fortinet.com/psirt/FG-IR-26-175"
+   ],
+   "alert_since": "2026-10-13",
+   "cisa_required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+   "cve": "CVE-2026-104286",
+   "description": "Fortinet FortiMail contains a path traversal and an improper neutralization of NULL byte or NULL character vulnerability that may allow an unauthenticated attacker to write arbitrary files on the underlying system via crafted HTTP or HTTPS requests.",
+   "equipment": "Firewall, VPN or other appliance (Fortinet)",
+   "federal_due_date": "2026-10-04",
+   "kev_added": "2026-10-01",
+   "latest_activity": "2026-10-13",
+   "newly_exploited": true,
+   "nvd": "https://nvd.nist.gov/vuln/detail/CVE-2026-104286",
+   "product": "FortiMail",
+   "ransomware": false,
+   "reports": [
+    {
+     "published": "2026-10-13",
+     "publisher": "BleepingComputer",
+     "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days",
+     "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/"
+    }
+   ],
+   "vendor": "Fortinet",
+   "vulnerability": "Fortinet FortiMail Path Traversal Vulnerability"
+  },
+  {
+   "advisories": [
+    "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-onprem-fmc-authbypass-5JPp45V2"
+   ],
+   "alert_since": "2026-10-06",
+   "cisa_required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+   "cve": "CVE-2026-20079",
+   "description": "Cisco Secure Firewall Management Center (FMC) Software and Cisco Security Cloud Control (SCC) Firewall Management contain an authentication Bypass using an alternate path or channel vulnerability that could allow an unauthenticated, remote attacker to bypass authentication and execute script files on an affected device to obtain root access to the underlying operating system.",
+   "equipment": "Firewall, VPN or office router (Cisco)",
+   "federal_due_date": "2026-09-12",
+   "kev_added": "2026-09-09",
+   "latest_activity": "2026-10-13",
+   "newly_exploited": false,
+   "nvd": "https://nvd.nist.gov/vuln/detail/CVE-2026-20079",
+   "product": "Secure Firewall Management Center (FMC) and Security Cloud Control (SCC) Firewall Management",
+   "ransomware": false,
+   "reports": [
+    {
+     "published": "2026-10-13",
+     "publisher": "Recorded Future Insikt Group",
+     "title": "September 2026 CVE Landscape",
+     "url": "https://www.recordedfuture.com/blog/september-2026-cve-landscape"
+    },
+    {
+     "published": "2026-10-06",
+     "publisher": "AhnLab ASEC",
+     "title": "Q3 2026 Attack Techniques Trend Report",
+     "url": "https://asec.ahnlab.com/en/95733/"
+    }
+   ],
+   "vendor": "Cisco",
+   "vulnerability": "Cisco Firewall Management Center Authentication Bypass Using an Alternate Path or Channel Vulnerability"
+  },
+  {
+   "advisories": [
+    "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-static-cred-BET3Cjh"
+   ],
+   "alert_since": "2026-08-07",
+   "cisa_required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+   "cve": "CVE-2026-20316",
+   "description": "Cisco Secure Firewall Management Center (FMC) formerly known as Firepower Management Center contains a use of hard-coded password vulnerability that could allow an unauthenticated, remote attacker to log in to an affected device using a low-privileged account to access sensitive data within the impacted systems.",
+   "equipment": "Firewall, VPN or office router (Cisco)",
+   "federal_due_date": "2026-08-01",
+   "kev_added": "2026-07-29",
+   "latest_activity": "2026-10-13",
+   "newly_exploited": false,
+   "nvd": "https://nvd.nist.gov/vuln/detail/CVE-2026-20316",
+   "product": "Secure Firewall Management Center (FMC)",
+   "ransomware": true,
+   "reports": [
+    {
+     "published": "2026-10-13",
+     "publisher": "Recorded Future Insikt Group",
+     "title": "September 2026 CVE Landscape",
+     "url": "https://www.recordedfuture.com/blog/september-2026-cve-landscape"
+    },
+    {
+     "published": "2026-10-06",
+     "publisher": "AhnLab ASEC",
+     "title": "Q3 2026 Attack Techniques Trend Report",
+     "url": "https://asec.ahnlab.com/en/95733/"
+    },
+    {
+     "published": "2026-08-07",
+     "publisher": "Recorded Future Insikt Group",
+     "title": "July 2026 CVE Landscape",
+     "url": "https://www.recordedfuture.com/blog/july-2026-cve-landscape"
+    }
+   ],
+   "vendor": "Cisco",
+   "vulnerability": "Cisco Secure Firewall Management Center Use of Hard-coded Password Vulnerability"
+  },
+  {
+   "advisories": [
+    "https://mikrotik.com/supportsec/september-2026-vulnerability/?utm_source=chatgpt.com"
+   ],
+   "alert_since": "2026-10-13",
+   "cisa_required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+   "cve": "CVE-2026-67279",
+   "description": "Mikrotik RouterOS contains an improper enforcement of behavioral workflow vulnerability that could allow an unauthenticated client to open a session channel and send an exec request. This vulnerability can be chained to achieve unauthenticated exploitation of CVE-2026-86060.",
+   "equipment": "Router (MikroTik)",
+   "federal_due_date": "2026-09-28",
+   "kev_added": "2026-09-25",
+   "latest_activity": "2026-10-13",
+   "newly_exploited": true,
+   "nvd": "https://nvd.nist.gov/vuln/detail/CVE-2026-67279",
+   "product": "RouterOS",
+   "ransomware": false,
+   "reports": [
+    {
+     "published": "2026-10-13",
+     "publisher": "Recorded Future Insikt Group",
+     "title": "September 2026 CVE Landscape",
+     "url": "https://www.recordedfuture.com/blog/september-2026-cve-landscape"
+    }
+   ],
+   "vendor": "MikroTik",
+   "vulnerability": "Mikrotik RouterOS Improper Enforcement of Behavioral Workflow Vulnerability"
+  },
+  {
+   "advisories": [
+    "https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-stack-based-buffer-overflow-vulnerability-in-gs1900-series-switches-06-16-2026"
+   ],
+   "alert_since": "2026-10-13",
+   "cisa_required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+   "cve": "CVE-2026-7273",
+   "description": "Zyxel GS1900 series switches contain a stack-based buffer overflow vulnerability in the CGI program which could allow a LAN-based, unauthenticated attacker to exploit the flaw and potentially execute OS commands via a crafted HTTP request.",
+   "equipment": "Firewall, router or storage (Zyxel)",
+   "federal_due_date": "2026-09-24",
+   "kev_added": "2026-09-21",
+   "latest_activity": "2026-10-13",
+   "newly_exploited": true,
+   "nvd": "https://nvd.nist.gov/vuln/detail/CVE-2026-7273",
+   "product": "GS1900 Series Switches",
+   "ransomware": false,
+   "reports": [
+    {
+     "published": "2026-10-13",
+     "publisher": "Recorded Future Insikt Group",
+     "title": "September 2026 CVE Landscape",
+     "url": "https://www.recordedfuture.com/blog/september-2026-cve-landscape"
+    }
+   ],
+   "vendor": "Zyxel",
+   "vulnerability": "Zyxel GS1900 Series Switches Stack-Based Buffer Overflow Vulnerability"
+  },
+  {
+   "advisories": [
+    "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0016"
+   ],
+   "alert_since": "2026-09-02",
+   "cisa_required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+   "cve": "CVE-2026-83548",
+   "description": "SonicWall SMA1000 Appliances contains a server-side request forgery vulnerability that could allow a remote unauthenticated attacker to gain unauthorized access to sensitive functionality and perform unauthorized operations.",
+   "equipment": "Firewall, VPN or other appliance (SonicWall)",
+   "federal_due_date": "2026-09-05",
+   "kev_added": "2026-09-02",
+   "latest_activity": "2026-10-13",
+   "newly_exploited": false,
+   "nvd": "https://nvd.nist.gov/vuln/detail/CVE-2026-83548",
+   "product": "SMA1000 Appliances",
+   "ransomware": false,
+   "reports": [
+    {
+     "published": "2026-10-13",
+     "publisher": "Recorded Future Insikt Group",
+     "title": "September 2026 CVE Landscape",
+     "url": "https://www.recordedfuture.com/blog/september-2026-cve-landscape"
+    },
+    {
+     "published": "2026-10-09",
+     "publisher": "BleepingComputer",
+     "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
+     "url": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/"
+    },
+    {
+     "published": "2026-09-07",
+     "publisher": "Check Point Research",
+     "title": "7th September \u2013 Threat Intelligence Report",
+     "url": "https://research.checkpoint.com/2026/7th-september-threat-intelligence-report/"
+    },
+    {
+     "published": "2026-09-02",
+     "publisher": "Sophos Threat Research",
+     "title": "SonicWall 83548 83549",
+     "url": "https://www.sophos.com/en-us/blog/sonicwall-83548-83549"
+    }
+   ],
+   "vendor": "SonicWall",
+   "vulnerability": "SonicWall SMA1000 Appliances Server-Side Request Forgery Vulnerability"
+  },
+  {
+   "advisories": [
+    "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0016"
+   ],
+   "alert_since": "2026-09-02",
+   "cisa_required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+   "cve": "CVE-2026-83549",
+   "description": "SonicWall SMA1000 Appliances contains an OS command injection vulnerability that could enable a remote authenticated attacker as administrator to execute arbitrary OS commands, resulting in remote code execution.",
+   "equipment": "Firewall, VPN or other appliance (SonicWall)",
+   "federal_due_date": "2026-09-05",
+   "kev_added": "2026-09-02",
+   "latest_activity": "2026-10-13",
+   "newly_exploited": false,
+   "nvd": "https://nvd.nist.gov/vuln/detail/CVE-2026-83549",
+   "product": "SMA1000 Appliances",
+   "ransomware": false,
+   "reports": [
+    {
+     "published": "2026-10-13",
+     "publisher": "Recorded Future Insikt Group",
+     "title": "September 2026 CVE Landscape",
+     "url": "https://www.recordedfuture.com/blog/september-2026-cve-landscape"
+    },
+    {
+     "published": "2026-10-09",
+     "publisher": "BleepingComputer",
+     "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
+     "url": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/"
+    },
+    {
+     "published": "2026-09-07",
+     "publisher": "Check Point Research",
+     "title": "7th September \u2013 Threat Intelligence Report",
+     "url": "https://research.checkpoint.com/2026/7th-september-threat-intelligence-report/"
+    },
+    {
+     "published": "2026-09-02",
+     "publisher": "Sophos Threat Research",
+     "title": "SonicWall 83548 83549",
+     "url": "https://www.sophos.com/en-us/blog/sonicwall-83548-83549"
+    }
+   ],
+   "vendor": "SonicWall",
+   "vulnerability": "SonicWall SMA1000 Appliances OS Command Injection Vulnerability"
+  },
+  {
+   "advisories": [
+    "https://www.connectwise.com/company/trust/security-bulletins/2026-09-08-screenconnect-bulletin"
+   ],
+   "alert_since": "2026-10-06",
+   "cisa_required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+   "cve": "CVE-2026-84869",
+   "description": "ConnectWise ScreenConnect contains both an improper privilege management and missing authorization vulnerability that may allow an attacker to transfer and execute files through an active remote session without authorization or host confirmation.",
+   "equipment": "Remote support or IT management (ConnectWise)",
+   "federal_due_date": "2026-09-14",
+   "kev_added": "2026-09-11",
+   "latest_activity": "2026-10-13",
+   "newly_exploited": false,
+   "nvd": "https://nvd.nist.gov/vuln/detail/CVE-2026-84869",
+   "product": "ScreenConnect",
+   "ransomware": false,
+   "reports": [
+    {
+     "published": "2026-10-13",
+     "publisher": "Recorded Future Insikt Group",
+     "title": "September 2026 CVE Landscape",
+     "url": "https://www.recordedfuture.com/blog/september-2026-cve-landscape"
+    },
+    {
+     "published": "2026-10-06",
+     "publisher": "AhnLab ASEC",
+     "title": "Q3 2026 Vulnerability Trend Report",
+     "url": "https://asec.ahnlab.com/en/95741/"
+    }
+   ],
+   "vendor": "ConnectWise",
+   "vulnerability": "ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability"
+  },
+  {
+   "advisories": [
+    "https://support.checkpoint.com/results/sk/sk1000117"
+   ],
+   "alert_since": "2026-09-28",
+   "cisa_required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+   "cve": "CVE-2026-85102",
+   "description": "Check Point Security Gateway and Check Point Spark Firewall using Site to Site VPN or Remote Access VPN contain an improper certificate validation vulnerability which could allow an unauthenticated remote attacker to execute arbitrary code on the Gateway.",
+   "equipment": "Firewall, VPN or other appliance (Check Point)",
+   "federal_due_date": "2026-09-25",
+   "kev_added": "2026-09-22",
+   "latest_activity": "2026-10-13",
+   "newly_exploited": true,
+   "nvd": "https://nvd.nist.gov/vuln/detail/CVE-2026-85102",
+   "product": "Multiple Products",
+   "ransomware": false,
+   "reports": [
+    {
+     "published": "2026-10-13",
+     "publisher": "Recorded Future Insikt Group",
+     "title": "September 2026 CVE Landscape",
+     "url": "https://www.recordedfuture.com/blog/september-2026-cve-landscape"
+    },
+    {
+     "published": "2026-10-06",
+     "publisher": "AhnLab ASEC",
+     "title": "Q3 2026 Vulnerability Trend Report",
+     "url": "https://asec.ahnlab.com/en/95741/"
+    },
+    {
+     "published": "2026-09-28",
+     "publisher": "Check Point Research",
+     "title": "28th September \u2013 Threat Intelligence Report",
+     "url": "https://research.checkpoint.com/2026/28th-september-threat-intelligence-report/"
+    }
+   ],
+   "vendor": "Check Point",
+   "vulnerability": "Check Point Multiple Products Improper Certificate Validation Vulnerability"
+  },
+  {
+   "advisories": [
+    "https://status.n-able.com/2026/09/06/n-central-2026-3-hotfix-4-cve-2026-86218/",
+    "https://me.n-able.com/s/security-advisory/aArVy0000002Ld3KAE/cve202686218-preauthentication-remote-code-execution"
+   ],
+   "alert_since": "2026-10-09",
+   "cisa_required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+   "cve": "CVE-2026-86218",
+   "description": "N-able N-central contains a static code injection vulnerability that could allow for pre-authentication remote code execution.",
+   "equipment": "IT management (N-able)",
+   "federal_due_date": "2026-09-11",
+   "kev_added": "2026-09-08",
+   "latest_activity": "2026-10-13",
+   "newly_exploited": false,
+   "nvd": "https://nvd.nist.gov/vuln/detail/CVE-2026-86218",
+   "product": "N-central",
+   "ransomware": false,
+   "reports": [
+    {
+     "published": "2026-10-13",
+     "publisher": "Recorded Future Insikt Group",
+     "title": "September 2026 CVE Landscape",
+     "url": "https://www.recordedfuture.com/blog/september-2026-cve-landscape"
+    },
+    {
+     "published": "2026-10-09",
+     "publisher": "Rapid7",
+     "title": "Metasploit Wrap Up: A Collection of What Can Only Be Called Eclectic Modules",
+     "url": "https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-a-collection-of-what-can-only-be-called-eclectic-modules"
+    }
+   ],
+   "vendor": "N-able",
+   "vulnerability": "N-able N-central Static Code Injection Vulnerability"
+  },
+  {
+   "advisories": [
+    "https://support.checkpoint.com/results/sk/sk1000171/"
+   ],
+   "alert_since": "2026-09-28",
+   "cisa_required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+   "cve": "CVE-2026-93616",
+   "description": "Check Point Security Management Server, Multi-Domain Security Management Server, Log Server, Multi-Domain Log Server, and SmartEvent contain a path traversal vulnerability that allows an unauthenticated attacker to upload and execute arbitrary scripts.",
+   "equipment": "Firewall, VPN or other appliance (Check Point)",
+   "federal_due_date": "2026-09-25",
+   "kev_added": "2026-09-22",
+   "latest_activity": "2026-10-13",
+   "newly_exploited": true,
+   "nvd": "https://nvd.nist.gov/vuln/detail/CVE-2026-93616",
+   "product": "Multiple Products",
+   "ransomware": false,
+   "reports": [
+    {
+     "published": "2026-10-13",
+     "publisher": "Recorded Future Insikt Group",
+     "title": "September 2026 CVE Landscape",
+     "url": "https://www.recordedfuture.com/blog/september-2026-cve-landscape"
+    },
+    {
+     "published": "2026-09-28",
+     "publisher": "Check Point Research",
+     "title": "28th September \u2013 Threat Intelligence Report",
+     "url": "https://research.checkpoint.com/2026/28th-september-threat-intelligence-report/"
+    }
+   ],
+   "vendor": "Check Point",
+   "vulnerability": "Check Point Multiple Products Path Traversal Vulnerability"
+  },
+  {
+   "advisories": [
+    "https://wiki.zimbra.com/wiki/Zimbra_Security_Advisories",
+    "https://blog.zimbra.com/2026/07/patch-release-update-zimbra-10-1-20/"
+   ],
+   "alert_since": "2026-09-08",
+   "cisa_required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+   "cve": "CVE-2026-73570",
+   "description": "Zimbra Collaboration Suite (ZCS) contains an OS command injection vulnerability which could allow an unauthenticated attacker to send specially crafted SMTP requests that may result in execution of arbitrary operating system commands as the Zimbra user.",
+   "equipment": "Email server (Zimbra)",
+   "federal_due_date": "2026-08-24",
+   "kev_added": "2026-08-21",
+   "latest_activity": "2026-09-30",
+   "newly_exploited": false,
+   "nvd": "https://nvd.nist.gov/vuln/detail/CVE-2026-73570",
+   "product": "Zimbra Collaboration Suite (ZCS)",
+   "ransomware": false,
+   "reports": [
+    {
+     "published": "2026-09-30",
+     "publisher": "Microsoft Threat Intelligence",
+     "title": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
+     "url": "https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/"
+    },
+    {
+     "published": "2026-09-24",
+     "publisher": "Rapid7",
+     "title": "When Business Email Compromise Starts Rewriting Reality",
+     "url": "https://www.rapid7.com/blog/post/ve-business-email-compromise-rewriting-reality-zimbra-cve"
+    },
+    {
+     "published": "2026-09-08",
+     "publisher": "Recorded Future Insikt Group",
+     "title": "August 2026 CVE Landscape",
+     "url": "https://www.recordedfuture.com/blog/august-2026-cve-landscape"
+    }
+   ],
+   "vendor": "Synacor",
+   "vulnerability": "Zimbra Collaboration Suite (ZCS) OS Command Injection Vulnerability"
+  }
+ ],
+ "catalog": {
+  "license": "CC0",
+  "name": "CISA Known Exploited Vulnerabilities catalog",
+  "released": "2026-10-20T19:00:31.8765Z",
+  "retrieved": "2026-10-21T04:45:00.819079+00:00",
+  "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+  "version": "2026.10.20"
+ },
+ "generated": "2026-10-21T04:45:00.819079+00:00",
+ "notice": "Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind. Check the vendor's advisory before you change a device. CISA's catalog is public domain (CC0); these alerts are CC BY 4.0: credit WatchmanHQ.",
+ "release": "20261021T044500Z",
+ "window_days": 30
+}

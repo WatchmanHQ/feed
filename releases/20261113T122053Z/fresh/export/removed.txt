@@ -1,0 +1,12 @@
+ad.starx-net.com
+ads-it-assets.com
+adsprism-stat.com
+assets-int.com
+cdn.adv-static.com
+edge-ord.clouds-stacks.com
+patched.to
+qbcares.com
+theowo.club
+wpvortex-mod.com
+https://ad.starx-net.com/api/
+https://ad.starx-net.com:8881/telemetry/v12

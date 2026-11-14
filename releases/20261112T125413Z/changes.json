@@ -1,0 +1,532 @@
+{
+  "blocking_added": [
+    {
+      "type": "domain",
+      "value": "cdn007-digitaldownloads.com"
+    },
+    {
+      "type": "domain",
+      "value": "ns.mo7sen.dev"
+    },
+    {
+      "type": "domain",
+      "value": "sc.payproofkit.com"
+    },
+    {
+      "type": "domain",
+      "value": "teams-cloud.live"
+    },
+    {
+      "type": "domain",
+      "value": "teams-livemeeting.com"
+    },
+    {
+      "type": "ip",
+      "value": "103.142.103.225"
+    },
+    {
+      "type": "ip",
+      "value": "103.79.79.120"
+    },
+    {
+      "type": "ip",
+      "value": "103.79.79.191"
+    },
+    {
+      "type": "ip",
+      "value": "108.165.20.205"
+    },
+    {
+      "type": "ip",
+      "value": "154.81.37.136"
+    },
+    {
+      "type": "ip",
+      "value": "155.94.150.39"
+    },
+    {
+      "type": "ip",
+      "value": "160.119.69.4"
+    },
+    {
+      "type": "ip",
+      "value": "166.0.25.106"
+    },
+    {
+      "type": "ip",
+      "value": "176.97.117.157"
+    },
+    {
+      "type": "ip",
+      "value": "185.99.255.28"
+    },
+    {
+      "type": "ip",
+      "value": "204.194.49.129"
+    },
+    {
+      "type": "md5",
+      "value": "e89c8668c8b5041768a59c1532edf2ad"
+    },
+    {
+      "type": "sha256",
+      "value": "0241f569f4ce1bf0f2470867d6ba40f23f78d4d3ee2fbc423c91f3b591f446bc"
+    },
+    {
+      "type": "sha256",
+      "value": "065d18fcfeddbd718c054f4b21c3cde5b9291db921d01f343d7ac0d4b41f29ce"
+    },
+    {
+      "type": "sha256",
+      "value": "0bd84c776dc01f784a617e73fc77b269f847fc4a062ffd489e4692869724bf08"
+    },
+    {
+      "type": "sha256",
+      "value": "11b26168927a622ddc3beb592edc3bf476b897a360cbab36ad3ef0039068dd67"
+    },
+    {
+      "type": "sha256",
+      "value": "12450bafc7a4398040e1ad3a16dbf4dbc79b6a8f83ef306c4f0f73f59886f06c"
+    },
+    {
+      "type": "sha256",
+      "value": "1df54c1c5ee76f2f8f962963df3962f1a688806631da01d0e5ce85b817a5e2f7"
+    },
+    {
+      "type": "sha256",
+      "value": "1f8565e14f8bcde3eb48a6676596d0cd8b7cc3c12d903f97b0e0b3ac8725c17c"
+    },
+    {
+      "type": "sha256",
+      "value": "24d69139cb2d32598f0f4983876f6320485fac134a66ade59cab76b50b4128f7"
+    },
+    {
+      "type": "sha256",
+      "value": "265c2b36060e4b21c25aa86a8bb22d1db5f806117b484774c75c65b5b38222e0"
+    },
+    {
+      "type": "sha256",
+      "value": "2be9c2222cb177747f58f2ccb224a85879f1c2ffb0240e0b8968536d320b8edf"
+    },
+    {
+      "type": "sha256",
+      "value": "2ebe36f1322b77264a33fded81cd4b8817f93362945070bf0bb5845dd27c0575"
+    },
+    {
+      "type": "sha256",
+      "value": "2ed834d92bfefc9d07a9f1a48f986974ae2a29669029f8163a1f6e8706388fcd"
+    },
+    {
+      "type": "sha256",
+      "value": "2ffe8c6910d08072ccb8fef133a4570c6a085289b669373b1b508bd294fe9b23"
+    },
+    {
+      "type": "sha256",
+      "value": "318ce2ca913ff8297f23886a6d6640f28f63ba2bb62c0c6897972265d71e1407"
+    },
+    {
+      "type": "sha256",
+      "value": "32af8413cbd38ce8beb257288cb8e6aa2f9b781d56d0f5272bffbcdc22d999f4"
+    },
+    {
+      "type": "sha256",
+      "value": "330e9314bd39898984e52e2e3cc01e84c9c4c95f5bc467cf5bc75cd539dd0438"
+    },
+    {
+      "type": "sha256",
+      "value": "356b96c2267c5f2d8c07693643626e090b6389318b4ffa74699fa1732da5a00c"
+    },
+    {
+      "type": "sha256",
+      "value": "3c7a98f0fdb6235b8076319c74dc1085f7b349b6d750416dd0cadb07d7972ec4"
+    },
+    {
+      "type": "sha256",
+      "value": "3e535d63af8a95221fb517fa1b3e4a0029d3463d8b767443abdff385ee8cb6e9"
+    },
+    {
+      "type": "sha256",
+      "value": "3e923f11db08413fca8a3a69d33d8896cfd56309e5179e8604d7fb7110428da2"
+    },
+    {
+      "type": "sha256",
+      "value": "3eab406d841fa22a4b0200c95c1afab068347f835400d5771e8de60aef732016"
+    },
+    {
+      "type": "sha256",
+      "value": "43b7a5e56f9e6c7b74e1ce2b7b5af63f383084625fcc2d3a5985fa1059e2db95"
+    },
+    {
+      "type": "sha256",
+      "value": "4a1dd3cd2ea14368afadf7e9dfdd63b104e3981ef8c85bbb6510919b810af04b"
+    },
+    {
+      "type": "sha256",
+      "value": "50659748723e906c8b3d3c0386bd4cf692f693a3e23639398c1a14d0c31fed61"
+    },
+    {
+      "type": "sha256",
+      "value": "55d141bb2f62c527c3fea3413b8429fed7d52633d0b123b5e611bfa42165229f"
+    },
+    {
+      "type": "sha256",
+      "value": "5666332a66b1fb46bfbc7e076b21a8081f22931f5688686550d42bcec6aa3207"
+    },
+    {
+      "type": "sha256",
+      "value": "5711586125909863b91c1b5ff7cf70ef5d35249d67b11d7a23dc864405cddfe2"
+    },
+    {
+      "type": "sha256",
+      "value": "59e51c54cf3ac4d375de96a358c15bc125fe5453ee29cf923276c429097b9eac"
+    },
+    {
+      "type": "sha256",
+      "value": "5dd3a6ba806ac472663e243cfc1c034c534d5d9a42ec362c3dbf0f8d950148d0"
+    },
+    {
+      "type": "sha256",
+      "value": "5ee783076e9c8b3830d8e2dccda9abf65be81a0b8dfc281ff12188f7607f1d38"
+    },
+    {
+      "type": "sha256",
+      "value": "642ea33ddf7eba3043cf7b567ccffe57d6671f640e7734072f02975dfa44d893"
+    },
+    {
+      "type": "sha256",
+      "value": "66e9098551a1c0c74077d6cf55570e5d307a4a5ef0b0f2053e139394e61c442d"
+    },
+    {
+      "type": "sha256",
+      "value": "717319bc981c2b8f76907e2985f363540cb286f68aff0c75a5841eec2d0c9b04"
+    },
+    {
+      "type": "sha256",
+      "value": "76adf3141ccd877d98c85dbb7f6f227e70f71e8158392ac9797927260dd2faa3"
+    },
+    {
+      "type": "sha256",
+      "value": "7a9aca9fdd4dcc13fe497cabdb13ca1e5d6a529271c8aa495e5ca1c1c80271ec"
+    },
+    {
+      "type": "sha256",
+      "value": "7e9b60d021067dfe22b28783162ce9f55c2ccce7d221cadbf1f0f155dca6779e"
+    },
+    {
+      "type": "sha256",
+      "value": "81cc2baa35b798d6084bd078662fa29ff28df02c46c6ccdb2b43bde97d19f781"
+    },
+    {
+      "type": "sha256",
+      "value": "857429faffe0e0747ce299e86eed063ed781b4e403b917ca7e853e89bedf072c"
+    },
+    {
+      "type": "sha256",
+      "value": "88e8b07bdf294ace0357d35acb7e108c66ba65a2c4ad66351fb8f7806dae0862"
+    },
+    {
+      "type": "sha256",
+      "value": "898656c33effb51e109c548fc213f157f151a870ea64a4601eda74ae75bd3af6"
+    },
+    {
+      "type": "sha256",
+      "value": "94b93c649b0ae0281352da9d01761fa9195ab1e6ac7010af3b9ba1646355eb11"
+    },
+    {
+      "type": "sha256",
+      "value": "9b077fc464d9a4a2e6b227e61eae8a759de13b728e7cd2f06563a1af0de93d19"
+    },
+    {
+      "type": "sha256",
+      "value": "9b7b2dadba43634e8f6b38f612287865800b6c790e83a69211da55434c26a74a"
+    },
+    {
+      "type": "sha256",
+      "value": "b33f2e95943e3ff0a72dea1be9fdea03d986bada4def34f6991b3113ec161ad7"
+    },
+    {
+      "type": "sha256",
+      "value": "b3d8ea89b19a87bf2fdd63127086681059f41d67b6e5f8c939f5636a1b2315ce"
+    },
+    {
+      "type": "sha256",
+      "value": "b6a7be724871ed3e81c986b74d62da8911c82a336c4c1857b35f2446b2d49fda"
+    },
+    {
+      "type": "sha256",
+      "value": "b739635832c7f7f2be4821982980d2977165a2c8226f5912e6431db8c0cf6eea"
+    },
+    {
+      "type": "sha256",
+      "value": "b93f10f30ee453d1e1c046fec9d141c41d7680be5cd46c3aeb3febe0f4953b4d"
+    },
+    {
+      "type": "sha256",
+      "value": "ba4038fd20e474c047be8aad5bfacdb1bfc1ddbe12f803f473b7918d8d819436"
+    },
+    {
+      "type": "sha256",
+      "value": "bcccfca65602e2691e25e8590a7029fa40712e05eac8bf203f3f5dc900b31ad4"
+    },
+    {
+      "type": "sha256",
+      "value": "cc0ad05bfe85940a6067b3a72c182d3953339129206634141926d5d0b35973ec"
+    },
+    {
+      "type": "sha256",
+      "value": "cf50d73fa8117a758093b1344de41cd6a6ccddc645cdda1fa91a9264efe93956"
+    },
+    {
+      "type": "sha256",
+      "value": "d2ed7a7bf4f8ac9c7969e9b3a07ebd4dda0d858f372c876ac0a041611698de9a"
+    },
+    {
+      "type": "sha256",
+      "value": "d376e01930adabbe40634b8b16664a088d8bec2dc99aa88c16db9d302e45aaf5"
+    },
+    {
+      "type": "sha256",
+      "value": "d92f20d73ade9a6134bec960aed0c02873e19cd03d707c85064c73ce0f852104"
+    },
+    {
+      "type": "sha256",
+      "value": "d94f75a70b5cabaf786ac57177ed841732e62bdcc9a29e06e5b41d9be567bcfa"
+    },
+    {
+      "type": "sha256",
+      "value": "dac237636f2fb1e44e28117999e77fc42a53d3b59b80cfb84928452ffe561793"
+    },
+    {
+      "type": "sha256",
+      "value": "deabe064a12641c4e95d4b133746f148d8ed4bcffd1dfe9ce1b6621dde2aa774"
+    },
+    {
+      "type": "sha256",
+      "value": "deda7c30d798a19b6699a45fbcba503cf778594df9163c61c2f96bb2d2b9fb45"
+    },
+    {
+      "type": "sha256",
+      "value": "e2b6b1becdbcc340121e163b5afdfc5437a480ca132248ed5c7c309c45ac3dbb"
+    },
+    {
+      "type": "sha256",
+      "value": "ef7c23619cf9293002fbe4f50147e806de0168cf186ca01fea2e113dc2eb1dce"
+    },
+    {
+      "type": "sha256",
+      "value": "f8b86238e179d88a9979b6f97750a39dda1d07b54d634bc1348fdfb0944a3b92"
+    },
+    {
+      "type": "sha256",
+      "value": "f95c4d029e6784e3849b4d1e2e2ae1a661187236ef7c5d487c71158a290a03b5"
+    },
+    {
+      "type": "url",
+      "value": "http://103.79.79.191/yuze"
+    },
+    {
+      "type": "url",
+      "value": "http://108.165.20.205:8080/sqlrun2.ps1"
+    },
+    {
+      "type": "url",
+      "value": "http://154.81.37.136/server.ps1"
+    },
+    {
+      "type": "url",
+      "value": "http://160.119.69.4/hima_data/index.php"
+    },
+    {
+      "type": "url",
+      "value": "http://166.0.25.106/filemanager.asp"
+    },
+    {
+      "type": "url",
+      "value": "http://166.0.25.106/server.ps1"
+    },
+    {
+      "type": "url",
+      "value": "http://204.194.49.129:8080/ASK.exe"
+    },
+    {
+      "type": "url",
+      "value": "http://204.194.49.129:8080/bdreinit.exe"
+    },
+    {
+      "type": "url",
+      "value": "http://204.194.49.129:8080/log.dll"
+    },
+    {
+      "type": "url",
+      "value": "http://204.194.49.129:8080/log.txt"
+    },
+    {
+      "type": "url",
+      "value": "http://204.194.49.129:8080/qwdajhsd.asp"
+    },
+    {
+      "type": "url",
+      "value": "http://8.219.82.21/yuze"
+    },
+    {
+      "type": "url",
+      "value": "https://microsoft-flash.com/download/Adobe_installer.exe"
+    },
+    {
+      "type": "url",
+      "value": "https://ns.mo7sen.dev/EadF.php"
+    },
+    {
+      "type": "url",
+      "value": "https://ns.mo7sen.dev/EadF.php?p=4"
+    },
+    {
+      "type": "url",
+      "value": "https://ns.mo7sen.dev/EadF.php?p=5"
+    }
+  ],
+  "blocking_removed": [
+    {
+      "type": "domain",
+      "value": "advanceslibrary.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "backtoblack7.com",
+      "why": "reported as c2; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "black-popular.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "brodyagup.com",
+      "why": "reported as c2; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "buffalomarket.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "chatboxn.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "colatv88xb.cc",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "gvapi.cc",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "healthymagination.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "inkact.xyz",
+      "why": "reported as c2; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "institutobancopalmas.org",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "jurasudfoot.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "kaifdlyaw.com",
+      "why": "reported as c2; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "krogeralbertsons.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "luqiuid91.com",
+      "why": "reported as c2; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "maxfactor-international.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "minda-mo.com",
+      "why": "reported as phishing; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "publisher99.com",
+      "why": "reported as c2; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "relay.pronconetydesire.online",
+      "why": "reported as payload delivery; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "renpaste.top",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "rezilion.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "rocks56.com",
+      "why": "reported as c2; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "samefacts.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "snsystems.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "us.lenovoappstore.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "whatismybestthing.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "xemlaibongda.net",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "xoilacxys.top",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    }
+  ],
+  "previous_release": "20261111T115653Z",
+  "release": "20261112T125413Z"
+}

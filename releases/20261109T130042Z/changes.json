@@ -1,0 +1,72 @@
+{
+  "blocking_added": [
+    {
+      "type": "md5",
+      "value": "be60c52ca8a01fef7dc15c2f0ebb77d8"
+    }
+  ],
+  "blocking_removed": [
+    {
+      "type": "domain",
+      "value": "api.studiotikva.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "cdnjsdelivr.beer",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "koromoblog.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "ns1.studiotikva.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "ns2.studiotikva.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "stage-fashion365.vercel.app",
+      "why": "mentioned in a report, but with no stated malicious role"
+    },
+    {
+      "type": "domain",
+      "value": "ycz2.41414141303030.m.studiotikva.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "193.32.204.199",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "md5",
+      "value": "9d88b4494c7bc27b10358b68a899ad54",
+      "why": "mentioned in a report, but with no stated malicious role"
+    },
+    {
+      "type": "url",
+      "value": "http://sekirolegion.duckdns.org/api/endpoint.php",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "url",
+      "value": "https://api.studiotikva.com/ac",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "url",
+      "value": "https://stage-fashion365.vercel.app/static/tinymce4.7.5/plugins/fonts/v1104",
+      "why": "mentioned in a report, but with no stated malicious role"
+    }
+  ],
+  "previous_release": "20261108T112243Z",
+  "release": "20261109T130042Z"
+}

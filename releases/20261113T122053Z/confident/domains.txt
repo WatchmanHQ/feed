@@ -1,0 +1,45 @@
+# WatchmanHQ confident/domains.txt  release 20261113T122053Z
+# Validated, and either reported as malicious by 2+ independent sources, or registered by the attacker shortly before a recent report. Check against your own traffic before enforcing.
+# Registered domains. Match the domain AND all of its subdomains.
+# Valid until 2026-11-16 12:20 UTC. Do not enforce after that.
+# 37 entries. Sources for each: https://watchmanhq.com/watch/confident/
+# Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+# Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+# Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.
+albertamo.com
+bandg-electrics.com
+beliefdesk.xyz
+bloomfleldcapital.com
+bramum.online
+cdn007-digitaldownloads.com
+centipedtourspa.com
+companyharbor.xyz
+datamons.org
+dobeqnesmot.cc
+dpincoli.com
+dutchfarrms.com
+fdn4apex.com
+frameworkmetrics.xyz
+gcotoncovingtoncontracting.com
+grillrecipespro.com
+hjazfioe.surf
+homelygrill.com
+ideahom.world
+incommecialre.com
+joinconnect.cfd
+joinconnect.works
+joinhire.cfd
+jointhetalent.cfd
+kiriosyka.com
+liokida.com
+naregruop.com
+neihite.cc
+off365mail.club
+paleasbest.top
+rank1cdn.com
+seatacsmarine.com
+signalpane.cfd
+stellarntis-fs.com
+thegrilljournal.com
+westlaw-signon.com
+youtubechannelverification.com

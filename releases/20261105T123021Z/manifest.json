@@ -1,0 +1,351 @@
+{
+  "files": {
+    "blocking/domains.txt": {
+      "entries": 720,
+      "sha256": "5eb2b7b8471527c839821afc1e08e6a2a87aa8e53f41e6be767f9932f6481a3e"
+    },
+    "blocking/export/abp.txt": {
+      "entries": 5889,
+      "sha256": "56e4050cf49768d842c2deea1ebe8f66a8c4a639185d4d27393a03c66154153a"
+    },
+    "blocking/export/added.txt": {
+      "entries": 5889,
+      "sha256": "7d3d4b2beac2f25b174d25040cdf686087a37d38e42b53ae339181bfc5fca3e9"
+    },
+    "blocking/export/defender-1.csv": {
+      "entries": 5889,
+      "sha256": "108de9db455903e599cc06d4e858f60b90b2ff020aa445cebd91f83d8ed96f96"
+    },
+    "blocking/export/defender-10.csv": {
+      "entries": 5889,
+      "sha256": "33adcfb811d046721258175b7a017f305788e5f49dd0fc02ccd158d21d78d1f4"
+    },
+    "blocking/export/defender-2.csv": {
+      "entries": 5889,
+      "sha256": "62690fa0509107e48ce3abb43c8bca447cf04adf277b5deacf2e709acb069395"
+    },
+    "blocking/export/defender-3.csv": {
+      "entries": 5889,
+      "sha256": "3b5be1ccdef03f575200a532c3c3c76fc0fedc7e69bd9734c6b5cb3d184eb551"
+    },
+    "blocking/export/defender-4.csv": {
+      "entries": 5889,
+      "sha256": "6f563b67d72c09cb67a5905ebeae8d2069eefe4f9c73736df7f4d0cfd672b178"
+    },
+    "blocking/export/defender-5.csv": {
+      "entries": 5889,
+      "sha256": "ae2e2ca4bd045eb3ef7fee40ea153962992656e78c3bc6d5628b3d1f18333e6c"
+    },
+    "blocking/export/defender-6.csv": {
+      "entries": 5889,
+      "sha256": "15c00ae18bd459d70f37dd7fac9d3f94089c0c2547d529936477f72b14ba1884"
+    },
+    "blocking/export/defender-7.csv": {
+      "entries": 5889,
+      "sha256": "8e3bd8d21fc4596103ed56e28932a844c30c7418a22532b60db9291de9eb1dcd"
+    },
+    "blocking/export/defender-8.csv": {
+      "entries": 5889,
+      "sha256": "c9e31f227ea56445f98abee67859a7b368ae7b977803c60d75e39a2c3e766fbb"
+    },
+    "blocking/export/defender-9.csv": {
+      "entries": 5889,
+      "sha256": "c72ddf4e044483ee202e955486168a72f8560eb36136b090d4bf7c5018fdb1f6"
+    },
+    "blocking/export/dnsmasq.conf": {
+      "entries": 5889,
+      "sha256": "68eba119cd44900a0262331cab7b2454e30a1c92fe6e47d7e668ceca68e4b1ef"
+    },
+    "blocking/export/etc-hosts.txt": {
+      "entries": 5889,
+      "sha256": "b6cdea363e2b40c9cb558ad6eb2802068907b0f0cae8829a9d34f1c4392697df"
+    },
+    "blocking/export/fortigate-domains.txt": {
+      "entries": 5889,
+      "sha256": "840e6f67e9b312b8e474e7dbdf3937e428cd05116f55117b5f9d8ffd94dd068c"
+    },
+    "blocking/export/hashes-md5.txt": {
+      "entries": 5889,
+      "sha256": "3b860ce79309032c623b8b4ea2e496895675165ea9c847e51a6ffe5faacda2ad"
+    },
+    "blocking/export/hashes-sha1.txt": {
+      "entries": 5889,
+      "sha256": "01a5eff461dae3f91364c725c2d6f68fcaface4338bb528efe7ae97881e4dcee"
+    },
+    "blocking/export/hashes-sha256.txt": {
+      "entries": 5889,
+      "sha256": "597bb67d8b50e127bfa05de26fd2a98325041fa52913e2c4aed8c4bf84eb26c1"
+    },
+    "blocking/export/paloalto-domains.txt": {
+      "entries": 5889,
+      "sha256": "17ed5fa8106b1bf2f5d7f125d2f6b431398e9df54f6c37804cdd89b3d6f7996e"
+    },
+    "blocking/export/paloalto-urls.txt": {
+      "entries": 5889,
+      "sha256": "2409d91b72f461f697c8d7ad14f82715dc444a68755da5d9e27b285df1674850"
+    },
+    "blocking/export/plain-ips.txt": {
+      "entries": 5889,
+      "sha256": "083a67ea29017e40c0514774c2eedc90042494d861e3c5c6efa15746553d8624"
+    },
+    "blocking/export/plain-ipv4.txt": {
+      "entries": 5889,
+      "sha256": "083a67ea29017e40c0514774c2eedc90042494d861e3c5c6efa15746553d8624"
+    },
+    "blocking/export/plain-ipv6.txt": {
+      "entries": 5889,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    "blocking/export/plain-urls.txt": {
+      "entries": 5889,
+      "sha256": "9a260816b6934b3bacbe3a4cd70f99b1e77a5bbd2185fa626308ad5cbafc7569"
+    },
+    "blocking/export/removed.txt": {
+      "entries": 5889,
+      "sha256": "ac455bd510a87b79da97fc2262781e2ac44c28693145c42b3bd9ac0fd721b3eb"
+    },
+    "blocking/export/rpz.zone": {
+      "entries": 5889,
+      "sha256": "ec65fb802440c385576eefa3f9c0c94b603f987bf88e09a86ae5cac173ab82f2"
+    },
+    "blocking/export/unbound.conf": {
+      "entries": 5889,
+      "sha256": "e80cd12a51ee9bf72fc0c0c197b4c9a6839ba1538eefd4f1dc0757f97bbc773c"
+    },
+    "blocking/hashes.txt": {
+      "entries": 3724,
+      "sha256": "c24eb3711378496e899f6fb96c8c99eabea1441fdc0b5b955298ad5bb2d0ca02"
+    },
+    "blocking/hosts.txt": {
+      "entries": 367,
+      "sha256": "42ffc688ad0ede1df8279c68c0db5925d0166eef506da8b460677daaefaf77af"
+    },
+    "blocking/ips.txt": {
+      "entries": 703,
+      "sha256": "916ee9c68492ee57be65c77590826f06bbbf0065429672d1d4748b8933c3de0b"
+    },
+    "blocking/urls.txt": {
+      "entries": 375,
+      "sha256": "3d3833b47f892798053598e165f6a9d2f4295be02e7438e5490ba79a7e5b0ab8"
+    },
+    "changes.json": {
+      "entries": 51,
+      "sha256": "40f12b3e0a7e09ffb62da7bc48cace03a9ecc092e33a4a68e0a35f881d71beb6"
+    },
+    "compromise-check/domains.txt": {
+      "entries": 432,
+      "sha256": "55d0e1c5ffb4650d36c92002ca01e210f8c8753a2adcd6c62ae2c03464a1d3ac"
+    },
+    "compromise-check/export/plain-domains.txt": {
+      "entries": 535,
+      "sha256": "58e8fa4173e54a3f780afb82205e29527a9c9c4211a2f35758d646bac2d783fa"
+    },
+    "compromise-check/export/plain-urls.txt": {
+      "entries": 21,
+      "sha256": "66c05ffd88c0010cbfd3988b26c9d6908b823a7184c36285652a75aaa9700e79"
+    },
+    "compromise-check/hosts.txt": {
+      "entries": 103,
+      "sha256": "3da589eb63e75936840fb90259bea78b05aea302020d8ebe32914536394064de"
+    },
+    "compromise-check/urls.txt": {
+      "entries": 21,
+      "sha256": "777e929a1f657653b3faa401ad3972c7215b04463816283d4ba0b063894b0787"
+    },
+    "confident/domains.txt": {
+      "entries": 34,
+      "sha256": "d4b10f4c83837dc76b8c5568ba8a1c58b9f3bd8c814c96d29846a023cc2fe6e5"
+    },
+    "confident/export/abp.txt": {
+      "entries": 90,
+      "sha256": "128f955e272dcf08f498dd06e37e423afc22e50fec65e7cabe2b2795db54dbf9"
+    },
+    "confident/export/added.txt": {
+      "entries": 90,
+      "sha256": "8e8298a8f086d4027afa08d0e4b193dc011fc05edd69c3f4f3b2ac9505296f89"
+    },
+    "confident/export/defender-1.csv": {
+      "entries": 90,
+      "sha256": "0bf876ddb6bfcdde0b3508dd9d4ad9ccbc02cade0ef95c15be0e8715d6562e6f"
+    },
+    "confident/export/dnsmasq.conf": {
+      "entries": 90,
+      "sha256": "a27eada97016f2ad3034051a08bf9008c0d533abf66b6a6a53e33fe204151c85"
+    },
+    "confident/export/etc-hosts.txt": {
+      "entries": 90,
+      "sha256": "6d38b982365c41bed63c90d63847d9893592e1f52dc2bca75ea4a3e029fdb50d"
+    },
+    "confident/export/fortigate-domains.txt": {
+      "entries": 90,
+      "sha256": "0bc129fc79339ce9535beb0c027f2f2394b494fc5ed133193ecccd6692b461a6"
+    },
+    "confident/export/hashes-md5.txt": {
+      "entries": 90,
+      "sha256": "cd766adb1ab01b1c8a5debdf5b009bf465b3d2486b2a466b3c140caa18b06a84"
+    },
+    "confident/export/hashes-sha1.txt": {
+      "entries": 90,
+      "sha256": "d9c75d3e67af3f4608900dc9085b9bbd5638b42ce83eb826cd7bd3c886604d5f"
+    },
+    "confident/export/hashes-sha256.txt": {
+      "entries": 90,
+      "sha256": "9087fa8e3baa7004ec90f3e6cd532ea6e116c04cc6f476b6e42951e1e08928c7"
+    },
+    "confident/export/paloalto-domains.txt": {
+      "entries": 90,
+      "sha256": "f96ee4302134f128080d0f649a7cb0dccd4c945b1531bdd8740c7042e150e9c5"
+    },
+    "confident/export/paloalto-urls.txt": {
+      "entries": 90,
+      "sha256": "64712a64f0aeb4b2fef6e9a18feb1cc943c250f105650c54ebff0868f738b2d2"
+    },
+    "confident/export/plain-ips.txt": {
+      "entries": 90,
+      "sha256": "1874e84eff271d5a13b285e5839b4208f6d553b557d97c2d43a52464fbc393dd"
+    },
+    "confident/export/plain-ipv4.txt": {
+      "entries": 90,
+      "sha256": "1874e84eff271d5a13b285e5839b4208f6d553b557d97c2d43a52464fbc393dd"
+    },
+    "confident/export/plain-ipv6.txt": {
+      "entries": 90,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    "confident/export/plain-urls.txt": {
+      "entries": 90,
+      "sha256": "4cd92223e183a3052eb12ec20dfca00e8e8c5126f714db5058dffc5f486d7d26"
+    },
+    "confident/export/removed.txt": {
+      "entries": 90,
+      "sha256": "ec079139b0737779c7086eb6fb7a07dee46c852254a27485c6d197410faedf95"
+    },
+    "confident/export/rpz.zone": {
+      "entries": 90,
+      "sha256": "f20e3081b613ab111727e150f81b3245f87e8c48c39ec3561aea9141205e7315"
+    },
+    "confident/export/unbound.conf": {
+      "entries": 90,
+      "sha256": "e10aa349bd288dd77604862cbdb24d2c71b2a7f58c4faeabe0dbacf3a27bd705"
+    },
+    "confident/hashes.txt": {
+      "entries": 39,
+      "sha256": "edfaa71385f5f1841c19369df57dd840adb208a47be2393073f028801fc9374e"
+    },
+    "confident/hosts.txt": {
+      "entries": 10,
+      "sha256": "8c345e1936ba9cce96bef58217c420bfffacab034ab46cf5ddbbf58c488b0a17"
+    },
+    "confident/ips.txt": {
+      "entries": 4,
+      "sha256": "7bd1130bb7b81a80ce84d4b18f879e02df2d2c18798790a1e6f899c34d85c6ad"
+    },
+    "confident/urls.txt": {
+      "entries": 3,
+      "sha256": "2fdcacfe6ecdcb046483cf01961b571c3f75bef036a0a8f5000edc8bb4adf61d"
+    },
+    "fresh/domains.txt": {
+      "entries": 186,
+      "sha256": "07fde16aec7a49e40b6c419a1ca2e5b5703b85c8c2956128303a1a0d0864a2ca"
+    },
+    "fresh/export/abp.txt": {
+      "entries": 429,
+      "sha256": "808714b8e1809372e7c1ac29fc5185136c609f76c02571b4cb7f655b1a895001"
+    },
+    "fresh/export/added.txt": {
+      "entries": 429,
+      "sha256": "5e3930d1cd53562f01183de309d759a30b50b53bf4d5b2cc7572df07d46199ed"
+    },
+    "fresh/export/defender-1.csv": {
+      "entries": 429,
+      "sha256": "6447272979a9f68335a897d2a6129d40e90069f69142bd60ef8cdff2957d09ab"
+    },
+    "fresh/export/dnsmasq.conf": {
+      "entries": 429,
+      "sha256": "727cd4a98f2cff11655f797b37a84ab9f532d6018a9fef99d536bf61ae35c294"
+    },
+    "fresh/export/etc-hosts.txt": {
+      "entries": 429,
+      "sha256": "858c8533ab339a14ff2aa46bf50b3ae9b14faf6e57324c5792e38dfe96d5be18"
+    },
+    "fresh/export/fortigate-domains.txt": {
+      "entries": 429,
+      "sha256": "6b22885a9e3b50f14277ced45080c438d998f68b24bdc444771f8642b6663aef"
+    },
+    "fresh/export/paloalto-domains.txt": {
+      "entries": 429,
+      "sha256": "73514e6921fe43c77dc97d745e6e9aa09858a3da9acf32ec2403cd154bd35210"
+    },
+    "fresh/export/paloalto-urls.txt": {
+      "entries": 429,
+      "sha256": "f0d2db81e092beb709cebc571cdc081a6854f3a62ee01fda4b748e697a63d5d3"
+    },
+    "fresh/export/plain-urls.txt": {
+      "entries": 429,
+      "sha256": "40da06a2c5efea049058604b422edd07b6ff385acf880276982281983628c1b7"
+    },
+    "fresh/export/removed.txt": {
+      "entries": 429,
+      "sha256": "61282b881fac33ad6a1485cd2be3dcb719613a407d06aa8a3678772867668f57"
+    },
+    "fresh/export/rpz.zone": {
+      "entries": 429,
+      "sha256": "c3d27f4fee0730e837fd8a9a2179f2a979441b976bf792c2a7b3d3f4b629a894"
+    },
+    "fresh/export/unbound.conf": {
+      "entries": 429,
+      "sha256": "68c6a8a5779a8e016a4d9806c5045ca0152938a4b345871dd80ea3eabe9c0cd1"
+    },
+    "fresh/hosts.txt": {
+      "entries": 76,
+      "sha256": "960d91c4a65ccb9163b7f0d2c0e8f6d41c38b2455899bef014c0a58f0daa924c"
+    },
+    "fresh/urls.txt": {
+      "entries": 167,
+      "sha256": "9909e423dc68c23f4f7c7ddd3b75d3fd036800c6925864717a610af7b3e4f28a"
+    },
+    "hunting/domains.txt": {
+      "entries": 3014,
+      "sha256": "a356c1cdca03b9aa47e9d8dfdc870931e783a293a47eda7e9dbb35517516a317"
+    },
+    "hunting/hashes.txt": {
+      "entries": 3773,
+      "sha256": "9247355262169dff09f57160484e94b52f9aad6dd832c3dd935a0015d1157e21"
+    },
+    "hunting/hosts.txt": {
+      "entries": 1443,
+      "sha256": "e68ca9877f07411eb9143ae5fcf7e5bbc49d7d155515fa4f3b7344fa5b14d016"
+    },
+    "hunting/ips.txt": {
+      "entries": 1932,
+      "sha256": "a5c348f096b1738dc0a255accd6ca4caafb5a2410f8c822c0957c5457ddcec86"
+    },
+    "hunting/urls.txt": {
+      "entries": 1242,
+      "sha256": "3b28a7d9aba7bee43092f4881c9c259557eb14e593d3b0b2ec454b48856cdd1b"
+    },
+    "patch-now/alerts.json": {
+      "entries": 26,
+      "sha256": "bfde3556320f1e5d6aca32c0087c426a0d7e996c19d3bed3753873f6cc1d183a"
+    },
+    "patch-now/alerts.md": {
+      "entries": 26,
+      "sha256": "71385877a8b706a5ad31f5cde23b61fd299e0494c74dea5ed2c9e3fdda098173"
+    },
+    "patch-now/feed.xml": {
+      "entries": 26,
+      "sha256": "3aa37545578e91aba98511f8d1a7ec36f434ecc832d4f4482bb1fb9cf007bb19"
+    },
+    "report.md": {
+      "entries": 90,
+      "sha256": "8f8610af7fd547087e341a7df52ab37e305e991d644eeb0475217a9031d79253"
+    },
+    "track_record.json": {
+      "entries": 36,
+      "sha256": "83ef93e4c90b4230ebb3e639e7a640dad91c19ba01ed47c77a0f82421e00ea38"
+    }
+  },
+  "generated": "2026-11-05T12:30:21.247774+00:00",
+  "release": "20261105T123021Z",
+  "valid_until": "2026-11-08T12:30:21.247774+00:00"
+}

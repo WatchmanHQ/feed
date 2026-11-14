@@ -1,0 +1,39 @@
+{
+  "blocking_added": [
+    {
+      "type": "domain",
+      "value": "pythonapischool.com"
+    },
+    {
+      "type": "md5",
+      "value": "ff07641dc56914dd90ee0bd7404d7ad7"
+    },
+    {
+      "type": "url",
+      "value": "https://cubedesign.co.kr/mobile/fashion"
+    },
+    {
+      "type": "url",
+      "value": "https://cubedesign.co.kr/news"
+    },
+    {
+      "type": "url",
+      "value": "https://cubedesign.co.kr/news/AABBCC"
+    },
+    {
+      "type": "url",
+      "value": "https://fp-news.co.kr/shop/cart"
+    },
+    {
+      "type": "url",
+      "value": "https://k-wbc.co.kr/skin/social/social_view.php"
+    },
+    {
+      "type": "url",
+      "value": "https://www.ksog.org/insert_file/handle.php"
+    }
+  ],
+  "blocking_removed": [],
+  "previous_release": "20261021T011925Z",
+  "release": "20261021T044500Z"
+}

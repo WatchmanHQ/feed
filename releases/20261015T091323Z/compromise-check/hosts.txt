@@ -1,0 +1,86 @@
+# WatchmanHQ compromise-check/hosts.txt  release 20261015T091323Z
+# Already suspended or sinkholed, so blocking them does little. Search your DNS and proxy logs from the last 30 to 90 days: a device that looked one up is probably infected. NEVER use this as a block list.
+# Exact host names. Match this name only, never its parent domain.
+# Valid until 2026-10-18 09:13 UTC. Do not enforce after that.
+# 78 entries. Sources for each: https://watchmanhq.com/watch/compromise-check/
+# Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+# Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+# Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.
+5orka.tiktok-u.sbs
+adp.pslcertlive.site
+app.shuchipharmacy.com
+ars.greebys.com
+au1.tiktok-u.sbs
+bel1.tiktok-u.sbs
+bridge1.tiktok-u.sbs
+bsf.allmetreod.com
+can2.tiktok-u.sbs
+cel-robox.com
+cer.septey.shop
+cer.verpox.shop
+cloud.g-drive.cam
+cloud.tiktok-u.sbs
+company-name.integratedsso.com
+company-name.secure-passkey.com
+config.hubdisplay.lol
+connect.activitykitty.xyz
+connect.armcard.xyz
+connect.badgeterritory.xyz
+connect.baitmetal.xyz
+connect.believesisters.xyz
+connect.boundaryfly.xyz
+connect.chinexpert.xyz
+connect.dresstent.xyz
+connect.dropjeans.xyz
+connect.edgeplayground.xyz
+connect.fangstitch.xyz
+connect.forkcountry.xyz
+connect.geesepurpose.xyz
+connect.giraffetoothpaste.xyz
+connect.guitarrobin.xyz
+connect.harborclam.xyz
+connect.prosesalt.xyz
+connect.quiltgirls.xyz
+connect.rewardrun.xyz
+connect.thingbrass.xyz
+connect.thoughtslave.xyz
+connect.zebratransport.xyz
+connection.upgradeonline.site
+digital.leroymerling.com
+dtm.kijangturbo88.top
+health.journal-metric.lol
+hpn.bandhiem.com
+jp2.tiktok-u.sbs
+mail.authorized-logins.net
+main.southcarolinacounselor.com
+php.authorized-logins.net
+sau1.tiktok-u.sbs
+sau2.tiktok-u.sbs
+sau3.tiktok-u.sbs
+seguranca.versionnova.site
+sss.authorized-logins.net
+static.ariesglobalsoft.com
+static.trythecrowdmakers.com
+uae1.tiktok-u.sbs
+uae10.tiktok-u.sbs
+uae11.tiktok-u.sbs
+uae12.tiktok-u.sbs
+uae13.tiktok-u.sbs
+uae14.tiktok-u.sbs
+uae2.tiktok-u.sbs
+uae3.tiktok-u.sbs
+uae4.tiktok-u.sbs
+uae5.tiktok-u.sbs
+uae6.tiktok-u.sbs
+uae7.tiktok-u.sbs
+uae8.tiktok-u.sbs
+uae9.tiktok-u.sbs
+uk1.tiktok-u.sbs
+uk2.tiktok-u.sbs
+update.apex-arena-router.com
+ver.verpox.shop
+vrf.atskinsonel.com
+vrf.iar0nline.com
+wes.cadsta.online
+www.racon.online
+www.wangmeng.xyz
