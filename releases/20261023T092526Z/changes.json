@@ -1,0 +1,185 @@
+{
+  "blocking_added": [
+    {
+      "type": "domain",
+      "value": "choclatey.org"
+    },
+    {
+      "type": "domain",
+      "value": "community.choclatey.org"
+    },
+    {
+      "type": "domain",
+      "value": "datamons.org"
+    },
+    {
+      "type": "domain",
+      "value": "niceer.net"
+    },
+    {
+      "type": "domain",
+      "value": "pymons.is"
+    },
+    {
+      "type": "domain",
+      "value": "supertrap.net"
+    },
+    {
+      "type": "domain",
+      "value": "workerstats.net"
+    },
+    {
+      "type": "ip",
+      "value": "143.246.223.124"
+    },
+    {
+      "type": "ip",
+      "value": "158.69.113.75"
+    },
+    {
+      "type": "ip",
+      "value": "193.26.115.16"
+    },
+    {
+      "type": "ip",
+      "value": "193.26.115.21"
+    },
+    {
+      "type": "ip",
+      "value": "193.26.115.210"
+    },
+    {
+      "type": "ip",
+      "value": "193.26.115.221"
+    },
+    {
+      "type": "ip",
+      "value": "193.26.115.72"
+    },
+    {
+      "type": "ip",
+      "value": "209.99.186.187"
+    },
+    {
+      "type": "ip",
+      "value": "45.198.224.169"
+    },
+    {
+      "type": "ip",
+      "value": "5.191.140.240"
+    },
+    {
+      "type": "ip",
+      "value": "82.153.135.80"
+    },
+    {
+      "type": "ip",
+      "value": "85.11.167.243"
+    },
+    {
+      "type": "ip",
+      "value": "92.118.112.100"
+    },
+    {
+      "type": "ip",
+      "value": "94.154.43.149"
+    },
+    {
+      "type": "md5",
+      "value": "0c883b1d66afce606d9830f48d69d74b"
+    },
+    {
+      "type": "md5",
+      "value": "485055033bcddfde56325c0d2feea4f2"
+    },
+    {
+      "type": "md5",
+      "value": "cca616647db9370c88998ae25da6997f"
+    },
+    {
+      "type": "sha256",
+      "value": "0c5486f06620e26e316f4b33f318b0d646d5e1133789331aa2fed012360d1486"
+    },
+    {
+      "type": "sha256",
+      "value": "267a3c8ed021a0a52c29bf076617a0dfd5cd5285202b8d0bd9ad0712110ccae8"
+    },
+    {
+      "type": "sha256",
+      "value": "7fc50b69b56bfdfa9fc0a3e088ff13904587d6336a51e9edcc7919cba83d4e3f"
+    },
+    {
+      "type": "sha256",
+      "value": "985c3972712218c62d2418b41056dba5fe883ca5104d8ec12041f8611db344f9"
+    },
+    {
+      "type": "sha256",
+      "value": "c1146fbcaa433385839c25839a61cd7fedaff858cc0d3fd063dba68db2cf31b4"
+    },
+    {
+      "type": "sha256",
+      "value": "d921fc993574c8be76553bcf4296d2851e48ee39b958205e69bdfd7cf661d2b1"
+    },
+    {
+      "type": "sha256",
+      "value": "e2529d4afa39ae4db2eb05d5176317c906289abf09660c75bdeec43e54c55aa3"
+    },
+    {
+      "type": "url",
+      "value": "http://92.118.112.100/mountpoint"
+    },
+    {
+      "type": "url",
+      "value": "http://92.118.112.100/nfs-setup"
+    }
+  ],
+  "blocking_removed": [
+    {
+      "type": "ip",
+      "value": "155.254.26.180",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "157.90.179.116",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "185.174.102.34",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "207.189.19.40",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "212.189.40.73",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "216.126.229.216",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "64.204.180.203",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "67.43.50.11",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "91.92.41.114",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    }
+  ],
+  "previous_release": "20261022T092900Z",
+  "release": "20261023T092526Z"
+}

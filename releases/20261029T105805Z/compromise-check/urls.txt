@@ -1,0 +1,29 @@
+# WatchmanHQ compromise-check/urls.txt  release 20261029T105805Z
+# Already suspended or sinkholed, so blocking them does little. Search your DNS and proxy logs from the last 30 to 90 days: a device that looked one up is probably infected. NEVER use this as a block list.
+# Full URLs. Match exactly.
+# Valid until 2026-11-01 10:58 UTC. Do not enforce after that.
+# 21 entries. Sources for each: https://watchmanhq.com/watch/compromise-check/
+# Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+# Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+# Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.
+https://1foqo.lat/core4
+https://cloud.g-drive.cam/signin/v2/identifier?from=landing
+https://docsend.online/download/drivers
+https://download.alertbh.info/BH-Alert.apk
+https://haoekang.com/4huotov
+https://haoekang.com/dpppdvm
+https://innovizeltd.net/89a665f9e5
+https://ircjunx.com/4b4d9175da
+https://ircjunx.com/8fe47cc01e
+https://kecifang.net/787118798b
+https://kleinschnitg.com/F3bebOag/?id=email
+https://koenig-usa.com/2jih3ph
+https://koenig-usa.com/2zc4bj2
+https://koenig-usa.com/8ds6p4r
+https://koenig-usa.com/9hbtf25
+https://koenig-usa.com/m5ksfw9
+https://koenig-usa.com/thzooo3
+https://koenig-usa.com/v9bbzdg
+https://npm-cache.com:443/router
+https://stryper.info/aa.js
+https://stryper.info/t.ps1

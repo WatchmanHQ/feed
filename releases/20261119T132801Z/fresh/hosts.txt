@@ -1,0 +1,40 @@
+# WatchmanHQ fresh/hosts.txt  release 20261119T132801Z
+# Blocking domains and URLs first reported in the last 14 days, none taken down: the newest names, which free filtering resolvers have had the least time to add. Part of blocking: pilot in alert-only mode first.
+# Exact host names. Match this name only, never its parent domain.
+# Valid until 2026-11-22 13:28 UTC. Do not enforce after that.
+# 32 entries. Sources for each: https://watchmanhq.com/watch/blocking/
+# Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+# Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+# Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.
+alphanoob.com
+amelicen.com
+api.frameworkmetrics.xyz
+api.o45qhw6g17bwhdy.icu
+c2.jndft28.xyz
+dot.fmcsa.saferprofilereview.info
+fedserv.thenewsip.site
+ftp.vietnam852.com
+land.jndft28.xyz
+mch.jndft28.xyz
+motus.iconnectdataconsolidation.online
+motus.relayconsolidation.online
+ms.twnic.top
+newbooker.com
+ns.mo7sen.dev
+oast.pro
+planetmaison.com
+radnewage.com
+reallifeaccounting.com
+reg.baidureg0627.xyz
+sc.payproofkit.com
+smart-url-worker.denisfsr-kemp.workers.dev
+tac.vpnla.org
+wekash.net
+www.cloudflacecdn.com
+www.hlushkova.top
+www.investigationj6.com
+www.maui-cocktailbar.com
+www.stanbicfinanceug.com
+www.wkuyda.com
+www.ylhg250627linecfg.xyz
+yecaoyun.com

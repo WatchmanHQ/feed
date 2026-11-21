@@ -1,0 +1,65 @@
+; WatchmanHQ confident list, release 20261024T085653Z. Valid until 2026-10-27 08:56 UTC; refresh daily and stop using it after that.
+; Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+; Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+; Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.
+$TTL 300
+@ IN SOA localhost. hostmaster.localhost. 1792832213 3600 600 86400 300
+@ IN NS localhost.
+asdfafadafg.online CNAME .
+*.asdfafadafg.online CNAME .
+awqhnjewqjkl.icu CNAME .
+*.awqhnjewqjkl.icu CNAME .
+bobroviysmex.shop CNAME .
+*.bobroviysmex.shop CNAME .
+cyrna.top CNAME .
+*.cyrna.top CNAME .
+damaix9k.com CNAME .
+*.damaix9k.com CNAME .
+dobeqnesmot.cc CNAME .
+*.dobeqnesmot.cc CNAME .
+dojaekrt.trade CNAME .
+*.dojaekrt.trade CNAME .
+easybooters.com CNAME .
+*.easybooters.com CNAME .
+erifytrtr1.vip CNAME .
+*.erifytrtr1.vip CNAME .
+fdn4apex.com CNAME .
+*.fdn4apex.com CNAME .
+hjazfioe.surf CNAME .
+*.hjazfioe.surf CNAME .
+joinconnect.cfd CNAME .
+*.joinconnect.cfd CNAME .
+jointhetalent.cfd CNAME .
+*.jointhetalent.cfd CNAME .
+js-mirror.com CNAME .
+*.js-mirror.com CNAME .
+kaiangelsystems.rest CNAME .
+*.kaiangelsystems.rest CNAME .
+matie-bal.club CNAME .
+*.matie-bal.club CNAME .
+neihite.cc CNAME .
+*.neihite.cc CNAME .
+nextlanding.net CNAME .
+*.nextlanding.net CNAME .
+nweenwew234.cc CNAME .
+*.nweenwew234.cc CNAME .
+pypi-get.com CNAME .
+*.pypi-get.com CNAME .
+rabbids-sixseven.cc CNAME .
+*.rabbids-sixseven.cc CNAME .
+rank1cdn.com CNAME .
+*.rank1cdn.com CNAME .
+recap-check.org CNAME .
+*.recap-check.org CNAME .
+rocks56.com CNAME .
+*.rocks56.com CNAME .
+ruten.observer CNAME .
+*.ruten.observer CNAME .
+skibidistealer.team CNAME .
+*.skibidistealer.team CNAME .
+thegrilljournal.com CNAME .
+*.thegrilljournal.com CNAME .
+verifytrtr.vip CNAME .
+*.verifytrtr.vip CNAME .
+help.xenngypt.com CNAME .
+www.litellm.dev CNAME .

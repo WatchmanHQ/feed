@@ -1,0 +1,611 @@
+{
+  "blocking_added": [
+    {
+      "type": "domain",
+      "value": "aauctioneer.com"
+    },
+    {
+      "type": "domain",
+      "value": "aistei.com"
+    },
+    {
+      "type": "domain",
+      "value": "amelicen.com"
+    },
+    {
+      "type": "domain",
+      "value": "faceorkut.com"
+    },
+    {
+      "type": "domain",
+      "value": "jamvybez.com"
+    },
+    {
+      "type": "domain",
+      "value": "microscoft.vip"
+    },
+    {
+      "type": "domain",
+      "value": "microsfot.vip"
+    },
+    {
+      "type": "domain",
+      "value": "westlaw-signon.com"
+    },
+    {
+      "type": "domain",
+      "value": "windefender.net"
+    },
+    {
+      "type": "domain",
+      "value": "xmsae.sbs"
+    },
+    {
+      "type": "ip",
+      "value": "103.141.235.123"
+    },
+    {
+      "type": "ip",
+      "value": "103.215.216.116"
+    },
+    {
+      "type": "ip",
+      "value": "103.215.216.117"
+    },
+    {
+      "type": "ip",
+      "value": "103.215.216.123"
+    },
+    {
+      "type": "ip",
+      "value": "103.215.216.125"
+    },
+    {
+      "type": "ip",
+      "value": "103.215.216.162"
+    },
+    {
+      "type": "ip",
+      "value": "103.215.216.186"
+    },
+    {
+      "type": "ip",
+      "value": "103.215.216.197"
+    },
+    {
+      "type": "ip",
+      "value": "103.215.216.27"
+    },
+    {
+      "type": "ip",
+      "value": "103.215.216.75"
+    },
+    {
+      "type": "ip",
+      "value": "103.9.77.116"
+    },
+    {
+      "type": "ip",
+      "value": "108.61.161.250"
+    },
+    {
+      "type": "ip",
+      "value": "109.205.195.131"
+    },
+    {
+      "type": "ip",
+      "value": "130.94.91.53"
+    },
+    {
+      "type": "ip",
+      "value": "134.255.211.224"
+    },
+    {
+      "type": "ip",
+      "value": "135.136.135.54"
+    },
+    {
+      "type": "ip",
+      "value": "149.104.12.128"
+    },
+    {
+      "type": "ip",
+      "value": "149.104.87.222"
+    },
+    {
+      "type": "ip",
+      "value": "149.104.90.200"
+    },
+    {
+      "type": "ip",
+      "value": "151.242.188.220"
+    },
+    {
+      "type": "ip",
+      "value": "153.127.55.77"
+    },
+    {
+      "type": "ip",
+      "value": "154.205.154.70"
+    },
+    {
+      "type": "ip",
+      "value": "154.205.154.82"
+    },
+    {
+      "type": "ip",
+      "value": "154.223.21.194"
+    },
+    {
+      "type": "ip",
+      "value": "156.244.2.26"
+    },
+    {
+      "type": "ip",
+      "value": "158.255.213.189"
+    },
+    {
+      "type": "ip",
+      "value": "160.16.83.208"
+    },
+    {
+      "type": "ip",
+      "value": "165.154.226.247"
+    },
+    {
+      "type": "ip",
+      "value": "165.154.227.16"
+    },
+    {
+      "type": "ip",
+      "value": "165.154.243.24"
+    },
+    {
+      "type": "ip",
+      "value": "167.179.109.141"
+    },
+    {
+      "type": "ip",
+      "value": "180.149.44.115"
+    },
+    {
+      "type": "ip",
+      "value": "180.149.44.43"
+    },
+    {
+      "type": "ip",
+      "value": "185.93.173.30"
+    },
+    {
+      "type": "ip",
+      "value": "188.214.157.51"
+    },
+    {
+      "type": "ip",
+      "value": "194.213.18.178"
+    },
+    {
+      "type": "ip",
+      "value": "2.56.222.28"
+    },
+    {
+      "type": "ip",
+      "value": "2.56.222.49"
+    },
+    {
+      "type": "ip",
+      "value": "207.189.10.188"
+    },
+    {
+      "type": "ip",
+      "value": "216.185.57.152"
+    },
+    {
+      "type": "ip",
+      "value": "216.238.106.177"
+    },
+    {
+      "type": "ip",
+      "value": "216.238.107.140"
+    },
+    {
+      "type": "ip",
+      "value": "216.238.111.30"
+    },
+    {
+      "type": "ip",
+      "value": "216.238.113.122"
+    },
+    {
+      "type": "ip",
+      "value": "216.238.115.152"
+    },
+    {
+      "type": "ip",
+      "value": "216.238.118.179"
+    },
+    {
+      "type": "ip",
+      "value": "216.238.119.130"
+    },
+    {
+      "type": "ip",
+      "value": "216.238.120.8"
+    },
+    {
+      "type": "ip",
+      "value": "216.238.121.254"
+    },
+    {
+      "type": "ip",
+      "value": "216.238.123.242"
+    },
+    {
+      "type": "ip",
+      "value": "216.238.71.215"
+    },
+    {
+      "type": "ip",
+      "value": "216.238.73.14"
+    },
+    {
+      "type": "ip",
+      "value": "216.238.85.243"
+    },
+    {
+      "type": "ip",
+      "value": "216.238.90.160"
+    },
+    {
+      "type": "ip",
+      "value": "217.69.13.77"
+    },
+    {
+      "type": "ip",
+      "value": "23.227.199.41"
+    },
+    {
+      "type": "ip",
+      "value": "37.122.150.133"
+    },
+    {
+      "type": "ip",
+      "value": "38.54.45.155"
+    },
+    {
+      "type": "ip",
+      "value": "38.54.57.12"
+    },
+    {
+      "type": "ip",
+      "value": "38.54.71.107"
+    },
+    {
+      "type": "ip",
+      "value": "38.54.71.160"
+    },
+    {
+      "type": "ip",
+      "value": "38.54.71.56"
+    },
+    {
+      "type": "ip",
+      "value": "38.60.195.184"
+    },
+    {
+      "type": "ip",
+      "value": "38.60.206.85"
+    },
+    {
+      "type": "ip",
+      "value": "38.60.209.227"
+    },
+    {
+      "type": "ip",
+      "value": "38.60.209.65"
+    },
+    {
+      "type": "ip",
+      "value": "38.60.214.237"
+    },
+    {
+      "type": "ip",
+      "value": "38.60.242.182"
+    },
+    {
+      "type": "ip",
+      "value": "45.158.196.141"
+    },
+    {
+      "type": "ip",
+      "value": "45.158.196.81"
+    },
+    {
+      "type": "ip",
+      "value": "45.197.12.11"
+    },
+    {
+      "type": "ip",
+      "value": "45.39.103.5"
+    },
+    {
+      "type": "ip",
+      "value": "45.76.215.17"
+    },
+    {
+      "type": "ip",
+      "value": "45.80.208.195"
+    },
+    {
+      "type": "ip",
+      "value": "45.80.208.232"
+    },
+    {
+      "type": "ip",
+      "value": "45.80.208.66"
+    },
+    {
+      "type": "ip",
+      "value": "45.86.230.60"
+    },
+    {
+      "type": "ip",
+      "value": "45.90.58.202"
+    },
+    {
+      "type": "ip",
+      "value": "64.176.10.7"
+    },
+    {
+      "type": "ip",
+      "value": "64.176.6.27"
+    },
+    {
+      "type": "ip",
+      "value": "64.190.113.170"
+    },
+    {
+      "type": "ip",
+      "value": "77.111.101.11"
+    },
+    {
+      "type": "ip",
+      "value": "77.111.101.153"
+    },
+    {
+      "type": "ip",
+      "value": "77.111.101.227"
+    },
+    {
+      "type": "ip",
+      "value": "87.236.37.185"
+    },
+    {
+      "type": "ip",
+      "value": "89.223.91.91"
+    },
+    {
+      "type": "ip",
+      "value": "89.44.193.140"
+    },
+    {
+      "type": "ip",
+      "value": "91.210.108.180"
+    },
+    {
+      "type": "ip",
+      "value": "91.210.164.5"
+    },
+    {
+      "type": "ip",
+      "value": "91.227.77.172"
+    },
+    {
+      "type": "ip",
+      "value": "92.118.127.23"
+    },
+    {
+      "type": "md5",
+      "value": "17b29b6c9de80402a45e321bbe1168fa"
+    },
+    {
+      "type": "md5",
+      "value": "7107fb029e7c63523e3aca5fc8e56b38"
+    },
+    {
+      "type": "md5",
+      "value": "7e42d1461339572111a2eedfff42e1c2"
+    },
+    {
+      "type": "md5",
+      "value": "9eee984b187423c46c10a63d080da15d"
+    },
+    {
+      "type": "md5",
+      "value": "d631627131b90d576d77f4bf530e1abe"
+    },
+    {
+      "type": "md5",
+      "value": "e251df2d0b7c3682965efb4d2009a2f4"
+    },
+    {
+      "type": "sha1",
+      "value": "760be920fad07881b8ce9d94e074a35b4f806717"
+    },
+    {
+      "type": "sha1",
+      "value": "de32c58a8087cc4f24b9eb65c8ff4516f0f65f13"
+    },
+    {
+      "type": "sha256",
+      "value": "054c0ffb08eb7830de1ff2356af4d2ed696f01111a8c2e78e3a4ddc940287e48"
+    },
+    {
+      "type": "sha256",
+      "value": "3637f4f804cffc3b25222d542e7cb544ee48074ed2e46607e31f9410c17bf223"
+    },
+    {
+      "type": "sha256",
+      "value": "4155a4c7e857d9b613e14cf00e148037859cf627cf4004f5a4257f2cd29de2cb"
+    },
+    {
+      "type": "sha256",
+      "value": "4e50f53b5294a6dbd601fc20a607ae85725162b596119f4867311ef0b3f75a6a"
+    },
+    {
+      "type": "sha256",
+      "value": "8bbc395a7a0faff074c6e31c7da37bf1540a4e7ec3d80870f8d6bd1f5d4cecbb"
+    },
+    {
+      "type": "sha256",
+      "value": "a05eae6d07b82e2e5451a72266f21fbaf76486ef4920a820988de93e15353a10"
+    },
+    {
+      "type": "sha256",
+      "value": "b60404c1299e69df029d9817dcf69f9fe325ecc990e16bc7758f56ce5714184b"
+    },
+    {
+      "type": "sha256",
+      "value": "d1da8e2389f48d1d1c0e127f3417e3d3e0dbf54691e22d6d0c863d28b9e7a812"
+    },
+    {
+      "type": "sha256",
+      "value": "de9d325af3156232c34916840210efb5706d6e6a5eba1827c8240e4f71c09fa2"
+    },
+    {
+      "type": "sha256",
+      "value": "e921fe5307e29bf6fd00000dd594356affd3a7b044e52720c7f10decbdc305b9"
+    },
+    {
+      "type": "sha256",
+      "value": "ed37c12fc4beea98722f6f308cec45e6440c3089e1a002c837bed147fbeb0c52"
+    },
+    {
+      "type": "sha256",
+      "value": "ee4a8b81fe3864582efc27a77f806990e2602dcc36447ddda4b3a230a473d575"
+    },
+    {
+      "type": "sha256",
+      "value": "f23e5391656b178bc0ab510b0fca6ffbd963cf94870c82a5920f0f338f561f18"
+    }
+  ],
+  "blocking_removed": [
+    {
+      "type": "domain",
+      "value": "browser-update.pages.dev",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "d2nq35tel3ucuo.cloudfront.net",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "eastus2.wac-azure.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "fonts.chrorne.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "fonts.tarotfree101.top",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "mailbycloud.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "managementapiservice.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "microsoft-flash.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "ns1.jkskhei.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "pub-abfa7742e315485a98a5fafd6dbfb68e.r2.dev",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "robot.avbliud.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "screenserv.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "service8date.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "srwinservice.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "tg4service.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "updateservs.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "windowserv.net",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "www.jkskhei.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "www.wps-cn.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "url",
+      "value": "http://d2nq35tel3ucuo.cloudfront.net/LtVGUSsyUTDA.log",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "url",
+      "value": "https://microsoft-flash.com/download/Adobeinstall.exe",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "url",
+      "value": "https://microsoft-flash.com/download/flashcenter_pp_ax_install_en.exe",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "url",
+      "value": "https://pub-abfa7742e315485a98a5fafd6dbfb68e.r2.dev/hjgzBskgslc.dll.iwq",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    }
+  ],
+  "previous_release": "20261110T124557Z",
+  "release": "20261111T115653Z"
+}

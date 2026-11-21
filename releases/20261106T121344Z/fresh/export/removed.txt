@@ -1,0 +1,11 @@
+choclatey.org
+community.choclatey.org
+datamons.org
+hastebin.com
+niceer.net
+pymons.is
+supertrap.net
+workerstats.net
+http://45.115.26.26:8000/cCmono
+http://92.118.112.100/mountpoint
+http://92.118.112.100/nfs-setup

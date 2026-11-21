@@ -1,0 +1,272 @@
+{
+  "blocking_added": [
+    {
+      "type": "domain",
+      "value": "bore.pub"
+    },
+    {
+      "type": "domain",
+      "value": "newapi.pro"
+    },
+    {
+      "type": "domain",
+      "value": "oast.pro"
+    },
+    {
+      "type": "ip",
+      "value": "185.165.171.21"
+    },
+    {
+      "type": "md5",
+      "value": "6585e33ab016ca2c68ba7eec691fbeb5"
+    },
+    {
+      "type": "sha256",
+      "value": "0ad7e39ce6b9b7637a002c352637089f6ccf8ae39206a7d895266b21ca26ff0f"
+    },
+    {
+      "type": "sha256",
+      "value": "242c411cd415d55e67aae75759e5c07720fcdddc0378b5e35d4c1e4ab2b01eb8"
+    },
+    {
+      "type": "sha256",
+      "value": "5a2f093f7ae25c5e381647549496acf375e18dd95263b921518e340ee78e5377"
+    },
+    {
+      "type": "sha256",
+      "value": "5ab5b0b01097420873a3f3330f44248e34a3c2a3e8d5ee30658aeae8cb7435da"
+    },
+    {
+      "type": "sha256",
+      "value": "5c4f6e21877dfd71e3e95254c6193457e9aab10aca7459ddaeb6d711997190de"
+    },
+    {
+      "type": "sha256",
+      "value": "5fd9a352d1bec4a11134ee140aa278d07d720b45493a7f01a548293f412972ce"
+    },
+    {
+      "type": "sha256",
+      "value": "6b3061d6e042744bb484b725031e7916b31ad224318a8c0441b9ead14ab853d5"
+    },
+    {
+      "type": "sha256",
+      "value": "af3737ba032b8c5d3403064899ab6cc48610a397d9f67b626f99b2f0f5082202"
+    },
+    {
+      "type": "sha256",
+      "value": "b1155f47910f032217352c3a302c01de4d15cabda34331d2866f5d7a52b3ecde"
+    },
+    {
+      "type": "sha256",
+      "value": "b737eae170534f5965b90f4af807cb3f728498f3bccc9355a0afc0171e413230"
+    },
+    {
+      "type": "url",
+      "value": "https://eil786npto9u5bq.icu/JIUJIU888/weifile.html"
+    }
+  ],
+  "blocking_removed": [
+    {
+      "type": "domain",
+      "value": "a2.kshahnd.sbs",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "a2.mdsjhd.sbs",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "a2.nmnsny.sbs",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "admin.uipoxy.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "bd-devmetrics.net",
+      "why": "no longer in any source article (corrected or withdrawn by the publisher, or aged out)"
+    },
+    {
+      "type": "domain",
+      "value": "beliefdesk.xyz",
+      "why": "reported as c2; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "columbus2024.com",
+      "why": "no longer in any source article (corrected or withdrawn by the publisher, or aged out)"
+    },
+    {
+      "type": "domain",
+      "value": "companyharbor.xyz",
+      "why": "reported as c2; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "docshare.auth.copilot.outlook.onedrive.common.evergreenerg.com",
+      "why": "reported as phishing; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "docshare.auth.copilot.outlook.onedrive.common0.evergreenerg.com",
+      "why": "reported as phishing; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "dramapi.com",
+      "why": "no longer in any source article (corrected or withdrawn by the publisher, or aged out)"
+    },
+    {
+      "type": "domain",
+      "value": "edisajalsjfdfh.shop",
+      "why": "no longer in any source article (corrected or withdrawn by the publisher, or aged out)"
+    },
+    {
+      "type": "domain",
+      "value": "haimnsgsjhansj.shop",
+      "why": "no longer in any source article (corrected or withdrawn by the publisher, or aged out)"
+    },
+    {
+      "type": "domain",
+      "value": "jaguar-distributor.logreporter.com",
+      "why": "no longer in any source article (corrected or withdrawn by the publisher, or aged out)"
+    },
+    {
+      "type": "domain",
+      "value": "mesh.buttruyen.com",
+      "why": "reported as c2; passed every safety check / held back by validation (REVIEW): registration data unavailable: HTTP 404"
+    },
+    {
+      "type": "domain",
+      "value": "my-invite.org",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "pxyedge.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "sdoisanadf.shop",
+      "why": "no longer in any source article (corrected or withdrawn by the publisher, or aged out)"
+    },
+    {
+      "type": "domain",
+      "value": "shaiosjdaln.shop",
+      "why": "no longer in any source article (corrected or withdrawn by the publisher, or aged out)"
+    },
+    {
+      "type": "domain",
+      "value": "shsuanalsjai.shop",
+      "why": "no longer in any source article (corrected or withdrawn by the publisher, or aged out)"
+    },
+    {
+      "type": "domain",
+      "value": "statistic-ms.live",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "t2.kshahnd.sbs",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "t2.mdsjhd.sbs",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "t2.nmnsny.sbs",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "winklenark.com",
+      "why": "no longer in any source article (corrected or withdrawn by the publisher, or aged out)"
+    },
+    {
+      "type": "domain",
+      "value": "wogglenift.com",
+      "why": "no longer in any source article (corrected or withdrawn by the publisher, or aged out)"
+    },
+    {
+      "type": "ip",
+      "value": "185.82.218.119",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "219.134.163.210",
+      "why": "no longer in any source article (corrected or withdrawn by the publisher, or aged out)"
+    },
+    {
+      "type": "ip",
+      "value": "219.134.163.211",
+      "why": "no longer in any source article (corrected or withdrawn by the publisher, or aged out)"
+    },
+    {
+      "type": "ip",
+      "value": "23.94.49.57",
+      "why": "no longer in any source article (corrected or withdrawn by the publisher, or aged out)"
+    },
+    {
+      "type": "ip",
+      "value": "38.145.197.135",
+      "why": "no longer in any source article (corrected or withdrawn by the publisher, or aged out)"
+    },
+    {
+      "type": "md5",
+      "value": "abd0b6de6fdf78234f5dab098d5dd229",
+      "why": "no longer in any source article (corrected or withdrawn by the publisher, or aged out)"
+    },
+    {
+      "type": "md5",
+      "value": "d8971688d1929b6ed915b80eca7e7e3f",
+      "why": "no longer in any source article (corrected or withdrawn by the publisher, or aged out)"
+    },
+    {
+      "type": "sha256",
+      "value": "35e0b22139fb27d2c9721aedf5770d893423bf029e1f56be92485ff8fce210f3",
+      "why": "no longer in any source article (corrected or withdrawn by the publisher, or aged out)"
+    },
+    {
+      "type": "sha256",
+      "value": "7b2599ed54b72daec0acfd32744c7a9a77b19e6cf4e1651837175e4606dbc958",
+      "why": "no longer in any source article (corrected or withdrawn by the publisher, or aged out)"
+    },
+    {
+      "type": "sha256",
+      "value": "82611e60a2c5de23a1b976bb3b9a32c4427cb60a002e4c27cadfa84031d87999",
+      "why": "no longer in any source article (corrected or withdrawn by the publisher, or aged out)"
+    },
+    {
+      "type": "sha256",
+      "value": "9f33095a24471bed55ce11803e4ebbed5118bfb5d3861baf1c8214efcd9e7de6",
+      "why": "no longer in any source article (corrected or withdrawn by the publisher, or aged out)"
+    },
+    {
+      "type": "sha256",
+      "value": "f3570bb6e0f9c695d48f89f043380b43831dd0f6fe79b16eda2a3ffd9fd7ad16",
+      "why": "no longer in any source article (corrected or withdrawn by the publisher, or aged out)"
+    },
+    {
+      "type": "url",
+      "value": "http://144.217.243.201/vr34der34/dex3.68.png",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "url",
+      "value": "http://144.217.243.201/vr34der34/sh65.io",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    }
+  ],
+  "previous_release": "20261118T131133Z",
+  "release": "20261119T132801Z"
+}

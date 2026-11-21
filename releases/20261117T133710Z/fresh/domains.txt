@@ -1,0 +1,76 @@
+# WatchmanHQ fresh/domains.txt  release 20261117T133710Z
+# Blocking domains and URLs first reported in the last 14 days, none taken down: the newest names, which free filtering resolvers have had the least time to add. Part of blocking: pilot in alert-only mode first.
+# Registered domains. Match the domain AND all of its subdomains.
+# Valid until 2026-11-20 13:37 UTC. Do not enforce after that.
+# 68 entries. Sources for each: https://watchmanhq.com/watch/blocking/
+# Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+# Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+# Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.
+aauctioneer.com
+aildatasettlment.com
+aistei.com
+arlocareheath.com
+asrelbisaving.com
+aveirwirless.com
+beliefdesk.xyz
+carmaxclaim.com
+cctv-update.top
+cdn007-digitaldownloads.com
+celmodpharmacy.com
+companyharbor.xyz
+creepexplosiondarknight.com
+dotcompanyinfo.com
+ekmt.tw
+faceorkut.com
+frameworkmetrics.xyz
+fyzadasaving.com
+getpgsoffer.com
+gpimmlgration.com
+greystarbenfits.com
+healthspringproducer.com
+highwayonboarding.net
+hithebeamsweeps.com
+icedhatch.top
+icedhatch.xyz
+icedout.top
+ijornisavings.com
+insulinsavingprogram.com
+internet-speed-check.com
+jamvybez.com
+kenobuias.com
+kmxclaim.com
+masterdarky.com
+mcdonaldmedianetwork.com
+microscoft.vip
+microsfot.vip
+minernewage.com
+msrcontrib.com
+myolinhuntsmanbenefit.com
+myolinhuntsmanbenifits.com
+mypgsweep.com
+mywayconect.com
+newblackage.com
+newminersage.com
+ontherockrebate.com
+oscofneuid.com
+outagefixed.sbs
+outagerestored.sbs
+paleasbest.top
+plaineagle.xyz
+signalpane.cfd
+sogou-cdn.com
+sunharbosaving.com
+taprkr.com
+teams-cloud.live
+teams-livemeeting.com
+termsconditionsrelease.pro
+tradealgotcpassettlement.com
+tradealgotcpsettlement.com
+ukvaluestudy.com
+univalley.top
+westlaw-signon.com
+windefender.net
+wishgrove.cfd
+youmsdbenefits.com
+yourmsdbenefit.com
+yourmsdbenifits.com

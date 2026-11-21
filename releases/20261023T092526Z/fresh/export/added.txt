@@ -1,0 +1,9 @@
+choclatey.org
+community.choclatey.org
+datamons.org
+niceer.net
+pymons.is
+supertrap.net
+workerstats.net
+http://92.118.112.100/mountpoint
+http://92.118.112.100/nfs-setup

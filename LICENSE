@@ -1,0 +1,11 @@
+The lists and data in this repository are published by WatchmanHQ (https://watchmanhq.com)
+under the Creative Commons Attribution 4.0 International License (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+You may share and adapt them, including commercially, if you credit WatchmanHQ and do not
+suggest that WatchmanHQ endorses you. Article titles and the reports linked from
+evidence.json.gz and patch-now/ belong to their publishers and are not covered by this
+license. The vulnerability descriptions in patch-now/ come from CISA's Known Exploited
+Vulnerabilities catalog, which is public domain (CC0).
+
+Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind. Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/ Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.

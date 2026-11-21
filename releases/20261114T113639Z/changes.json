@@ -1,0 +1,132 @@
+{
+  "blocking_added": [
+    {
+      "type": "domain",
+      "value": "cctv-update.top"
+    },
+    {
+      "type": "ip",
+      "value": "156.246.94.183"
+    },
+    {
+      "type": "ip",
+      "value": "197.47.160.252"
+    },
+    {
+      "type": "ip",
+      "value": "2.59.133.151"
+    },
+    {
+      "type": "ip",
+      "value": "43.240.29.28"
+    },
+    {
+      "type": "ip",
+      "value": "43.240.29.33"
+    },
+    {
+      "type": "ip",
+      "value": "45.32.117.34"
+    },
+    {
+      "type": "ip",
+      "value": "74.208.158.106"
+    },
+    {
+      "type": "ip",
+      "value": "87.106.111.220"
+    },
+    {
+      "type": "sha1",
+      "value": "0be01e7bd69cfdd222645d49bb5ad9961372fef2"
+    },
+    {
+      "type": "sha1",
+      "value": "13ce33b19daee3963f7e15d461b191c38f6bc0d3"
+    },
+    {
+      "type": "sha1",
+      "value": "3f81c9c874a896c46e4bccea2fad2eaa3d9f2054"
+    },
+    {
+      "type": "sha256",
+      "value": "45136a9ab47015c4334b881df9daf824a72347daae0b5730ce3bd7d42b204bf2"
+    },
+    {
+      "type": "sha256",
+      "value": "454c43d296b1276bde9a4f6ff1da2221cb35ccdb2fc7991bdd572e45bce12a8a"
+    },
+    {
+      "type": "sha256",
+      "value": "61a672a13f03a9e81f573535ee92b1ed6cb7e848a33a06048865312d4e185ae2"
+    },
+    {
+      "type": "sha256",
+      "value": "8cb5f48bbe70b5248db7f327f3d1ad6649df5c767d2a7e0711ee147fd92e06af"
+    },
+    {
+      "type": "sha256",
+      "value": "8e6912deed82e80bb6bd66f73509d024b1f78b993515366d8317e69a97cff4f4"
+    },
+    {
+      "type": "sha256",
+      "value": "b55ce5130cd2623017cca29318341f6b4656e3a1dc5ab82ce704e912d0d17535"
+    },
+    {
+      "type": "sha256",
+      "value": "b673c4d707828abedc767a2be6badef7454492e62c37e30cf3cc5a402fd3647b"
+    },
+    {
+      "type": "sha256",
+      "value": "bea82efc82672225cf29eb869972670754f15941bc61b9e5801ffd41c5c39e5f"
+    },
+    {
+      "type": "sha256",
+      "value": "c15b008b0296b1bc9e0f979e6f25b780e3e89edabb344c7ee8c284a1a140f0d7"
+    },
+    {
+      "type": "sha256",
+      "value": "e73020645e7a11a90865d93bd7f3d797585f49ef72b1ac7354392a2da7fbd91f"
+    },
+    {
+      "type": "sha256",
+      "value": "f1235751c9e48e5732b7b183dc2bb175a19e4c6401dfd0e96b4cfdd0d8c54b4c"
+    },
+    {
+      "type": "sha256",
+      "value": "f6d37291c4948b974caf2e9e7e8ca9c2173d2779d1ec0a391488706bbd1a995c"
+    },
+    {
+      "type": "sha256",
+      "value": "ff5dbdcf6d7ae5d97b6f3ef412df0b977ba4a844c45b30ca78c0eeb2653d69a8"
+    },
+    {
+      "type": "url",
+      "value": "http://45.32.117.34/a"
+    }
+  ],
+  "blocking_removed": [
+    {
+      "type": "domain",
+      "value": "aewaterdelivery.com",
+      "why": "reported as c2; passed every safety check / held back by validation (REVIEW): registration data unavailable: HTTP 404"
+    },
+    {
+      "type": "domain",
+      "value": "hverster.store",
+      "why": "reported as phishing; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "ip",
+      "value": "198.199.122.22",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "45.32.41.202",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    }
+  ],
+  "previous_release": "20261113T122053Z",
+  "release": "20261114T113639Z"
+}

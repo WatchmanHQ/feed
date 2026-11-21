@@ -1,0 +1,81 @@
+{
+  "blocking_added": [
+    {
+      "type": "ip",
+      "value": "5.175.189.76"
+    },
+    {
+      "type": "url",
+      "value": "http://45.115.26.26:8000/cCmono"
+    }
+  ],
+  "blocking_removed": [
+    {
+      "type": "domain",
+      "value": "aecert.org",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "neexportfolio.azurewebsites.net",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "neexportfolio.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "re2.filesdwnload.top",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "re8.dowlfles.online",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "realhealthshop.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "scansec-upd.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "tjconsultingservices.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "update19.upldf.online",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "154.217.251.226",
+      "why": "reported as c2; passed every safety check / held back by validation (REVIEW): network owner unavailable: HTTP 404"
+    },
+    {
+      "type": "ip",
+      "value": "162.219.30.165",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "sha256",
+      "value": "267a3c8ed021a0a52c29bf076617a0dfd5cd5285202b8d0bd9ad0712110ccae8",
+      "why": "no longer in any source article (corrected or withdrawn by the publisher, or aged out)"
+    },
+    {
+      "type": "url",
+      "value": "http://154.217.251.226:19999/flowise-hb",
+      "why": "reported as listed ioc; passed every safety check / held back by validation (REVIEW): network owner unavailable: HTTP 404"
+    }
+  ],
+  "previous_release": "20261025T091337Z",
+  "release": "20261026T101551Z"
+}

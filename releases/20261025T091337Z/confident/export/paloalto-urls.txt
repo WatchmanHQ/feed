@@ -1,0 +1,2 @@
+www.litellm.dev/healthcheck
+aware-cr1.com/api/beacon

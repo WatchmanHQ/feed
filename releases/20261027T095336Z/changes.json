@@ -1,0 +1,15 @@
+{
+  "blocking_added": [
+    {
+      "type": "domain",
+      "value": "link-omacuan-amc-edu-et-raahs-edu-bd.pages.dev"
+    },
+    {
+      "type": "ip",
+      "value": "194.165.16.21"
+    }
+  ],
+  "blocking_removed": [],
+  "previous_release": "20261026T101551Z",
+  "release": "20261027T095336Z"
+}

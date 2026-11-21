@@ -1,0 +1,229 @@
+{
+  "blocking_added": [
+    {
+      "type": "domain",
+      "value": "arusupport-region1-webhook.online"
+    },
+    {
+      "type": "domain",
+      "value": "kenobuias.com"
+    },
+    {
+      "type": "domain",
+      "value": "msrcontrib.com"
+    },
+    {
+      "type": "domain",
+      "value": "oscofneuid.com"
+    },
+    {
+      "type": "domain",
+      "value": "registry.hashicorp-aws.com"
+    },
+    {
+      "type": "domain",
+      "value": "sogou-cdn.com"
+    },
+    {
+      "type": "domain",
+      "value": "stage-fashion365.vercel.app"
+    },
+    {
+      "type": "domain",
+      "value": "taprkr.com"
+    },
+    {
+      "type": "ip",
+      "value": "204.76.203.219"
+    },
+    {
+      "type": "ip",
+      "value": "45.91.94.204"
+    },
+    {
+      "type": "ip",
+      "value": "91.224.92.121"
+    },
+    {
+      "type": "md5",
+      "value": "116f7189ed7b41f1b339a749d56e63be"
+    },
+    {
+      "type": "md5",
+      "value": "2621753691be9521288664bb551dfba6"
+    },
+    {
+      "type": "md5",
+      "value": "2d9ebf9c042f596f435865b40edad928"
+    },
+    {
+      "type": "md5",
+      "value": "34a52e6a4d803e94fe497bab682abfd3"
+    },
+    {
+      "type": "md5",
+      "value": "3826dc7a9ba8bd5b1c143560c1530d89"
+    },
+    {
+      "type": "md5",
+      "value": "4b8509cde757b5428e5f99c8dffe73ca"
+    },
+    {
+      "type": "md5",
+      "value": "58fa0d651898446d5f5d2ed8a27a3330"
+    },
+    {
+      "type": "md5",
+      "value": "73adaea97f003735335505858c1c6def"
+    },
+    {
+      "type": "md5",
+      "value": "9d78ece09457907b730d139e4e0c64dd"
+    },
+    {
+      "type": "md5",
+      "value": "9d88b4494c7bc27b10358b68a899ad54"
+    },
+    {
+      "type": "md5",
+      "value": "ad0b1b6d2c8b9d09d6473a4a299470ab"
+    },
+    {
+      "type": "sha1",
+      "value": "0139818441431c72a1935e7f740a1cc458a63452"
+    },
+    {
+      "type": "sha1",
+      "value": "4402e44c0bc959ac22340041413de2482e8b5d53"
+    },
+    {
+      "type": "sha1",
+      "value": "8473f85bda00dfa3ecd2385dd38f69600d1d64a6"
+    },
+    {
+      "type": "sha1",
+      "value": "d81081691c3631f3adc1a6db0ee22ab19682ef30"
+    },
+    {
+      "type": "sha256",
+      "value": "188bd4fc222c9615540884920caf37ea88bcbea7488e1fb98709e357dd096666"
+    },
+    {
+      "type": "sha256",
+      "value": "451b586ec9d3c997b319986a1177829653e8ae641c953c05ede6a38616f2da97"
+    },
+    {
+      "type": "sha256",
+      "value": "5d2dd9caf2ae4a5083dbec16e688040456cdbc31eaeecbab78188e322ed0415b"
+    },
+    {
+      "type": "sha256",
+      "value": "62e988e9affcd000657bef4db47eb2e85c9a4cc42f4832780a02e19624e36e38"
+    },
+    {
+      "type": "sha256",
+      "value": "ad9575a9ef2dcc9d2fd2a24376c418549d4b3db5564c22b20081d33cf7629e43"
+    },
+    {
+      "type": "sha256",
+      "value": "e69b882218fa2a19fd351741874bfcd10a6ae91076e6a8483795e0e357f8d026"
+    },
+    {
+      "type": "sha256",
+      "value": "fc200686175559f4544a5de826905f09a68476d889690a3be40ac32356790cb8"
+    },
+    {
+      "type": "url",
+      "value": "https://stage-fashion365.vercel.app/static/tinymce4.7.5/plugins/fonts/v1104"
+    }
+  ],
+  "blocking_removed": [
+    {
+      "type": "domain",
+      "value": "addmypasskey.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "lhr.life",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "myoktasso.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "passkey-setup.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "passkeyadd.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "planer7.online",
+      "why": "reported as listed ioc; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "total-sitevv.lol",
+      "why": "reported as c2; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "ip",
+      "value": "118.145.196.225",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "124.163.212.119",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "196.251.107.104",
+      "why": "reported as listed ioc; passed every safety check / held back by validation (REVIEW): network owner unavailable: HTTP 404"
+    },
+    {
+      "type": "ip",
+      "value": "222.223.152.97",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "38.180.136.127",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "65.109.214.145",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "87.248.129.239",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "91.107.156.29",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "url",
+      "value": "http://awqhnjewqjkl.icu/cdn-cgi/rum?",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "url",
+      "value": "https://planer7.online/vnpwr6n",
+      "why": "reported as listed ioc; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    }
+  ],
+  "previous_release": "20261104T121647Z",
+  "release": "20261105T123021Z"
+}

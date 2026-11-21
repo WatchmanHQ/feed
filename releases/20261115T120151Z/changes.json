@@ -1,0 +1,77 @@
+{
+  "blocking_added": [],
+  "blocking_removed": [
+    {
+      "type": "domain",
+      "value": "appupdate.0cmds20cj2cdf8.workers.dev",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "connect.expansionsalt.info",
+      "why": "reported as listed ioc; passed every safety check / held back by validation (REVIEW): registration data unavailable: HTTP 404"
+    },
+    {
+      "type": "domain",
+      "value": "expansionsalt.info",
+      "why": "reported as listed ioc; passed every safety check / held back by validation (REVIEW): registration data unavailable: HTTP 404"
+    },
+    {
+      "type": "domain",
+      "value": "mediumser.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "register.mediumser.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "regupdate.eamakfu49dc28wa.workers.dev",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "104.145.210.184",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "104.194.158.65",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "148.113.222.244",
+      "why": "no longer in any source article (corrected or withdrawn by the publisher, or aged out)"
+    },
+    {
+      "type": "ip",
+      "value": "15.235.67.95",
+      "why": "no longer in any source article (corrected or withdrawn by the publisher, or aged out)"
+    },
+    {
+      "type": "ip",
+      "value": "192.142.52.31",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "62.113.117.248",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "url",
+      "value": "https://appupdate.0cmds20cj2cdf8.workers.dev/A3cmf0q9ASCion",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "url",
+      "value": "https://regupdate.eamakfu49dc28wa.workers.dev/vere0zme82cadre",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    }
+  ],
+  "previous_release": "20261114T113639Z",
+  "release": "20261115T120151Z"
+}

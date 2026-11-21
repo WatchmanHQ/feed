@@ -1,0 +1,37 @@
+{
+  "blocking_added": [
+    {
+      "type": "ip",
+      "value": "154.183.158.198"
+    }
+  ],
+  "blocking_removed": [
+    {
+      "type": "domain",
+      "value": "airplaneiron.xyz",
+      "why": "reported as listed ioc; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "apparatustruck.xyz",
+      "why": "reported as listed ioc; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "ip",
+      "value": "217.156.8.181",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "62.164.177.145",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "95.164.53.76",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    }
+  ],
+  "previous_release": "20261031T102738Z",
+  "release": "20261101T112219Z"
+}

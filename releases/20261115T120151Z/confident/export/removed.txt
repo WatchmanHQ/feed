@@ -1,0 +1,2 @@
+api.cloudsettle.org
+https://api.cloudsettle.org/pin-data
