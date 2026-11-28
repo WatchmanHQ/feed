@@ -1,0 +1,89 @@
+# WatchmanHQ fresh/domains.txt  release 20261125T143410Z
+# Blocking domains and URLs first reported in the last 14 days, none taken down: the newest names, which free filtering resolvers have had the least time to add. Part of blocking: pilot in alert-only mode first.
+# Registered domains. Match the domain AND all of its subdomains.
+# Valid until 2026-11-28 14:34 UTC. Do not enforce after that.
+# 81 entries. Sources for each: https://watchmanhq.com/watch/blocking/
+# Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+# Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+# Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.
+2026pdf.com
+5vobauua3ojpklx.icu
+aegeneair.com
+aildatasettlment.com
+arlocareheath.com
+asrelbisaving.com
+aveirwirless.com
+awakeserver.com
+bloonspace.com
+cabelenet.com
+carmaxclaim.com
+cctv-update.top
+cdn007-digitaldownloads.com
+celmodpharmacy.com
+cnpcyprus.net
+commercialbuygroup.com
+dotcompanyinfo.com
+dpwords.com
+eil786npto9u5bq.icu
+ekmt.tw
+exploredomainpole.com
+fyzadasaving.com
+gapgroups.com
+gatewaynet.site
+getpgsoffer.com
+gpimmlgration.com
+greystarbenfits.com
+gta6cloud.nexus
+guestsisfilesjpmp.com
+healthspringproducer.com
+highwayonboarding.net
+hithebeamsweeps.com
+ijornisavings.com
+impdocw.com
+insulinsavingprogram.com
+internet-speed-check.com
+kmxclaim.com
+legal-creditkarma.com
+legal-everpuredata.com
+legal-lucidmotors.com
+legal-lvmh.com
+masterdarky.com
+mcdonaldmedianetwork.com
+medochomie.com
+mfapasskeysetup.com
+minernewage.com
+myolinhuntsmanbenefit.com
+myolinhuntsmanbenifits.com
+mypgsweep.com
+mywayconect.com
+naverio.boats
+newblackage.com
+newminersage.com
+ni03hfph.com
+nimbuskeep.com
+ollama-ko.com
+ontherockrebate.com
+otxsmart.com
+outagefixed.sbs
+primetel-tel.com
+primtel-tel.com
+pub-0a3a566ba438488d89286bb937827049.r2.dev
+solidfairhubhost.com
+specialhostdense.com
+sunharbosaving.com
+teams-cloud.live
+teams-livemeeting.com
+termsconditionsrelease.pro
+tradealgotcpassettlement.com
+tradealgotcpsettlement.com
+trident-ww.com
+trustedaftermark.com
+ukvaluestudy.com
+velmontriq.net
+videohostinginsort.net
+videovisitors.com
+webmail-eac.com
+xcxfi08q.com
+youmsdbenefits.com
+yourmsdbenefit.com
+yourmsdbenifits.com

@@ -1,0 +1,271 @@
+{
+  "blocking_added": [
+    {
+      "type": "domain",
+      "value": "guestsisfilesjpmp.com"
+    },
+    {
+      "type": "domain",
+      "value": "ollama-ko.com"
+    },
+    {
+      "type": "domain",
+      "value": "oz-cloud.com"
+    },
+    {
+      "type": "domain",
+      "value": "smartkitcheneg.com"
+    },
+    {
+      "type": "domain",
+      "value": "videohostinginsort.net"
+    },
+    {
+      "type": "domain",
+      "value": "videovisitors.com"
+    },
+    {
+      "type": "ip",
+      "value": "151.244.30.176"
+    },
+    {
+      "type": "ip",
+      "value": "217.60.102.123"
+    },
+    {
+      "type": "ip",
+      "value": "65.20.71.131"
+    },
+    {
+      "type": "ip",
+      "value": "66.245.219.252"
+    },
+    {
+      "type": "ip",
+      "value": "91.92.243.204"
+    },
+    {
+      "type": "md5",
+      "value": "09a0a4256980457c23663278b40e4c51"
+    },
+    {
+      "type": "md5",
+      "value": "27b3fd4a4ac2c2f62f7b175ca904c8f7"
+    },
+    {
+      "type": "md5",
+      "value": "33f89e204bed98973a602c99daa92ab1"
+    },
+    {
+      "type": "md5",
+      "value": "5a0b0bae87a464228398696517fcf6f5"
+    },
+    {
+      "type": "md5",
+      "value": "5da8a73f76fc7f621c9f77af4512a1f3"
+    },
+    {
+      "type": "md5",
+      "value": "603a3dfa921d1c6e585e9a435c823884"
+    },
+    {
+      "type": "md5",
+      "value": "62bdb2cd59af038dcddfc8f24fdd40aa"
+    },
+    {
+      "type": "md5",
+      "value": "7675b38aabebc8427171447edd484b5b"
+    },
+    {
+      "type": "md5",
+      "value": "86c7d9be4b565f4eb73367df883bb9c5"
+    },
+    {
+      "type": "md5",
+      "value": "a9d620b690f84d552986a4872d57849e"
+    },
+    {
+      "type": "md5",
+      "value": "ac8547f5af42dc6932367ebcb162fb0e"
+    },
+    {
+      "type": "md5",
+      "value": "b97730ba59b158f400e67050406cb3ea"
+    },
+    {
+      "type": "md5",
+      "value": "c364c0984617d7332b5d83c5cf16b15e"
+    },
+    {
+      "type": "md5",
+      "value": "dcc288fafad0bf3b505c4b44791d423d"
+    },
+    {
+      "type": "sha256",
+      "value": "240196bff6c00f5365df69ed50b7164f56e9b1831236b80edc0782ea1e167234"
+    },
+    {
+      "type": "sha256",
+      "value": "46f8061e237bcc615a0b17b83ff4042853ec42327034e1e3dba6df5f873264bb"
+    },
+    {
+      "type": "sha256",
+      "value": "564754458cf28616e072c9b5fcb01ebe1de452a652c9b74fd1548c95ae257f5b"
+    },
+    {
+      "type": "sha256",
+      "value": "5f4bc01dea3f65f2612a7e1ecb369e244e2417b2af8b0df7425b9ff04ff75101"
+    },
+    {
+      "type": "sha256",
+      "value": "6803d4272e449eb77c6572c49c5aba1f933e2413def6f58252de5e8e867ae169"
+    },
+    {
+      "type": "url",
+      "value": "http://151.244.30.176/194ff485-5d31-4a51-912e-b138e98ff750"
+    },
+    {
+      "type": "url",
+      "value": "http://151.244.30.176:80/505a3c0c-3cf2-4f5d-83b7-f6637ca3209f"
+    }
+  ],
+  "blocking_removed": [
+    {
+      "type": "domain",
+      "value": "2026t4form17718.vercel.app",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "ces.yeyr.lol",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "crataxsummary1007341.vercel.app",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "docshared.org",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "errr.onllee.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "fillingconfirmation.vercel.app",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "flosyr.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "getdl.jorix.cyou",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "link72.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "oculus-app.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "officialsummarybycra.vercel.app",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "orapopo.store",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "pdfmarchlitestatementsscannedforyou.gixar.sbs",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "reficon.pro",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "sharedconfirmationslip.vercel.app",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "statemendetailsfilessenderderf.netlify.app",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "stats.us3.org",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "tax.dll.lat",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "to.ghredir.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "ts.remdos.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "tx.platdir.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "url90.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "us00.net",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "wapp.live",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "wurel.sbs",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "2.26.252.48",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "url",
+      "value": "https://stats.us3.org/matomo.php",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    }
+  ],
+  "previous_release": "20261122T124143Z",
+  "release": "20261123T145346Z"
+}

@@ -1,0 +1,30 @@
+# WatchmanHQ confident/domains.txt  release 20261128T131335Z
+# Validated, and either reported as malicious by 2+ independent sources, or registered by the attacker shortly before a recent report. Check against your own traffic before enforcing.
+# Registered domains. Match the domain AND all of its subdomains.
+# Valid until 2026-12-01 13:13 UTC. Do not enforce after that.
+# 22 entries. Sources for each: https://watchmanhq.com/watch/confident/
+# Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+# Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+# Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.
+assets-int.com
+carmaxclaim.com
+cdn007-digitaldownloads.com
+dobeqnesmot.cc
+dotcompanyinfo.com
+eil786npto9u5bq.icu
+gta6cloud.nexus
+guestsisfilesjpmp.com
+hjazfioe.surf
+internet-speed-check.com
+kmxclaim.com
+liva-fit.com
+masterdarky.com
+mcdonaldmedianetwork.com
+neihite.cc
+paleasbest.top
+signalpane.cfd
+theowo.club
+velmontriq.net
+videohostinginsort.net
+westlaw-signon.com
+wishgrove.cfd

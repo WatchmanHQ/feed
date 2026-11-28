@@ -1,0 +1,76 @@
+{
+  "blocking_added": [
+    {
+      "type": "domain",
+      "value": "volosy.top"
+    },
+    {
+      "type": "domain",
+      "value": "wallpapers.top"
+    }
+  ],
+  "blocking_removed": [
+    {
+      "type": "domain",
+      "value": "80074.cc",
+      "why": "reported as payload delivery; passed every safety check / narrowed to this exact name: it existed long before the report, so it is probably a compromised site, not an attacker's own domain / held back by validation (REVIEW): registration data unavailable: HTTP 404"
+    },
+    {
+      "type": "domain",
+      "value": "maidsradar.com",
+      "why": "reported as payload delivery; passed every safety check / held back by validation (REVIEW): registration data unavailable: HTTP 404"
+    },
+    {
+      "type": "domain",
+      "value": "polygon.iwmukj.xyz",
+      "why": "reported as c2; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "polygon.mnyhgxda.xyz",
+      "why": "reported as c2; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "static4.livelab.one",
+      "why": "reported as c2; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "ip",
+      "value": "144.172.101.72",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "152.236.3.8",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "152.236.4.14",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "172.86.89.124",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "206.223.230.107",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "5.230.194.87",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "87.120.196.120",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    }
+  ],
+  "previous_release": "20261127T135854Z",
+  "release": "20261128T131335Z"
+}

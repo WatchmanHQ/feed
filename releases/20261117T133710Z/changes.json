@@ -1,0 +1,654 @@
+{
+  "blocking_added": [
+    {
+      "type": "domain",
+      "value": "dot.fmcsa.saferprofilereview.info"
+    },
+    {
+      "type": "domain",
+      "value": "dotcompanyinfo.com"
+    },
+    {
+      "type": "domain",
+      "value": "ekmt.tw"
+    },
+    {
+      "type": "domain",
+      "value": "fedserv.thenewsip.site"
+    },
+    {
+      "type": "domain",
+      "value": "highwayonboarding.net"
+    },
+    {
+      "type": "domain",
+      "value": "masterdarky.com"
+    },
+    {
+      "type": "domain",
+      "value": "motus.iconnectdataconsolidation.online"
+    },
+    {
+      "type": "domain",
+      "value": "motus.relayconsolidation.online"
+    },
+    {
+      "type": "domain",
+      "value": "ms.twnic.top"
+    },
+    {
+      "type": "domain",
+      "value": "newbooker.com"
+    },
+    {
+      "type": "domain",
+      "value": "outagefixed.sbs"
+    },
+    {
+      "type": "domain",
+      "value": "outagerestored.sbs"
+    },
+    {
+      "type": "domain",
+      "value": "planetmaison.com"
+    },
+    {
+      "type": "domain",
+      "value": "reallifeaccounting.com"
+    },
+    {
+      "type": "domain",
+      "value": "smart-url-worker.denisfsr-kemp.workers.dev"
+    },
+    {
+      "type": "domain",
+      "value": "termsconditionsrelease.pro"
+    },
+    {
+      "type": "domain",
+      "value": "www.cloudflacecdn.com"
+    },
+    {
+      "type": "domain",
+      "value": "www.investigationj6.com"
+    },
+    {
+      "type": "domain",
+      "value": "www.maui-cocktailbar.com"
+    },
+    {
+      "type": "domain",
+      "value": "www.wkuyda.com"
+    },
+    {
+      "type": "ip",
+      "value": "103.106.230.33"
+    },
+    {
+      "type": "ip",
+      "value": "103.137.63.39"
+    },
+    {
+      "type": "ip",
+      "value": "103.195.100.69"
+    },
+    {
+      "type": "ip",
+      "value": "103.195.100.70"
+    },
+    {
+      "type": "ip",
+      "value": "103.195.102.66"
+    },
+    {
+      "type": "ip",
+      "value": "103.195.102.76"
+    },
+    {
+      "type": "ip",
+      "value": "103.214.68.20"
+    },
+    {
+      "type": "ip",
+      "value": "103.227.224.189"
+    },
+    {
+      "type": "ip",
+      "value": "104.194.152.173"
+    },
+    {
+      "type": "ip",
+      "value": "104.194.153.161"
+    },
+    {
+      "type": "ip",
+      "value": "104.194.154.28"
+    },
+    {
+      "type": "ip",
+      "value": "107.148.223.103"
+    },
+    {
+      "type": "ip",
+      "value": "107.148.223.37"
+    },
+    {
+      "type": "ip",
+      "value": "107.173.186.58"
+    },
+    {
+      "type": "ip",
+      "value": "122.147.252.16"
+    },
+    {
+      "type": "ip",
+      "value": "123.58.205.105"
+    },
+    {
+      "type": "ip",
+      "value": "153.75.94.148"
+    },
+    {
+      "type": "ip",
+      "value": "153.75.95.27"
+    },
+    {
+      "type": "ip",
+      "value": "154.205.154.209"
+    },
+    {
+      "type": "ip",
+      "value": "154.30.4.248"
+    },
+    {
+      "type": "ip",
+      "value": "162.120.17.69"
+    },
+    {
+      "type": "ip",
+      "value": "162.35.167.105"
+    },
+    {
+      "type": "ip",
+      "value": "162.35.40.249"
+    },
+    {
+      "type": "ip",
+      "value": "172.81.61.149"
+    },
+    {
+      "type": "ip",
+      "value": "172.86.66.19"
+    },
+    {
+      "type": "ip",
+      "value": "178.173.246.85"
+    },
+    {
+      "type": "ip",
+      "value": "193.26.115.63"
+    },
+    {
+      "type": "ip",
+      "value": "194.15.36.33"
+    },
+    {
+      "type": "ip",
+      "value": "198.23.165.181"
+    },
+    {
+      "type": "ip",
+      "value": "199.127.60.149"
+    },
+    {
+      "type": "ip",
+      "value": "199.127.60.150"
+    },
+    {
+      "type": "ip",
+      "value": "199.127.62.58"
+    },
+    {
+      "type": "ip",
+      "value": "216.146.25.173"
+    },
+    {
+      "type": "ip",
+      "value": "216.73.158.117"
+    },
+    {
+      "type": "ip",
+      "value": "216.73.158.72"
+    },
+    {
+      "type": "ip",
+      "value": "223.165.4.203"
+    },
+    {
+      "type": "ip",
+      "value": "23.92.65.131"
+    },
+    {
+      "type": "ip",
+      "value": "23.94.77.110"
+    },
+    {
+      "type": "ip",
+      "value": "27.102.66.162"
+    },
+    {
+      "type": "ip",
+      "value": "27.254.164.209"
+    },
+    {
+      "type": "ip",
+      "value": "27.254.164.212"
+    },
+    {
+      "type": "ip",
+      "value": "38.18.228.165"
+    },
+    {
+      "type": "ip",
+      "value": "38.18.228.173"
+    },
+    {
+      "type": "ip",
+      "value": "38.18.229.249"
+    },
+    {
+      "type": "ip",
+      "value": "38.52.17.113"
+    },
+    {
+      "type": "ip",
+      "value": "38.54.17.113"
+    },
+    {
+      "type": "ip",
+      "value": "43.134.62.111"
+    },
+    {
+      "type": "ip",
+      "value": "45.13.233.32"
+    },
+    {
+      "type": "ip",
+      "value": "45.139.84.200"
+    },
+    {
+      "type": "ip",
+      "value": "45.59.124.164"
+    },
+    {
+      "type": "ip",
+      "value": "50.114.203.14"
+    },
+    {
+      "type": "ip",
+      "value": "57.128.131.66"
+    },
+    {
+      "type": "ip",
+      "value": "64.20.44.120"
+    },
+    {
+      "type": "ip",
+      "value": "66.118.239.23"
+    },
+    {
+      "type": "ip",
+      "value": "66.42.52.137"
+    },
+    {
+      "type": "ip",
+      "value": "74.235.98.176"
+    },
+    {
+      "type": "ip",
+      "value": "87.120.104.213"
+    },
+    {
+      "type": "ip",
+      "value": "91.224.92.167"
+    },
+    {
+      "type": "ip",
+      "value": "91.224.92.83"
+    },
+    {
+      "type": "ip",
+      "value": "98.142.247.243"
+    },
+    {
+      "type": "md5",
+      "value": "14ec33ea808e697870d00c5e434c2952"
+    },
+    {
+      "type": "md5",
+      "value": "32151547d912488ac5242731057170a3"
+    },
+    {
+      "type": "md5",
+      "value": "3896d44bc6d517291c60ee3f70543a31"
+    },
+    {
+      "type": "md5",
+      "value": "45b3aa39bc33528650d9181cd946b2df"
+    },
+    {
+      "type": "md5",
+      "value": "552f0a9cc5fc3755721fa49be05e8035"
+    },
+    {
+      "type": "md5",
+      "value": "6a54f8008ee659b6923abf5dba2b2cc1"
+    },
+    {
+      "type": "md5",
+      "value": "74b025084026d8d9a64661bf995d835b"
+    },
+    {
+      "type": "md5",
+      "value": "84802caf2579cfe7a38f079a64a3cd22"
+    },
+    {
+      "type": "md5",
+      "value": "86a46af43e18288e1df439b2a9a6f7ca"
+    },
+    {
+      "type": "md5",
+      "value": "91bee19d31d32346cd4d1febb4308606"
+    },
+    {
+      "type": "md5",
+      "value": "9a5e0ab7466594dcf46943c413db7b81"
+    },
+    {
+      "type": "md5",
+      "value": "b4956b230d296cb4b015b42b11d80e32"
+    },
+    {
+      "type": "md5",
+      "value": "b930fb3ab14fe45b378d5acfa6e0a763"
+    },
+    {
+      "type": "md5",
+      "value": "be739a7036dc8e2ee8608fba13c8c3a4"
+    },
+    {
+      "type": "md5",
+      "value": "d89b2fe0759df2d534e7a728700a6f8c"
+    },
+    {
+      "type": "md5",
+      "value": "d955d03104f988582cbd2967177693d3"
+    },
+    {
+      "type": "md5",
+      "value": "e9d4081fac4a5111e6856f333d490439"
+    },
+    {
+      "type": "sha256",
+      "value": "0c49e1b98a236d3391740473101b66dd48c719fa4112dbef3816b56bce58e6e7"
+    },
+    {
+      "type": "sha256",
+      "value": "24c46bc9269e1c1ee54004e01d5c7c54f759bc1b93a282d3561d2d27f678af86"
+    },
+    {
+      "type": "sha256",
+      "value": "2e52b2936e67872d1364d2d0d26a8733ed9582b38f6f0b3a877ffdd6e2c04aa4"
+    },
+    {
+      "type": "sha256",
+      "value": "4987af027009d572c26f6d009c5e53e237cb2e3ab9d52094c14dc0b8b6f40b14"
+    },
+    {
+      "type": "sha256",
+      "value": "52d3442fb26023ebc0bc76542b56be88d1c3327c8bcedf1dcb95f80511527f07"
+    },
+    {
+      "type": "sha256",
+      "value": "56970620ba88b24aa993099cebbe7d5e118447b52450e886f9f896abc88ceab0"
+    },
+    {
+      "type": "sha256",
+      "value": "5b779b81a9bb25591ecac6bd74bb44a4a5b2b8f257093f9efd5910346ab8d772"
+    },
+    {
+      "type": "sha256",
+      "value": "5f857ff78bfbef2a55a846fc93744e11e07a9b72ee3fc3bc345c32ce9615ddee"
+    },
+    {
+      "type": "sha256",
+      "value": "600572a912650b258d56aedeef0ab712abbe35a38cdd23faa5a95dacfdc67b7f"
+    },
+    {
+      "type": "sha256",
+      "value": "61f7e2f4159c566578e88cb05cdf49e4378f45ebddbd332224e97c11df922120"
+    },
+    {
+      "type": "sha256",
+      "value": "63eac14921f138fffe73db417c12afd16d64202ebbee7ad5f08068697d2942d0"
+    },
+    {
+      "type": "sha256",
+      "value": "6781f84417d0056df95ed38b3e7a6b49312d30119470356f6923238d49de3490"
+    },
+    {
+      "type": "sha256",
+      "value": "71d897427329ca14dd621e777046dc35f3d9dc870d3b13a56125125391a56afe"
+    },
+    {
+      "type": "sha256",
+      "value": "7745523939fc6b31b6a73d8ca1f363c62438b6eef56f6fe8c39e71fcd14b65f4"
+    },
+    {
+      "type": "sha256",
+      "value": "790e6699704395a7fad633f4e502312bc43693a44a8e18d43239209eefbd7ff2"
+    },
+    {
+      "type": "sha256",
+      "value": "82a989c728db4e09a2b85a4a55f7663cefa62844632cb16dcda5ca70bf09a8a5"
+    },
+    {
+      "type": "sha256",
+      "value": "86194c3b3cc7a58e439621aff42e116ca94d40f3a6f539f20ce483f1cf5a7191"
+    },
+    {
+      "type": "sha256",
+      "value": "8cfe629fc08ae06c8ba106113ba30bb16fa2fbbf8bd3dd6831d16b031e0ebe70"
+    },
+    {
+      "type": "sha256",
+      "value": "904409ce8846394e1fe9a5ce37f2265cbf6933611278ae57fdf5fa74759af2bb"
+    },
+    {
+      "type": "sha256",
+      "value": "925a9d35a32e1a6a1ce1ae4b9ff09e289184d4d925d700752c99f15ab04296dd"
+    },
+    {
+      "type": "sha256",
+      "value": "9dfefc7118646535d1193e1b036dd0c93fa66cc585a60301fcdceb6f45903aad"
+    },
+    {
+      "type": "sha256",
+      "value": "b5bea4d8b94fbb39ac992e8e763680af6f39d12d42e264b43431fb61cf7b9a88"
+    },
+    {
+      "type": "sha256",
+      "value": "b975f5932c04b381f8fa58a3303194f1aff950d3c6cd12dcc1d323bb3393718b"
+    },
+    {
+      "type": "sha256",
+      "value": "d700b573ea8387efad633a70124b7a2a3aece844a267157b1cb55be7b62f3b67"
+    },
+    {
+      "type": "sha256",
+      "value": "dd02d28c48cf5cabd35a0b32e05e7c99ff0de35541201026ae36c59e54968c78"
+    },
+    {
+      "type": "sha256",
+      "value": "e5689e1bf916c2f7649e178008e790ea13eb844aefc14516c06b0da8296377a1"
+    },
+    {
+      "type": "sha256",
+      "value": "e59b08eb03ffa10ccf9103d171af757308e6d43519c4e904ef5e0929ef92d8fd"
+    },
+    {
+      "type": "sha256",
+      "value": "e8cd6bbcf6073669a7415ce0c9009a0fbb5551bf5e17803be12ef295f0c99889"
+    },
+    {
+      "type": "sha256",
+      "value": "f82c06184ab36e91d28f7802c739e637792c241a7ff2fba9ca24178f12423684"
+    },
+    {
+      "type": "sha256",
+      "value": "f8871b1561d5c77c297378a7f49c84de52a01ff297395544f0e95d13ef972841"
+    },
+    {
+      "type": "url",
+      "value": "https://masterdarky.com/WindowsUpdate.msi"
+    },
+    {
+      "type": "url",
+      "value": "https://outagerestored.sbs/topics_pxyk/themelist0.html"
+    }
+  ],
+  "blocking_removed": [
+    {
+      "type": "domain",
+      "value": "aclaraciones-digital.online",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "apple-googleapi.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "apple.eu03hub.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "balonx.online",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "callbalonx.info",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "docsend.web12api.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "eu03hub.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "msedgewebview1.pro",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "msedgewebview2.pro",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "panelbalonxfs.xyz",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "perplexity-ai.online",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "restbucket.xyz",
+      "why": "reported as listed ioc; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "rollglass.xyz",
+      "why": "reported as listed ioc; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "signow.web12api.com",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "soporte-aclaracion.xyz",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "spiritlib.cyou",
+      "why": "reported as listed ioc; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "v-k.com.ua",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "wavepan.xyz",
+      "why": "reported as listed ioc; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "domain",
+      "value": "xshaon123.sbs",
+      "why": "reported as listed ioc; passed every safety check / suspended by the registrar or registry: it does not resolve; search your DNS logs for it, a lookup suggests an infection"
+    },
+    {
+      "type": "url",
+      "value": "https://2fksf.lat/res10.php",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "url",
+      "value": "https://2fksf.lat/res11.php",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "url",
+      "value": "https://3pqow.lat/res12.php",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "url",
+      "value": "https://docsend.web12api.com/api/launcher/start",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "url",
+      "value": "https://eu03hub.com/get_file?file=X",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "url",
+      "value": "https://eu07connect.com/api/commands/",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "url",
+      "value": "https://gapidriver.com/installer/GapiUpdate.application",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    }
+  ],
+  "previous_release": "20261116T125410Z",
+  "release": "20261117T133710Z"
+}

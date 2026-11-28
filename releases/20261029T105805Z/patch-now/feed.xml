@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>WatchmanHQ: patch now</title>
+  <subtitle>Flaws attackers are exploiting (CISA's Known Exploited Vulnerabilities catalog) in equipment small firms run, named in recent threat reports.</subtitle>
+  <id>tag:watchmanhq.com,2026:patch-now</id>
+  <link rel="self" href="https://watchmanhq.com/feed/patch-now/feed.xml"/>
+  <link rel="alternate" href="https://watchmanhq.com/watch/patch-now/"/>
+  <updated>2026-10-28T00:00:00Z</updated>
+  <author><name>WatchmanHQ</name><uri>https://watchmanhq.com</uri></author>
+  <rights>Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind. Check the vendor's advisory before you change a device. CISA's catalog is public domain (CC0); these alerts are CC BY 4.0: credit WatchmanHQ.</rights>
+  <entry>
+    <id>tag:watchmanhq.com,2026:patch-now:CVE-2026-0322</id>
+    <title>Patch now: Palo Alto Networks PAN-OS (CVE-2026-0322)</title>
+    <link rel="alternate" href="https://security.paloaltonetworks.com/CVE-2026-0322"/>
+    <published>2026-10-14T00:00:00Z</published>
+    <updated>2026-10-28T00:00:00Z</updated>
+    <category term="Firewall or VPN (Palo Alto Networks)"/>
+    <summary>Firewall or VPN (Palo Alto Networks). Palo Alto Networks PAN-OS Code Injection Vulnerability. Palo Alto Networks PAN-OS contains a code injection vulnerability that could allow an authenticated attacker with network access to execute arbitrary code with root privileges on the firewall. CISA listed it as exploited on 2026-10-14. Install the vendor's update, or its workaround until there is one, then follow the advisory's steps to look for signs of compromise: an update closes the hole, it does not remove an attacker who got in first. If the device gets no more updates (past its end of life), take it off the internet and replace it. Reported by: BleepingComputer, 2026-10-28; BleepingComputer, 2026-10-14.</summary>
+  </entry>
+  <entry>
+    <id>tag:watchmanhq.com,2026:patch-now:CVE-2026-104286</id>
+    <title>Patch now: Fortinet FortiMail (CVE-2026-104286)</title>
+    <link rel="alternate" href="https://fortiguard.fortinet.com/psirt/FG-IR-26-175"/>
+    <published>2026-10-01T00:00:00Z</published>
+    <updated>2026-10-28T00:00:00Z</updated>
+    <category term="Firewall, VPN or other appliance (Fortinet)"/>
+    <summary>Firewall, VPN or other appliance (Fortinet). Fortinet FortiMail Path Traversal Vulnerability. Fortinet FortiMail contains a path traversal and an improper neutralization of NULL byte or NULL character vulnerability that may allow an unauthenticated attacker to write arbitrary files on the underlying system via crafted HTTP or HTTPS requests. CISA listed it as exploited on 2026-10-01. Install the vendor's update, or its workaround until there is one, then follow the advisory's steps to look for signs of compromise: an update closes the hole, it does not remove an attacker who got in first. If the device gets no more updates (past its end of life), take it off the internet and replace it. Reported by: BleepingComputer, 2026-10-28; BleepingComputer, 2026-10-13; CISA Cybersecurity Advisories, 2026-10-01.</summary>
+  </entry>
+  <entry>
+    <id>tag:watchmanhq.com,2026:patch-now:CVE-2026-104935</id>
+    <title>Patch now: Ivanti Connect Secure (CVE-2026-104935)</title>
+    <link rel="alternate" href="https://nvd.nist.gov/vuln/detail/CVE-2026-104935"/>
+    <published>2026-10-13T00:00:00Z</published>
+    <updated>2026-10-28T00:00:00Z</updated>
+    <category term="VPN or device management (Ivanti)"/>
+    <summary>VPN or device management (Ivanti). Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability. Ivanti Connect Secure contains an authentication bypass by spoofing vulnerability that allows a remote unauthenticated attacker to execute arbitrary commands. CISA listed it as exploited on 2026-10-13. Install the vendor's update, or its workaround until there is one, then follow the advisory's steps to look for signs of compromise: an update closes the hole, it does not remove an attacker who got in first. If the device gets no more updates (past its end of life), take it off the internet and replace it. Reported by: BleepingComputer, 2026-10-28; Check Point Research, 2026-10-19; Cisco Talos, 2026-10-15; BleepingComputer, 2026-10-14; Volexity, 2026-10-13 and 2 more.</summary>
+  </entry>
+  <entry>
+    <id>tag:watchmanhq.com,2026:patch-now:CVE-2026-20079</id>
+    <title>Exploited again: Cisco Secure Firewall Management Center (FMC) and Security Cloud Control (SCC) Firewall Management (CVE-2026-20079)</title>
+    <link rel="alternate" href="https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-onprem-fmc-authbypass-5JPp45V2"/>
+    <published>2026-10-06T00:00:00Z</published>
+    <updated>2026-10-28T00:00:00Z</updated>
+    <category term="Firewall, VPN or office router (Cisco)"/>
+    <summary>Firewall, VPN or office router (Cisco). Cisco Firewall Management Center Authentication Bypass Using an Alternate Path or Channel Vulnerability. Cisco Secure Firewall Management Center (FMC) Software and Cisco Security Cloud Control (SCC) Firewall Management contain an authentication Bypass using an alternate path or channel vulnerability that could allow an unauthenticated, remote attacker to bypass authentication and execute script files on an affected device to obtain root access to the underlying operating system. CISA listed it as exploited on 2026-09-09. Install the vendor's update, or its workaround until there is one, then follow the advisory's steps to look for signs of compromise: an update closes the hole, it does not remove an attacker who got in first. If the device gets no more updates (past its end of life), take it off the internet and replace it. Reported by: BleepingComputer, 2026-10-28; Recorded Future Insikt Group, 2026-10-13; AhnLab ASEC, 2026-10-06.</summary>
+  </entry>
+  <entry>
+    <id>tag:watchmanhq.com,2026:patch-now:CVE-2026-88771</id>
+    <title>Exploited again: Citrix NetScaler (CVE-2026-88771)</title>
+    <link rel="alternate" href="https://community.citrix.com/techzone-blogs/110_security-updates/netscaler-adc-and-netscaler-gateway-security-bulletin-for-cve-2026-88771-through-cve-2026-88778"/>
+    <published>2026-09-28T00:00:00Z</published>
+    <updated>2026-10-28T00:00:00Z</updated>
+    <category term="Remote access or file sharing (Citrix)"/>
+    <summary>Remote access or file sharing (Citrix). Citrix NetScaler Improper Input Validation Vulnerability. Citrix NetScaler ADC and NetScaler Gateway contain an improper input validation vulnerability that could allow an unauthenticated attacker to execute arbitrary commands. CISA listed it as exploited on 2026-09-27. Install the vendor's update, or its workaround until there is one, then follow the advisory's steps to look for signs of compromise: an update closes the hole, it does not remove an attacker who got in first. If the device gets no more updates (past its end of life), take it off the internet and replace it. Reported by: Zscaler ThreatLabz, 2026-10-28; BleepingComputer, 2026-10-28; Zscaler ThreatLabz, 2026-10-21; Unit 42, 2026-10-21; Rapid7, 2026-10-19 and 12 more.</summary>
+  </entry>
+  <entry>
+    <id>tag:watchmanhq.com,2026:patch-now:CVE-2026-88772</id>
+    <title>Exploited again: Citrix NetScaler (CVE-2026-88772)</title>
+    <link rel="alternate" href="https://community.citrix.com/techzone-blogs/110_security-updates/netscaler-adc-and-netscaler-gateway-security-bulletin-for-cve-2026-88771-through-cve-2026-88778"/>
+    <published>2026-09-28T00:00:00Z</published>
+    <updated>2026-10-28T00:00:00Z</updated>
+    <category term="Remote access or file sharing (Citrix)"/>
+    <summary>Remote access or file sharing (Citrix). Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability. Citrix NetScaler ADC and NetScaler Gateway contain an improper restriction of operations within the bounds of a memory buffer vulnerability that could allow for remote code execution or denial of service CISA listed it as exploited on 2026-09-27. Install the vendor's update, or its workaround until there is one, then follow the advisory's steps to look for signs of compromise: an update closes the hole, it does not remove an attacker who got in first. If the device gets no more updates (past its end of life), take it off the internet and replace it. Reported by: BleepingComputer, 2026-10-28; Unit 42, 2026-10-21; Rapid7, 2026-10-19; Recorded Future Insikt Group, 2026-10-13; BleepingComputer, 2026-10-09 and 8 more.</summary>
+  </entry>
+  <entry>
+    <id>tag:watchmanhq.com,2026:patch-now:CVE-2026-88779</id>
+    <title>Patch now: Citrix NetScaler (CVE-2026-88779)</title>
+    <link rel="alternate" href="https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX697174"/>
+    <published>2026-10-04T00:00:00Z</published>
+    <updated>2026-10-28T00:00:00Z</updated>
+    <category term="Remote access or file sharing (Citrix)"/>
+    <summary>Remote access or file sharing (Citrix). Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability. Citrix NetScaler ADC (formerly Citrix ADC) and Citrix NetScaler Gateway (formerly Citrix Gateway) contain an improper restriction of operations within the bounds of a memory buffer vulnerability that could allow for a denial of service. CISA listed it as exploited on 2026-10-04. Install the vendor's update, or its workaround until there is one, then follow the advisory's steps to look for signs of compromise: an update closes the hole, it does not remove an attacker who got in first. If the device gets no more updates (past its end of life), take it off the internet and replace it. Reported by: BleepingComputer, 2026-10-28; Rapid7, 2026-10-19; Check Point Research, 2026-10-12; BleepingComputer, 2026-10-09; Cisco Talos, 2026-10-08 and 3 more.</summary>
+  </entry>
+  <entry>
+    <id>tag:watchmanhq.com,2026:patch-now:CVE-2026-93616</id>
+    <title>Exploited again: Check Point Multiple Products (CVE-2026-93616)</title>
+    <link rel="alternate" href="https://support.checkpoint.com/results/sk/sk1000171/"/>
+    <published>2026-09-28T00:00:00Z</published>
+    <updated>2026-10-28T00:00:00Z</updated>
+    <category term="Firewall, VPN or other appliance (Check Point)"/>
+    <summary>Firewall, VPN or other appliance (Check Point). Check Point Multiple Products Path Traversal Vulnerability. Check Point Security Management Server, Multi-Domain Security Management Server, Log Server, Multi-Domain Log Server, and SmartEvent contain a path traversal vulnerability that allows an unauthenticated attacker to upload and execute arbitrary scripts. CISA listed it as exploited on 2026-09-22. Install the vendor's update, or its workaround until there is one, then follow the advisory's steps to look for signs of compromise: an update closes the hole, it does not remove an attacker who got in first. If the device gets no more updates (past its end of life), take it off the internet and replace it. Reported by: BleepingComputer, 2026-10-28; Recorded Future Insikt Group, 2026-10-13; Check Point Research, 2026-09-28.</summary>
+  </entry>
+  <entry>
+    <id>tag:watchmanhq.com,2026:patch-now:CVE-2023-4966</id>
+    <title>Exploited again: Citrix NetScaler ADC and NetScaler Gateway (CVE-2023-4966)</title>
+    <link rel="alternate" href="https://www.netscaler.com/blog/news/cve-2023-4966-critical-security-update-now-available-for-netscaler-adc-and-netscaler-gateway/"/>
+    <published>2026-10-16T00:00:00Z</published>
+    <updated>2026-10-27T00:00:00Z</updated>
+    <category term="Remote access or file sharing (Citrix)"/>
+    <summary>Remote access or file sharing (Citrix). Citrix NetScaler ADC and NetScaler Gateway Buffer Overflow Vulnerability. Citrix NetScaler ADC and NetScaler Gateway contain a buffer overflow vulnerability that allows for sensitive information disclosure when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server. CISA listed it as exploited on 2023-10-18, and it is used in ransomware attacks. Install the vendor's update, or its workaround until there is one, then follow the advisory's steps to look for signs of compromise: an update closes the hole, it does not remove an attacker who got in first. If the device gets no more updates (past its end of life), take it off the internet and replace it. Reported by: Sekoia, 2026-10-27; BleepingComputer, 2026-10-16.</summary>
+  </entry>
+  <entry>
+    <id>tag:watchmanhq.com,2026:patch-now:CVE-2026-73570</id>
+    <title>Exploited again: Synacor Zimbra Collaboration Suite (ZCS) (CVE-2026-73570)</title>
+    <link rel="alternate" href="https://wiki.zimbra.com/wiki/Zimbra_Security_Advisories"/>
+    <published>2026-09-08T00:00:00Z</published>
+    <updated>2026-10-23T00:00:00Z</updated>
+    <category term="Email server (Zimbra)"/>
+    <summary>Email server (Zimbra). Zimbra Collaboration Suite (ZCS) OS Command Injection Vulnerability. Zimbra Collaboration Suite (ZCS) contains an OS command injection vulnerability which could allow an unauthenticated attacker to send specially crafted SMTP requests that may result in execution of arbitrary operating system commands as the Zimbra user. CISA listed it as exploited on 2026-08-21. Install the vendor's update, or its workaround until there is one, then follow the advisory's steps to look for signs of compromise: an update closes the hole, it does not remove an attacker who got in first. If the device gets no more updates (past its end of life), take it off the internet and replace it. Reported by: Elastic Security Labs, 2026-10-23; Microsoft Threat Intelligence, 2026-09-30; Rapid7, 2026-09-24; Recorded Future Insikt Group, 2026-09-08.</summary>
+  </entry>
+  <entry>
+    <id>tag:watchmanhq.com,2026:patch-now:CVE-2026-0257</id>
+    <title>Exploited again: Palo Alto Networks PAN-OS (CVE-2026-0257)</title>
+    <link rel="alternate" href="https://security.paloaltonetworks.com/CVE-2026-0257"/>
+    <published>2026-08-07T00:00:00Z</published>
+    <updated>2026-10-21T00:00:00Z</updated>
+    <category term="Firewall or VPN (Palo Alto Networks)"/>
+    <summary>Firewall or VPN (Palo Alto Networks). Palo Alto Networks PAN-OS Authentication Bypass Vulnerability. Palo Alto Networks PAN-OS contains an authentication bypass vulnerability that allows attackers to bypass security restrictions and establish an unauthorized VPN connection. CISA listed it as exploited on 2026-05-29, and it is used in ransomware attacks. Install the vendor's update, or its workaround until there is one, then follow the advisory's steps to look for signs of compromise: an update closes the hole, it does not remove an attacker who got in first. If the device gets no more updates (past its end of life), take it off the internet and replace it. Reported by: Group-IB, 2026-10-21; Unit 42, 2026-10-21; Unit 42, 2026-10-21; Unit 42, 2026-09-30; Recorded Future Insikt Group, 2026-08-07.</summary>
+  </entry>
+  <entry>
+    <id>tag:watchmanhq.com,2026:patch-now:CVE-2026-1731</id>
+    <title>Exploited again: BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) (CVE-2026-1731)</title>
+    <link rel="alternate" href="https://www.beyondtrust.com/trust-center/security-advisories/bt26-02"/>
+    <published>2026-08-26T00:00:00Z</published>
+    <updated>2026-10-21T00:00:00Z</updated>
+    <category term="Remote support (BeyondTrust)"/>
+    <summary>Remote support (BeyondTrust). BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) OS Command Injection Vulnerability. BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA)contain an OS command injection vulnerability. Successful exploitation could allow an unauthenticated remote attacker to execute operating system commands in the context of the site user. Successful exploitation requires no authentication or user interaction and may lead to system compromise, including unauthorized access, data exfiltration, and service disruption. CISA listed it as exploited on 2026-02-13, and it is used in ransomware attacks. Install the vendor's update, or its workaround until there is one, then follow the advisory's steps to look for signs of compromise: an update closes the hole, it does not remove an attacker who got in first. If the device gets no more updates (past its end of life), take it off the internet and replace it. Reported by: Unit 42, 2026-10-21; Rapid7, 2026-10-19; BleepingComputer, 2026-10-16; Unit 42, 2026-09-30; Google Threat Intelligence / Mandiant, 2026-09-30 and 1 more.</summary>
+  </entry>
+  <entry>
+    <id>tag:watchmanhq.com,2026:patch-now:CVE-2026-102764</id>
+    <title>Patch now: BeyondTrust Remote Support (CVE-2026-102764)</title>
+    <link rel="alternate" href="https://www.beyondtrust.com/trust-center/security-advisories/bt26-05"/>
+    <published>2026-10-16T00:00:00Z</published>
+    <updated>2026-10-19T00:00:00Z</updated>
+    <category term="Remote support (BeyondTrust)"/>
+    <summary>Remote support (BeyondTrust). BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability. BeyondTrust Remote Support contains an authentication bypass by spoofing vulnerability that could allow a remote attacker to perform file operations on the appliance. CISA listed it as exploited on 2026-10-16. Install the vendor's update, or its workaround until there is one, then follow the advisory's steps to look for signs of compromise: an update closes the hole, it does not remove an attacker who got in first. If the device gets no more updates (past its end of life), take it off the internet and replace it. Reported by: Rapid7, 2026-10-19; Check Point Research, 2026-10-19; BleepingComputer, 2026-10-16; Google Threat Intelligence / Mandiant, 2026-10-15.</summary>
+  </entry>
+  <entry>
+    <id>tag:watchmanhq.com,2026:patch-now:CVE-2023-46805</id>
+    <title>Exploited again: Ivanti Connect Secure and Policy Secure (CVE-2023-46805)</title>
+    <link rel="alternate" href="https://forums.ivanti.com/s/article/KB-CVE-2023-46805-Authentication-Bypass-CVE-2024-21887-Command-Injection-for-Ivanti-Connect-Secure-and-Ivanti-Policy-Secure-Gateways?language=en_US"/>
+    <published>2026-09-25T00:00:00Z</published>
+    <updated>2026-10-16T00:00:00Z</updated>
+    <category term="VPN or device management (Ivanti)"/>
+    <summary>VPN or device management (Ivanti). Ivanti Connect Secure and Policy Secure Authentication Bypass Vulnerability. Ivanti Connect Secure (ICS, formerly known as Pulse Connect Secure) and Ivanti Policy Secure gateways contain an authentication bypass vulnerability in the web component that allows an attacker to access restricted resources by bypassing control checks. This vulnerability can be leveraged in conjunction with CVE-2024-21887, a command injection vulnerability. CISA listed it as exploited on 2024-01-10, and it is used in ransomware attacks. Install the vendor's update, or its workaround until there is one, then follow the advisory's steps to look for signs of compromise: an update closes the hole, it does not remove an attacker who got in first. If the device gets no more updates (past its end of life), take it off the internet and replace it. Reported by: BleepingComputer, 2026-10-16; Google Threat Intelligence / Mandiant, 2026-10-15; BleepingComputer, 2026-10-14; BleepingComputer, 2026-10-13; Fortinet Threat Research, 2026-10-05 and 1 more.</summary>
+  </entry>
+  <entry>
+    <id>tag:watchmanhq.com,2026:patch-now:CVE-2024-21887</id>
+    <title>Exploited again: Ivanti Connect Secure and Policy Secure (CVE-2024-21887)</title>
+    <link rel="alternate" href="https://forums.ivanti.com/s/article/KB-CVE-2023-46805-Authentication-Bypass-CVE-2024-21887-Command-Injection-for-Ivanti-Connect-Secure-and-Ivanti-Policy-Secure-Gateways?language=en_US"/>
+    <published>2026-09-25T00:00:00Z</published>
+    <updated>2026-10-16T00:00:00Z</updated>
+    <category term="VPN or device management (Ivanti)"/>
+    <summary>VPN or device management (Ivanti). Ivanti Connect Secure and Policy Secure Command Injection Vulnerability. Ivanti Connect Secure (ICS, formerly known as Pulse Connect Secure) and Ivanti Policy Secure contain a command injection vulnerability in the web components of these products, which can allow an authenticated administrator to send crafted requests to execute code on affected appliances. This vulnerability can be leveraged in conjunction with CVE-2023-46805, an authenticated bypass issue. CISA listed it as exploited on 2024-01-10, and it is used in ransomware attacks. Install the vendor's update, or its workaround until there is one, then follow the advisory's steps to look for signs of compromise: an update closes the hole, it does not remove an attacker who got in first. If the device gets no more updates (past its end of life), take it off the internet and replace it. Reported by: BleepingComputer, 2026-10-16; Google Threat Intelligence / Mandiant, 2026-10-15; BleepingComputer, 2026-10-14; BleepingComputer, 2026-10-13; Fortinet Threat Research, 2026-10-05 and 1 more.</summary>
+  </entry>
+  <entry>
+    <id>tag:watchmanhq.com,2026:patch-now:CVE-2025-61624</id>
+    <title>Patch now: Fortinet Multiple Products (CVE-2025-61624)</title>
+    <link rel="alternate" href="https://fortiguard.fortinet.com/psirt/FG-IR-26-122"/>
+    <published>2026-10-16T00:00:00Z</published>
+    <updated>2026-10-16T00:00:00Z</updated>
+    <category term="Firewall, VPN or other appliance (Fortinet)"/>
+    <summary>Firewall, VPN or other appliance (Fortinet). Fortinet Multiple Products Path Traversal Vulnerability. FortiOS, FortiPAM, FortiProxy, and FortiSwitchManager contain a path traversal vulnerability that may allow an authenticated attacker with admin profile and at least read-write permissions to write or delete arbitrary files via specific CLI commands. CISA listed it as exploited on 2026-10-16. Install the vendor's update, or its workaround until there is one, then follow the advisory's steps to look for signs of compromise: an update closes the hole, it does not remove an attacker who got in first. If the device gets no more updates (past its end of life), take it off the internet and replace it. Reported by: Unit 42, 2026-10-14.</summary>
+  </entry>
+  <entry>
+    <id>tag:watchmanhq.com,2026:patch-now:CVE-2026-20316</id>
+    <title>Exploited again: Cisco Secure Firewall Management Center (FMC) (CVE-2026-20316)</title>
+    <link rel="alternate" href="https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-static-cred-BET3Cjh"/>
+    <published>2026-08-07T00:00:00Z</published>
+    <updated>2026-10-13T00:00:00Z</updated>
+    <category term="Firewall, VPN or office router (Cisco)"/>
+    <summary>Firewall, VPN or office router (Cisco). Cisco Secure Firewall Management Center Use of Hard-coded Password Vulnerability. Cisco Secure Firewall Management Center (FMC) formerly known as Firepower Management Center contains a use of hard-coded password vulnerability that could allow an unauthenticated, remote attacker to log in to an affected device using a low-privileged account to access sensitive data within the impacted systems. CISA listed it as exploited on 2026-07-29, and it is used in ransomware attacks. Install the vendor's update, or its workaround until there is one, then follow the advisory's steps to look for signs of compromise: an update closes the hole, it does not remove an attacker who got in first. If the device gets no more updates (past its end of life), take it off the internet and replace it. Reported by: Recorded Future Insikt Group, 2026-10-13; AhnLab ASEC, 2026-10-06; Recorded Future Insikt Group, 2026-08-07.</summary>
+  </entry>
+  <entry>
+    <id>tag:watchmanhq.com,2026:patch-now:CVE-2026-83548</id>
+    <title>Exploited again: SonicWall SMA1000 Appliances (CVE-2026-83548)</title>
+    <link rel="alternate" href="https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0016"/>
+    <published>2026-09-02T00:00:00Z</published>
+    <updated>2026-10-13T00:00:00Z</updated>
+    <category term="Firewall, VPN or other appliance (SonicWall)"/>
+    <summary>Firewall, VPN or other appliance (SonicWall). SonicWall SMA1000 Appliances Server-Side Request Forgery Vulnerability. SonicWall SMA1000 Appliances contains a server-side request forgery vulnerability that could allow a remote unauthenticated attacker to gain unauthorized access to sensitive functionality and perform unauthorized operations. CISA listed it as exploited on 2026-09-02. Install the vendor's update, or its workaround until there is one, then follow the advisory's steps to look for signs of compromise: an update closes the hole, it does not remove an attacker who got in first. If the device gets no more updates (past its end of life), take it off the internet and replace it. Reported by: Recorded Future Insikt Group, 2026-10-13; BleepingComputer, 2026-10-09; Check Point Research, 2026-09-07; Sophos Threat Research, 2026-09-02.</summary>
+  </entry>
+  <entry>
+    <id>tag:watchmanhq.com,2026:patch-now:CVE-2026-83549</id>
+    <title>Exploited again: SonicWall SMA1000 Appliances (CVE-2026-83549)</title>
+    <link rel="alternate" href="https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0016"/>
+    <published>2026-09-02T00:00:00Z</published>
+    <updated>2026-10-13T00:00:00Z</updated>
+    <category term="Firewall, VPN or other appliance (SonicWall)"/>
+    <summary>Firewall, VPN or other appliance (SonicWall). SonicWall SMA1000 Appliances OS Command Injection Vulnerability. SonicWall SMA1000 Appliances contains an OS command injection vulnerability that could enable a remote authenticated attacker as administrator to execute arbitrary OS commands, resulting in remote code execution. CISA listed it as exploited on 2026-09-02. Install the vendor's update, or its workaround until there is one, then follow the advisory's steps to look for signs of compromise: an update closes the hole, it does not remove an attacker who got in first. If the device gets no more updates (past its end of life), take it off the internet and replace it. Reported by: Recorded Future Insikt Group, 2026-10-13; BleepingComputer, 2026-10-09; Check Point Research, 2026-09-07; Sophos Threat Research, 2026-09-02.</summary>
+  </entry>
+  <entry>
+    <id>tag:watchmanhq.com,2026:patch-now:CVE-2026-84869</id>
+    <title>Exploited again: ConnectWise ScreenConnect (CVE-2026-84869)</title>
+    <link rel="alternate" href="https://www.connectwise.com/company/trust/security-bulletins/2026-09-08-screenconnect-bulletin"/>
+    <published>2026-10-06T00:00:00Z</published>
+    <updated>2026-10-13T00:00:00Z</updated>
+    <category term="Remote support or IT management (ConnectWise)"/>
+    <summary>Remote support or IT management (ConnectWise). ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability. ConnectWise ScreenConnect contains both an improper privilege management and missing authorization vulnerability that may allow an attacker to transfer and execute files through an active remote session without authorization or host confirmation. CISA listed it as exploited on 2026-09-11. Install the vendor's update, or its workaround until there is one, then follow the advisory's steps to look for signs of compromise: an update closes the hole, it does not remove an attacker who got in first. If the device gets no more updates (past its end of life), take it off the internet and replace it. Reported by: Recorded Future Insikt Group, 2026-10-13; AhnLab ASEC, 2026-10-06.</summary>
+  </entry>
+  <entry>
+    <id>tag:watchmanhq.com,2026:patch-now:CVE-2026-85102</id>
+    <title>Exploited again: Check Point Multiple Products (CVE-2026-85102)</title>
+    <link rel="alternate" href="https://support.checkpoint.com/results/sk/sk1000117"/>
+    <published>2026-09-28T00:00:00Z</published>
+    <updated>2026-10-13T00:00:00Z</updated>
+    <category term="Firewall, VPN or other appliance (Check Point)"/>
+    <summary>Firewall, VPN or other appliance (Check Point). Check Point Multiple Products Improper Certificate Validation Vulnerability. Check Point Security Gateway and Check Point Spark Firewall using Site to Site VPN or Remote Access VPN contain an improper certificate validation vulnerability which could allow an unauthenticated remote attacker to execute arbitrary code on the Gateway. CISA listed it as exploited on 2026-09-22. Install the vendor's update, or its workaround until there is one, then follow the advisory's steps to look for signs of compromise: an update closes the hole, it does not remove an attacker who got in first. If the device gets no more updates (past its end of life), take it off the internet and replace it. Reported by: Recorded Future Insikt Group, 2026-10-13; AhnLab ASEC, 2026-10-06; Check Point Research, 2026-09-28.</summary>
+  </entry>
+  <entry>
+    <id>tag:watchmanhq.com,2026:patch-now:CVE-2026-86218</id>
+    <title>Exploited again: N-able N-central (CVE-2026-86218)</title>
+    <link rel="alternate" href="https://status.n-able.com/2026/09/06/n-central-2026-3-hotfix-4-cve-2026-86218/"/>
+    <published>2026-10-09T00:00:00Z</published>
+    <updated>2026-10-13T00:00:00Z</updated>
+    <category term="IT management (N-able)"/>
+    <summary>IT management (N-able). N-able N-central Static Code Injection Vulnerability. N-able N-central contains a static code injection vulnerability that could allow for pre-authentication remote code execution. CISA listed it as exploited on 2026-09-08. Install the vendor's update, or its workaround until there is one, then follow the advisory's steps to look for signs of compromise: an update closes the hole, it does not remove an attacker who got in first. If the device gets no more updates (past its end of life), take it off the internet and replace it. Reported by: Recorded Future Insikt Group, 2026-10-13; Rapid7, 2026-10-09.</summary>
+  </entry>
+  <entry>
+    <id>tag:watchmanhq.com,2026:patch-now:CVE-2019-11510</id>
+    <title>Exploited again: Ivanti Pulse Connect Secure (CVE-2019-11510)</title>
+    <link rel="alternate" href="https://nvd.nist.gov/vuln/detail/CVE-2019-11510"/>
+    <published>2026-10-08T00:00:00Z</published>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <category term="VPN or device management (Ivanti)"/>
+    <summary>VPN or device management (Ivanti). Ivanti Pulse Connect Secure Arbitrary File Read Vulnerability. Ivanti Pulse Connect Secure contains an arbitrary file read vulnerability that allows an unauthenticated remote attacker with network access via HTTPS to send a specially crafted URI. CISA listed it as exploited on 2021-11-03, and it is used in ransomware attacks. Install the vendor's update, or its workaround until there is one, then follow the advisory's steps to look for signs of compromise: an update closes the hole, it does not remove an attacker who got in first. If the device gets no more updates (past its end of life), take it off the internet and replace it. Reported by: CISA Cybersecurity Advisories, 2026-10-08; BleepingComputer, 2026-10-08.</summary>
+  </entry>
+</feed>

@@ -1,0 +1,64 @@
+# WatchmanHQ fresh/domains.txt  release 20261120T130832Z
+# Blocking domains and URLs first reported in the last 14 days, none taken down: the newest names, which free filtering resolvers have had the least time to add. Part of blocking: pilot in alert-only mode first.
+# Registered domains. Match the domain AND all of its subdomains.
+# Valid until 2026-11-23 13:08 UTC. Do not enforce after that.
+# 56 entries. Sources for each: https://watchmanhq.com/watch/blocking/
+# Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+# Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+# Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.
+5vobauua3ojpklx.icu
+aauctioneer.com
+aildatasettlment.com
+aistei.com
+arlocareheath.com
+asrelbisaving.com
+aveirwirless.com
+carmaxclaim.com
+cctv-update.top
+cdn007-digitaldownloads.com
+celmodpharmacy.com
+creepexplosiondarknight.com
+dotcompanyinfo.com
+eil786npto9u5bq.icu
+ekmt.tw
+faceorkut.com
+frameworkmetrics.xyz
+fyzadasaving.com
+getpgsoffer.com
+gpimmlgration.com
+greystarbenfits.com
+healthspringproducer.com
+highwayonboarding.net
+hithebeamsweeps.com
+ijornisavings.com
+insulinsavingprogram.com
+internet-speed-check.com
+jamvybez.com
+kmxclaim.com
+masterdarky.com
+mcdonaldmedianetwork.com
+microscoft.vip
+microsfot.vip
+minernewage.com
+myolinhuntsmanbenefit.com
+myolinhuntsmanbenifits.com
+mypgsweep.com
+mywayconect.com
+newblackage.com
+newminersage.com
+ontherockrebate.com
+outagefixed.sbs
+outagerestored.sbs
+paleasbest.top
+sunharbosaving.com
+teams-cloud.live
+teams-livemeeting.com
+termsconditionsrelease.pro
+tradealgotcpassettlement.com
+tradealgotcpsettlement.com
+ukvaluestudy.com
+westlaw-signon.com
+windefender.net
+youmsdbenefits.com
+yourmsdbenefit.com
+yourmsdbenifits.com

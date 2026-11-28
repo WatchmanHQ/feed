@@ -1,0 +1,105 @@
+{
+  "blocking_added": [
+    {
+      "type": "md5",
+      "value": "00fb5037e6a111c55f9d6673a103bf0a"
+    },
+    {
+      "type": "md5",
+      "value": "0121013a2620f58f26cf153da49002df"
+    },
+    {
+      "type": "md5",
+      "value": "0147d60852e8bcb13fe6cf550da5bc7d"
+    },
+    {
+      "type": "md5",
+      "value": "0199e317cbd9346154beab5075da2492"
+    },
+    {
+      "type": "md5",
+      "value": "01a975fd5694f33c845e056860ea17e8"
+    },
+    {
+      "type": "md5",
+      "value": "0258676e0a3ca7eaa2002fbb546c34b8"
+    },
+    {
+      "type": "md5",
+      "value": "04e916be70a41dafc11e5719ee237b13"
+    },
+    {
+      "type": "md5",
+      "value": "0600c2f5b7ec59d2c97f15d39cb0820b"
+    }
+  ],
+  "blocking_removed": [
+    {
+      "type": "domain",
+      "value": "kgbrat.org",
+      "why": "reported as listed ioc; passed every safety check / held back by validation (REVIEW): registration data unavailable: HTTP 404"
+    },
+    {
+      "type": "ip",
+      "value": "13.140.161.91",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "162.33.178.213",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "162.33.179.249",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "167.148.201.106",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "168.100.11.99",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "193.149.176.50",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "193.24.123.162",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "207.180.232.206",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "62.60.131.43",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "62.60.135.64",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "64.94.85.14",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "86.216.147.228",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    }
+  ],
+  "previous_release": "20261119T132801Z",
+  "release": "20261120T130832Z"
+}

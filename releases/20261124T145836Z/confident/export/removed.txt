@@ -1,0 +1,3 @@
+api.frameworkmetrics.xyz
+frameworkmetrics.xyz
+https://api.frameworkmetrics.xyz/v1/swarm/report

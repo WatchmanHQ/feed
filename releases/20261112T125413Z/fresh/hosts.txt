@@ -1,0 +1,30 @@
+# WatchmanHQ fresh/hosts.txt  release 20261112T125413Z
+# Blocking domains and URLs first reported in the last 14 days, none taken down: the newest names, which free filtering resolvers have had the least time to add. Part of blocking: pilot in alert-only mode first.
+# Exact host names. Match this name only, never its parent domain.
+# Valid until 2026-11-15 12:54 UTC. Do not enforce after that.
+# 22 entries. Sources for each: https://watchmanhq.com/watch/blocking/
+# Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+# Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+# Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.
+ad.starx-net.com
+amelicen.com
+api.frameworkmetrics.xyz
+cdn.adv-static.com
+edge-ord.clouds-stacks.com
+jaguar-distributor.logreporter.com
+kkc.vogueatelier.cc
+lb.propertyfind.cc
+media.fastcdn.bar
+netmansrvdns.com
+ns.mo7sen.dev
+patched.to
+reg.baidureg0627.xyz
+sc.payproofkit.com
+tac.vpnla.org
+wekash.net
+www.chestergreenfarming.com
+www.hlushkova.top
+www.rivingtonclarks.com
+www.stanbicfinanceug.com
+www.ylhg250627linecfg.xyz
+yecaoyun.com

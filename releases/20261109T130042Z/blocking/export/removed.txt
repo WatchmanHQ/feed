@@ -1,0 +1,12 @@
+api.studiotikva.com
+cdnjsdelivr.beer
+koromoblog.com
+ns1.studiotikva.com
+ns2.studiotikva.com
+stage-fashion365.vercel.app
+ycz2.41414141303030.m.studiotikva.com
+193.32.204.199
+9d88b4494c7bc27b10358b68a899ad54
+http://sekirolegion.duckdns.org/api/endpoint.php
+https://api.studiotikva.com/ac
+https://stage-fashion365.vercel.app/static/tinymce4.7.5/plugins/fonts/v1104

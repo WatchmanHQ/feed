@@ -1,0 +1,47 @@
+# WatchmanHQ confident list, release 20261128T131335Z. Valid until 2026-12-01 13:13 UTC; refresh daily and stop using it after that.
+# Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+# Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+# Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.
+# A hosts file blocks exact names only, not their subdomains.
+0.0.0.0 assets-int.com
+0.0.0.0 carmaxclaim.com
+0.0.0.0 cdn007-digitaldownloads.com
+0.0.0.0 dobeqnesmot.cc
+0.0.0.0 dotcompanyinfo.com
+0.0.0.0 eil786npto9u5bq.icu
+0.0.0.0 gta6cloud.nexus
+0.0.0.0 guestsisfilesjpmp.com
+0.0.0.0 hjazfioe.surf
+0.0.0.0 internet-speed-check.com
+0.0.0.0 kmxclaim.com
+0.0.0.0 liva-fit.com
+0.0.0.0 masterdarky.com
+0.0.0.0 mcdonaldmedianetwork.com
+0.0.0.0 neihite.cc
+0.0.0.0 paleasbest.top
+0.0.0.0 signalpane.cfd
+0.0.0.0 theowo.club
+0.0.0.0 velmontriq.net
+0.0.0.0 videohostinginsort.net
+0.0.0.0 westlaw-signon.com
+0.0.0.0 wishgrove.cfd
+0.0.0.0 api.o45qhw6g17bwhdy.icu
+0.0.0.0 bore.pub
+0.0.0.0 c2.jndft28.xyz
+0.0.0.0 cdn.adv-static.com
+0.0.0.0 content.document-hub.top
+0.0.0.0 cumminslogistic.kemalradio.com
+0.0.0.0 edge-ord.clouds-stacks.com
+0.0.0.0 federation.aegeneair.com
+0.0.0.0 ftp.vietnam852.com
+0.0.0.0 kkc.vogueatelier.cc
+0.0.0.0 land.jndft28.xyz
+0.0.0.0 lb.propertyfind.cc
+0.0.0.0 mch.jndft28.xyz
+0.0.0.0 nl-backend.cnpcyprus.net
+0.0.0.0 nl-backend.gatewaynet.site
+0.0.0.0 ns.mo7sen.dev
+0.0.0.0 sc.payproofkit.com
+0.0.0.0 scontent.storys.top
+0.0.0.0 www.hlushkova.top
+0.0.0.0 www.litellm.dev

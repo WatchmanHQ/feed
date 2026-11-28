@@ -1,0 +1,4 @@
+http://www.litellm.dev/healthcheck
+https://api.cloudsettle.org/pin-data
+https://aware-cr1.com/api/beacon
+https://kiriosyka.com/KsxmmKiN5N0j/sqr-viewertr6

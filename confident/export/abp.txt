@@ -1,0 +1,47 @@
+! WatchmanHQ confident list, release 20261128T131335Z. Valid until 2026-12-01 13:13 UTC; refresh daily and stop using it after that.
+! Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+! Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+! Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.
+! ||name^ blocks the name and every name below it.
+||assets-int.com^
+||carmaxclaim.com^
+||cdn007-digitaldownloads.com^
+||dobeqnesmot.cc^
+||dotcompanyinfo.com^
+||eil786npto9u5bq.icu^
+||gta6cloud.nexus^
+||guestsisfilesjpmp.com^
+||hjazfioe.surf^
+||internet-speed-check.com^
+||kmxclaim.com^
+||liva-fit.com^
+||masterdarky.com^
+||mcdonaldmedianetwork.com^
+||neihite.cc^
+||paleasbest.top^
+||signalpane.cfd^
+||theowo.club^
+||velmontriq.net^
+||videohostinginsort.net^
+||westlaw-signon.com^
+||wishgrove.cfd^
+||api.o45qhw6g17bwhdy.icu^
+||bore.pub^
+||c2.jndft28.xyz^
+||cdn.adv-static.com^
+||content.document-hub.top^
+||cumminslogistic.kemalradio.com^
+||edge-ord.clouds-stacks.com^
+||federation.aegeneair.com^
+||ftp.vietnam852.com^
+||kkc.vogueatelier.cc^
+||land.jndft28.xyz^
+||lb.propertyfind.cc^
+||mch.jndft28.xyz^
+||nl-backend.cnpcyprus.net^
+||nl-backend.gatewaynet.site^
+||ns.mo7sen.dev^
+||sc.payproofkit.com^
+||scontent.storys.top^
+||www.hlushkova.top^
+||www.litellm.dev^

@@ -1,0 +1,323 @@
+{
+  "blocking_added": [
+    {
+      "type": "domain",
+      "value": "aildatasettlment.com"
+    },
+    {
+      "type": "domain",
+      "value": "alphanoob.com"
+    },
+    {
+      "type": "domain",
+      "value": "arlocareheath.com"
+    },
+    {
+      "type": "domain",
+      "value": "asrelbisaving.com"
+    },
+    {
+      "type": "domain",
+      "value": "aveirwirless.com"
+    },
+    {
+      "type": "domain",
+      "value": "carmaxclaim.com"
+    },
+    {
+      "type": "domain",
+      "value": "celmodpharmacy.com"
+    },
+    {
+      "type": "domain",
+      "value": "fyzadasaving.com"
+    },
+    {
+      "type": "domain",
+      "value": "getpgsoffer.com"
+    },
+    {
+      "type": "domain",
+      "value": "greystarbenfits.com"
+    },
+    {
+      "type": "domain",
+      "value": "healthspringproducer.com"
+    },
+    {
+      "type": "domain",
+      "value": "hithebeamsweeps.com"
+    },
+    {
+      "type": "domain",
+      "value": "ijornisavings.com"
+    },
+    {
+      "type": "domain",
+      "value": "insulinsavingprogram.com"
+    },
+    {
+      "type": "domain",
+      "value": "internet-speed-check.com"
+    },
+    {
+      "type": "domain",
+      "value": "kmxclaim.com"
+    },
+    {
+      "type": "domain",
+      "value": "mcdonaldmedianetwork.com"
+    },
+    {
+      "type": "domain",
+      "value": "minernewage.com"
+    },
+    {
+      "type": "domain",
+      "value": "myolinhuntsmanbenefit.com"
+    },
+    {
+      "type": "domain",
+      "value": "myolinhuntsmanbenifits.com"
+    },
+    {
+      "type": "domain",
+      "value": "mypgsweep.com"
+    },
+    {
+      "type": "domain",
+      "value": "mywayconect.com"
+    },
+    {
+      "type": "domain",
+      "value": "newblackage.com"
+    },
+    {
+      "type": "domain",
+      "value": "newminersage.com"
+    },
+    {
+      "type": "domain",
+      "value": "ontherockrebate.com"
+    },
+    {
+      "type": "domain",
+      "value": "radnewage.com"
+    },
+    {
+      "type": "domain",
+      "value": "sunharbosaving.com"
+    },
+    {
+      "type": "domain",
+      "value": "tradealgotcpassettlement.com"
+    },
+    {
+      "type": "domain",
+      "value": "tradealgotcpsettlement.com"
+    },
+    {
+      "type": "domain",
+      "value": "ukvaluestudy.com"
+    },
+    {
+      "type": "domain",
+      "value": "youmsdbenefits.com"
+    },
+    {
+      "type": "domain",
+      "value": "yourmsdbenefit.com"
+    },
+    {
+      "type": "domain",
+      "value": "yourmsdbenifits.com"
+    },
+    {
+      "type": "ip",
+      "value": "185.241.211.197"
+    },
+    {
+      "type": "md5",
+      "value": "2272dde17925d6179bea6fcf4d543d20"
+    },
+    {
+      "type": "md5",
+      "value": "449c9e8bc6eb308aa3c46c88959e1a4f"
+    },
+    {
+      "type": "md5",
+      "value": "58886d45a0c5e802a5d0a7545c36112d"
+    },
+    {
+      "type": "md5",
+      "value": "cca710c5455c1fe2732771afbac16a09"
+    },
+    {
+      "type": "md5",
+      "value": "d7785198d9341310978e4cedc7bdb735"
+    },
+    {
+      "type": "md5",
+      "value": "dce55eec553f6af16ba6481eaacb8638"
+    }
+  ],
+  "blocking_removed": [
+    {
+      "type": "domain",
+      "value": "cer.septey.shop",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "gizmodo.cc",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "domain",
+      "value": "tech-crunch.org",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "100.38.125.66",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "102.213.132.123",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "102.222.146.45",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "103.181.212.245",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "103.197.249.161",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "103.83.146.100",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "111.92.128.89",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "114.145.49.215",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "120.244.160.182",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "125.62.88.26",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "130.12.182.7",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "144.172.64.60",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "144.172.64.99",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "154.183.158.198",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "154.241.254.9",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "174.60.63.37",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "183.63.88.227",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "195.62.37.119",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "207.48.184.10",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "45.153.212.101",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "46.233.40.20",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "46.236.167.143",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "46.33.33.95",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "49.150.197.119",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "78.190.152.64",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "81.10.79.197",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "82.167.14.7",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    },
+    {
+      "type": "ip",
+      "value": "95.105.74.172",
+      "why": "past its 30-day blocking lifetime, counted from first publication"
+    }
+  ],
+  "previous_release": "20261115T120151Z",
+  "release": "20261116T125410Z"
+}

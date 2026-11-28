@@ -1,0 +1,71 @@
+; WatchmanHQ confident list, release 20261128T131335Z. Valid until 2026-12-01 13:13 UTC; refresh daily and stop using it after that.
+; Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+; Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+; Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.
+$TTL 300
+@ IN SOA localhost. hostmaster.localhost. 1795871615 3600 600 86400 300
+@ IN NS localhost.
+assets-int.com CNAME .
+*.assets-int.com CNAME .
+carmaxclaim.com CNAME .
+*.carmaxclaim.com CNAME .
+cdn007-digitaldownloads.com CNAME .
+*.cdn007-digitaldownloads.com CNAME .
+dobeqnesmot.cc CNAME .
+*.dobeqnesmot.cc CNAME .
+dotcompanyinfo.com CNAME .
+*.dotcompanyinfo.com CNAME .
+eil786npto9u5bq.icu CNAME .
+*.eil786npto9u5bq.icu CNAME .
+gta6cloud.nexus CNAME .
+*.gta6cloud.nexus CNAME .
+guestsisfilesjpmp.com CNAME .
+*.guestsisfilesjpmp.com CNAME .
+hjazfioe.surf CNAME .
+*.hjazfioe.surf CNAME .
+internet-speed-check.com CNAME .
+*.internet-speed-check.com CNAME .
+kmxclaim.com CNAME .
+*.kmxclaim.com CNAME .
+liva-fit.com CNAME .
+*.liva-fit.com CNAME .
+masterdarky.com CNAME .
+*.masterdarky.com CNAME .
+mcdonaldmedianetwork.com CNAME .
+*.mcdonaldmedianetwork.com CNAME .
+neihite.cc CNAME .
+*.neihite.cc CNAME .
+paleasbest.top CNAME .
+*.paleasbest.top CNAME .
+signalpane.cfd CNAME .
+*.signalpane.cfd CNAME .
+theowo.club CNAME .
+*.theowo.club CNAME .
+velmontriq.net CNAME .
+*.velmontriq.net CNAME .
+videohostinginsort.net CNAME .
+*.videohostinginsort.net CNAME .
+westlaw-signon.com CNAME .
+*.westlaw-signon.com CNAME .
+wishgrove.cfd CNAME .
+*.wishgrove.cfd CNAME .
+api.o45qhw6g17bwhdy.icu CNAME .
+bore.pub CNAME .
+c2.jndft28.xyz CNAME .
+cdn.adv-static.com CNAME .
+content.document-hub.top CNAME .
+cumminslogistic.kemalradio.com CNAME .
+edge-ord.clouds-stacks.com CNAME .
+federation.aegeneair.com CNAME .
+ftp.vietnam852.com CNAME .
+kkc.vogueatelier.cc CNAME .
+land.jndft28.xyz CNAME .
+lb.propertyfind.cc CNAME .
+mch.jndft28.xyz CNAME .
+nl-backend.cnpcyprus.net CNAME .
+nl-backend.gatewaynet.site CNAME .
+ns.mo7sen.dev CNAME .
+sc.payproofkit.com CNAME .
+scontent.storys.top CNAME .
+www.hlushkova.top CNAME .
+www.litellm.dev CNAME .

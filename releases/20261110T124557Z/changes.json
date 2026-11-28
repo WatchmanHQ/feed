@@ -1,0 +1,261 @@
+{
+  "blocking_added": [
+    {
+      "type": "domain",
+      "value": "api.frameworkmetrics.xyz"
+    },
+    {
+      "type": "domain",
+      "value": "creepexplosiondarknight.com"
+    },
+    {
+      "type": "domain",
+      "value": "frameworkmetrics.xyz"
+    },
+    {
+      "type": "domain",
+      "value": "reg.baidureg0627.xyz"
+    },
+    {
+      "type": "domain",
+      "value": "tac.vpnla.org"
+    },
+    {
+      "type": "domain",
+      "value": "www.hlushkova.top"
+    },
+    {
+      "type": "domain",
+      "value": "www.stanbicfinanceug.com"
+    },
+    {
+      "type": "domain",
+      "value": "www.ylhg250627linecfg.xyz"
+    },
+    {
+      "type": "domain",
+      "value": "xshaon123.sbs"
+    },
+    {
+      "type": "domain",
+      "value": "yecaoyun.com"
+    },
+    {
+      "type": "ip",
+      "value": "104.243.43.115"
+    },
+    {
+      "type": "ip",
+      "value": "107.189.16.215"
+    },
+    {
+      "type": "ip",
+      "value": "107.189.27.223"
+    },
+    {
+      "type": "ip",
+      "value": "107.189.27.46"
+    },
+    {
+      "type": "ip",
+      "value": "178.16.54.222"
+    },
+    {
+      "type": "ip",
+      "value": "193.57.9.155"
+    },
+    {
+      "type": "ip",
+      "value": "193.57.9.17"
+    },
+    {
+      "type": "ip",
+      "value": "91.108.240.156"
+    },
+    {
+      "type": "md5",
+      "value": "07043828c4e2c55eaf2be9e6cb7205cc"
+    },
+    {
+      "type": "md5",
+      "value": "1b755d215b43b8e7da25a80386493568"
+    },
+    {
+      "type": "md5",
+      "value": "208143f41c1d6148842b7ed5d817f122"
+    },
+    {
+      "type": "md5",
+      "value": "2df09294da360fffd01142f29b17c6cd"
+    },
+    {
+      "type": "md5",
+      "value": "310161c45b193e923c8c99e0c21a2a0c"
+    },
+    {
+      "type": "md5",
+      "value": "38d0eff2318a20a88175704af57d1bc4"
+    },
+    {
+      "type": "md5",
+      "value": "3b44593c393edff904c99fbdea0ea90c"
+    },
+    {
+      "type": "md5",
+      "value": "4126a061ddda3f433da5def0a7c79955"
+    },
+    {
+      "type": "md5",
+      "value": "7d33dc36088a8c20ee109f33d01d63c7"
+    },
+    {
+      "type": "md5",
+      "value": "7dd5c4a904893cad2b757205dc224014"
+    },
+    {
+      "type": "md5",
+      "value": "7de8cd835a7f6400bbb01d8b78bfc811"
+    },
+    {
+      "type": "md5",
+      "value": "82e58ea5839581846e19be5d0c414436"
+    },
+    {
+      "type": "md5",
+      "value": "acbe51127a7e4a3b8f7cde6e857b5e4d"
+    },
+    {
+      "type": "md5",
+      "value": "c048c97c8160fb2df89e217d475c50b4"
+    },
+    {
+      "type": "md5",
+      "value": "d5f0289bf84876023eb6ccdc92ddb05a"
+    },
+    {
+      "type": "md5",
+      "value": "d650dd0fc643fadabe5f41b94c7826d5"
+    },
+    {
+      "type": "md5",
+      "value": "db64a245782d2d619d10eae73ef0f196"
+    },
+    {
+      "type": "md5",
+      "value": "ee808b1dac987d19b1b864f18538116f"
+    },
+    {
+      "type": "md5",
+      "value": "f08fc3eea3db76e7ba45cda42de5cafa"
+    },
+    {
+      "type": "md5",
+      "value": "f4f9b5b4836090e26a6ec717b26db7c8"
+    },
+    {
+      "type": "sha256",
+      "value": "6953618238eb40f45b584e52aca22cebbe8ba03e9a80c15c6b593f51f7e49527"
+    },
+    {
+      "type": "sha256",
+      "value": "6c695baad1d81ed49194d07a79381292c0466208ff1a9862c0c55f971d6a409f"
+    },
+    {
+      "type": "sha256",
+      "value": "6c7a4061bcf08df5fe4a49d37442dc650d751be1a91a8bc802edff213e4d5e61"
+    },
+    {
+      "type": "sha256",
+      "value": "6f6b66cbdc4a5aa5685d0017abd3f65843a28bcc2bb4e5b78d6d12a844a51aa8"
+    },
+    {
+      "type": "sha256",
+      "value": "818bb464271a539c96bcbbfea1db7d5a722512041ed8ed10d3f6c7f366190044"
+    },
+    {
+      "type": "sha256",
+      "value": "875d0986ddaa51bfb5e03b06df1213cc3bb7966588d6153bdda57f2e3671e986"
+    },
+    {
+      "type": "sha256",
+      "value": "8aac187bae71f75fa2dde03dcb4a9279c982182ee8254ae96e7a6626fe4c7617"
+    },
+    {
+      "type": "sha256",
+      "value": "91b3cc9d6421b651ec85a16062af3ba26700dad2eea4a8a7e42fdd2e422f8803"
+    },
+    {
+      "type": "sha256",
+      "value": "a87002c32723f1849b3ad17b1fe6da732c9810b54b08501be21f5b1fcd882a59"
+    },
+    {
+      "type": "sha256",
+      "value": "bb2472cf5dc7e5c94216d355bf84fba2c8d088d03d61a1ac0d78639049cf5e1f"
+    },
+    {
+      "type": "sha256",
+      "value": "ca5f8e5247f1a044b8be45ef03187726b9af3ac30fd93fb5bb54144e34ed3738"
+    },
+    {
+      "type": "sha256",
+      "value": "e6e576a634166a16bdbfc09b14e7cf8eab90015d2dfa67dd73f3968ee869229b"
+    },
+    {
+      "type": "sha256",
+      "value": "e79c91e8157fef862be8cbe80bdf57b87a541416717265f81f669d751fca4a3d"
+    },
+    {
+      "type": "sha256",
+      "value": "ee2f762e9ed3fd89f106e0b80c2e923bf1aed9a280277d3d998a5902c4d9ec0f"
+    },
+    {
+      "type": "sha256",
+      "value": "f76dae028e0c43248c128b3bf609e8d660ce0bf44b53ab9e097887e6f5206eb5"
+    },
+    {
+      "type": "sha256",
+      "value": "f81315968e679b48f6bdff1c9b928bb223230d07f44d7948412c2250c2a14deb"
+    },
+    {
+      "type": "url",
+      "value": "http://107.189.27.46:3000/app.js"
+    },
+    {
+      "type": "url",
+      "value": "http://91.108.240.156:3000/app.js"
+    },
+    {
+      "type": "url",
+      "value": "http://www.hlushkova.top/ef5f/"
+    },
+    {
+      "type": "url",
+      "value": "http://www.stanbicfinanceug.com/9wgi/"
+    },
+    {
+      "type": "url",
+      "value": "https://api.frameworkmetrics.xyz/v1/analytics"
+    },
+    {
+      "type": "url",
+      "value": "https://api.frameworkmetrics.xyz/v1/electron"
+    },
+    {
+      "type": "url",
+      "value": "https://api.frameworkmetrics.xyz/v1/swarm/report"
+    },
+    {
+      "type": "url",
+      "value": "https://creepexplosiondarknight.com/d"
+    }
+  ],
+  "blocking_removed": [
+    {
+      "type": "domain",
+      "value": "uxtramine.org",
+      "why": "past its 90-day blocking lifetime, counted from first publication"
+    }
+  ],
+  "previous_release": "20261109T130042Z",
+  "release": "20261110T124557Z"
+}

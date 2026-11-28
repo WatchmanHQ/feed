@@ -1,0 +1,15 @@
+# WatchmanHQ fresh/urls.txt  release 20261128T131335Z
+# Blocking domains and URLs first reported in the last 14 days, none taken down: the newest names, which free filtering resolvers have had the least time to add. Part of blocking: pilot in alert-only mode first.
+# Full URLs. Match exactly.
+# Valid until 2026-12-01 13:13 UTC. Do not enforce after that.
+# 7 entries. Sources for each: https://watchmanhq.com/watch/blocking/
+# Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+# Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+# Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.
+http://151.244.30.176/194ff485-5d31-4a51-912e-b138e98ff750
+http://151.244.30.176:80/505a3c0c-3cf2-4f5d-83b7-f6637ca3209f
+http://185.106.102.70:8080/HK5PpjU6I9ug0zmNZqAFdIPa9wayXl2RZ
+http://84.200.205.145:55557/junk50k.bin
+https://eil786npto9u5bq.icu/JIUJIU888/weifile.html
+https://gta6cloud.nexus/downloads/GTA6Cloud.zip
+https://masterdarky.com/WindowsUpdate.msi

@@ -1,0 +1,94 @@
+# WatchmanHQ compromise-check/hosts.txt  release 20261127T135854Z
+# Already suspended or sinkholed, so blocking them does little. Search your DNS and proxy logs from the last 30 to 90 days: a device that looked one up is probably infected. NEVER use this as a block list.
+# Exact host names. Match this name only, never its parent domain.
+# Valid until 2026-11-30 13:58 UTC. Do not enforce after that.
+# 86 entries. Sources for each: https://watchmanhq.com/watch/compromise-check/
+# Published by WatchmanHQ (https://watchmanhq.com). Free, best effort, provided as is, with no warranty of any kind.
+# Check every entry against your own traffic before you block it. Terms: https://watchmanhq.com/terms/
+# Wrong entry? https://watchmanhq.com/false-positives/ . License: CC BY 4.0; credit WatchmanHQ when you share it.
+0350pvas.acs-wcst.com
+1355bcra.ck29material.com
+1717emxr.acs-wcst.com
+6662nyde.acs-wcst.com
+7301eqny.acs-wcst.com
+accounts-cgi.lvborses.net
+acfpdorg.securemailencryptit.com
+adamscountycogov.securemailencryptit.com
+alsum.cfhlsmgs.com
+analytics.insightjs.com
+anyevonline.com
+api.frameworkmetrics.xyz
+app.shuchipharmacy.com
+aussenwirtschaftsrecht.innovizeltd.net
+automotiveinsight.cfhlsmgs.com
+avi.liveoakfarmsllc.net
+avisford.cfhlsmgs.com
+cgi-avi.liveoakfarmsllc.net
+cgi-oi.liveoakfarmsllc.net
+cgi-oz.lvborses.net
+cgi-p3.liveoakfarmsllc.net
+cgi-p3.lvborses.net
+cgi-secure.liveoakfarmsllc.net
+cloud.g-drive.cam
+company-name.integratedsso.com
+company-name.secure-passkey.com
+config.hubdisplay.lol
+connect.tanksuggestion.xyz
+copilots.outlook.cloud.microsoft.andersonelevators.com
+cwcglobal.cfhlsmgs.com
+dc.cathaypacifice.com
+docshare.auth.copilot.outlook.onedrive.common.evergreenerg.com
+docshare.auth.copilot.outlook.onedrive.common0.evergreenerg.com
+docshare.kecifang.net
+docusign.kecifang.net
+eccentric-authentication.com
+elad-ox.lvborses.net
+elec.innovizeltd.net
+fc.rsqqq.top
+file.anyevonline.com
+gardnerimmigrationlaw.securemailencryptit.com
+goshensorg.securemailencryptit.com
+harasin-ox.lvborses.net
+health.journal-metric.lol
+ifsafrica.innovizeltd.net
+irp18.cfhlsmgs.com
+jza.innovizeltd.net
+kffd3.vexlatech.cc
+khoury-cgi.lvborses.net
+la-csi.cfhlsmgs.com
+lawyer.cuztools.com
+lightpass.cfhlsmgs.com
+litibubayclub.cfhlsmgs.com
+mail.authorized-logins.net
+meshcentral.girydsfsggvb.com
+microsoftforms.securemailencryptit.com
+moments-notice.com
+mqtt.anyevonline.com
+myfavoriteprintercom.securemailencryptit.com
+netdocusign.kecifang.net
+oi-ai.liveoakfarmsllc.net
+otp-oi.liveoakfarmsllc.net
+php.authorized-logins.net
+protegecasual.innovizeltd.net
+relay.pronconetydesire.online
+secure-docs.liveoakfarmsllc.net
+secure-docs.lvborses.net
+sheratonelkgrove.cfhlsmgs.com
+sss.authorized-logins.net
+st.onlinefc.top
+static.ariesglobalsoft.com
+static.flux-telemetry.com
+static.trythecrowdmakers.com
+stratforddevelopment.innovizeltd.net
+tcp.niceports.shop
+tgfautomotive.kecifang.net
+trxid048637.haoekang.com
+www.icppuser.online
+www.icuser.online
+www.protectcc.online
+www.sacofficegov.com
+www.secureici.online
+www.servicecpp.com
+www.serviceic.com
+yam-cgi.lvborses.net
+yellowhub.innovizeltd.net
